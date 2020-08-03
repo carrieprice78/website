@@ -1,19 +1,20 @@
 ---
-title: Resources
-linktitle: Resources
+title: COVID-19 State, Local, and National Resources
+linktitle: COVID-19 State, Local, and National Resources
 toc: true
 type: docs
 draft: false
 menu:
   covid-19:
     #parent: Topics
-    weight: 3
+    weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 1
 ---
 
-## General
+## General Resources
+
 * [Access Medicine COVID-19 Central](https://www.accessmedicinenetwork.com/channels/2610)
 * [American Medical Association COVID-19 Guidance](https://www.ama-assn.org/delivering-care/public-health/covid-19-2019-novel-coronavirus-resource-center-physicians)
 * [Cochrane COVID-19 Evidence Relevant to Critical Care](https://www.cochranelibrary.com/collections/doi/SC000039/full)
@@ -44,4 +45,10 @@ See also:
 * [OutbreakSci PreReview](https://outbreaksci.prereview.org/)
 
 Use the [Unpaywall Browser Extension](https://unpaywall.org/products/extension) to access open versions of research.
+
+
+
+
+
+
 

@@ -1,8 +1,8 @@
 ---
 # Course title, summary, and position.
 linktitle: Systematic Reviews
-summary: Learn how to ...
-weight: 1
+summary: A collection of resources for authors and researchers planning to embark on a systematic review but not sure how to start.
+#weight: 1
 
 # Page metadata.
 title: Systematic Reviews
@@ -17,7 +17,7 @@ date: 2020-08-03
 menu:
   systematic-reviews:
     name: Systematic Reviews
-    weight: 1
+    #weight: 1
 ---
 
-TODO CONTENT HERE
+A collection of resources for authors and researchers planning to embark on a systematic review but not sure how to start.
