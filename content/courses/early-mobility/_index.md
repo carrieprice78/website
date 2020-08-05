@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Early Mobility Research
-summary: A collection of resources for clinicians and researchers working in the field of early mobility in the critically ill.
+linktitle: Rehabilitation Research
+summary: Resources for clinicians and researchers working in rehabilitation research.
 #weight: 1
 
 # Page metadata.
-title: Early Mobility in the Criticall Ill
+title: Rehabilitation Research
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -16,8 +16,11 @@ date: 2020-08-03
 # - weight: Position of link in menu.
 menu:
   early-mobility:
-    name: Early Mobility in the Criticall Ill
-    #weight: 1
+    name: Rehabilitation Research
+    weight: 1
 ---
 
-A collection of resources for clinicians and researchers working in the field of early mobility in the critically ill.
+Resources for clinicians working in rehabilitation research. Categories include:
+* Early Mobility Publication Trends
+* Early Mobility Search Documentation
+* Research Resources

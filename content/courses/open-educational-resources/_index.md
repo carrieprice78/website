@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: COVID-19
-summary: Resources for obtaining the most current and factual information about the current pandemic.
+linktitle: Open Educational Resources
+summary: Open educational resources for higher education.
 #weight: 1
 
 # Page metadata.
-title: COVID-19
+title: Open Educational Resources
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -14,9 +14,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  covid-19:
-    name: COVID-19
-    #weight: 1
+  open-educational-resources:
+    name: Open Educational Resources
+    weight: 1
 ---
 
-Resources for obtaining the most current and factual information about the current pandemic.
+Open educational resources for higher education.

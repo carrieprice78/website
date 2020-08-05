@@ -7,10 +7,10 @@ draft: false
 menu:
   systematic-reviews:
     #parent: Topics
-    weight: 4
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 2
 ---
 
 ## [Cochrane Collaboration](https://www.cochrane.org/)

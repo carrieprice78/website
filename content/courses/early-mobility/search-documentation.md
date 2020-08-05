@@ -1,17 +1,18 @@
 ---
-title: Early Mobility Publication Trends and Search Documentation
-linktitle: Early Mobility Publication Trends and Search Documentation
+title: Early Mobility Search Documentation
+linktitle:  Early Mobility Search Documentation
 toc: true
 type: docs
 draft: false
 menu:
   early-mobility:
     #parent: Topics
-    *weight: 1
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-*weight: 1
+weight: 2
 ---
+Please note that these searches are incredibly specific and precise, and are not meant to be used to support any comprehensive or expert reviews. The goal of these searches is to find highly topical and relevant literature without a lot of noise.
 
 ## PubMed Search
 

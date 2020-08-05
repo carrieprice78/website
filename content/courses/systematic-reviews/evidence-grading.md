@@ -7,10 +7,10 @@ draft: false
 menu:
   systematic-reviews:
     #parent: Topics
-    weight: 2
+    weight: 5
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 5
 ---
 ## Checklists and Frameworks
 * [CASP Checklists](https://casp-uk.net/casp-tools-checklists/): This set of eight critical appraisal tools are designed to be used when reading research, these include tools for Systematic Reviews, Randomised Controlled Trials, Cohort Studies, Case Control Studies, Economic Evaluations, Diagnostic Studies, Qualitative studies and Clinical Prediction Rule.

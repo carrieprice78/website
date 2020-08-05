@@ -1,6 +1,6 @@
 ---
-title: Screening Tools
-linktitle: Screening Tools
+title: Open Educational Resources
+linktitle: Open Educational Resources
 toc: true
 type: docs
 draft: false
@@ -10,7 +10,7 @@ menu:
     weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 4
 ---
 
 
@@ -24,4 +24,4 @@ weight: 1
 * [Systematic Review Facility](http://syrf.org.uk/)
 
 
-Some tools are open source and some are fee-based. Be sure to check out the [Systematic Review Toolbox](http://systematicreviewtools.com/index.php). 
+Some tools are open source and some are fee-based. Be sure to check out the [Systematic Review Toolbox](http://systematicreviewtools.com/index.php) for other tool suggestions. 
