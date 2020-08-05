@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Open Educational Resources
 summary: Open educational resources for higher education.
-#weight: 1
+weight: 4
 
 # Page metadata.
 title: Open Educational Resources

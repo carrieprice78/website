@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: COVID-19
 summary: Resources for obtaining the most current and factual information about the current pandemic.
-#weight: 1
+weight: 1
 
 # Page metadata.
 title: COVID-19
@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 menu:
   covid-19:
     name: COVID-19
-    #weight: 1
+    weight: 1
 ---
 
 Resources for obtaining the most current and factual information about the current pandemic.

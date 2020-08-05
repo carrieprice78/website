@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Rehabilitation Research
+linktitle: Rehabilitation and Early Mobility Research
 summary: Resources for clinicians and researchers working in rehabilitation research.
-#weight: 1
+weight: 5
 
 # Page metadata.
-title: Rehabilitation Research
+title: Rehabilitation and Early Mobility Research
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -16,7 +16,7 @@ date: 2020-08-03
 # - weight: Position of link in menu.
 menu:
   early-mobility:
-    name: Rehabilitation Research
+    name: Rehabilitation and Early Mobility Research
     weight: 1
 ---
 

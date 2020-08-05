@@ -52,6 +52,7 @@ weight: 3
 * [Johns Hopkins Medical Archives](https://www.flickr.com/photos/medical_archives/albums)
 * [The Alan Mason Chesney Medical Archives: Moving Image and Sound Collections](https://medicalarchives.jhmi.edu:8443/movingimages.html)
 * [The Osler Library Prints Collection at McGill University Library](digital.library.mcgill.ca/oslerprints/browse.php?p=9)
+* [The Science Museum (UK)](https://collection.sciencemuseumgroup.org.uk/search/categories/therapeutics)
 
 ## Public Health
 
