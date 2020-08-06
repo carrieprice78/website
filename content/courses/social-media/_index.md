@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Systematic Reviews
-summary: Resources for authors and researchers planning to do a systematic review.
-weight: 8
+linktitle: Social Media for Higher Education
+summary: Resources for using Twitter in higher education.
+weight: 7
 
 # Page metadata.
-title: Systematic Reviews
+title: Social Media for Higher Education
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -15,9 +15,8 @@ date: 2020-08-03
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  systematic-reviews:
-    name: Systematic Reviews
-    #weight: 1
+  social-media:
+    name: Social Media for Higher Education
+    weight: 1
 ---
 
-Resources for authors and researchers planning to do a systematic review.

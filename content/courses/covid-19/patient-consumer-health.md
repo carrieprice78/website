@@ -24,7 +24,9 @@ weight: 3
 * [EPA Disinfectant List](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2)
 * [Johns Hopkins Bloomberg School of Public Health Expert Reality Check](https://www.globalhealthnow.org/2020-02/coronavirus-expert-reality-check)
 * [Johns Hopkins Medicine: Facts from Medical Experts](https://www.hopkinsmedicine.org/coronavirus)
+* [Johns Hopkins Health Library](https://www.hopkinsmedicine.org/health/)
 * [Medline Plus Coronavirus Infections](https://medlineplus.gov/coronavirusinfections.html)
+* [National Insitutes of Health: Health Information](https://www.nih.gov/health-information)
 * [NEJM Hand Hygiene Video](https://www.who.int/gpsc/5may/hand_hygiene_video/en/)
 * [Operational Toolkit for Businesses Reopening or Expanding Operations in COVID-19](https://www.centerforhealthsecurity.org/our-work/publications/operational-toolkit-for-businesses-considering-reopening-or-expanding-operations-in-covid-19)
 

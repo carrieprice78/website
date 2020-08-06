@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Searching for Evidence with the ABCDE Framework
-summary: A research inquiry framework to approach literature searching in an effective and reproducible manner.
+summary: A research inquiry framework for effective and reproducible literature searching.
 weight: 7
 
 # Page metadata.
@@ -22,4 +22,4 @@ menu:
 
 Searching for evidence in a bibliographic literature database is a balance of trial and error, intuition, and practice. If you take the time to start off right, keep an open mind, and follow the appropriate steps, you're bound to find success. Use the ABCDE Research Inquiry Framework (Price, et al., 2020) to approach literature searching in an effective and reproducible manner. 
 
-* Price, C., Kudchadkar, S. R., Basyal, P. S., Nelliot, A., Smith, M., Friedman, M., & Needham, D. M. (2020). Librarian integration into health care conferences: a case report. *Journal of the Medical Library Association: JMLA, 108*(2), 278.
+> Price, C., Kudchadkar, S. R., Basyal, P. S., Nelliot, A., Smith, M., Friedman, M., & Needham, D. M. (2020). Librarian integration into health care conferences: a case report. *Journal of the Medical Library Association: JMLA, 108*(2), 278. [https://dx.doi.org/10.5195%2Fjmla.2020.803](https://dx.doi.org/10.5195%2Fjmla.2020.803)

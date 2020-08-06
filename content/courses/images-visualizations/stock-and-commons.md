@@ -34,3 +34,13 @@ weight: 2
 * [Google Images](https://images.google.com/)
 * [TinEye](https://www.tineye.com/)
 * [Yahoo Images](http://images.yahoo.com/)
+
+## Icon Collections
+
+Some icon collections are open source while some may have pricing plans.
+
+* [Core UI Icons](https://coreui.io/icons/)
+* [flaticon](https://www.flaticon.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [Icons 8](https://icons8.com/icons/)
+* [WebFont Medical Icons by Hablamos Juntos](https://samcome.github.io/webfont-medical-icons/)
