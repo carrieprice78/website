@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Searching for Evidence with the ABCDE Framework
 summary: A research inquiry framework to approach literature searching in an effective and reproducible manner.
-weight: 6
+weight: 7
 
 # Page metadata.
 title: Searching for Evidence with ABCDE

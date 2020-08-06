@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Systematic Reviews
 summary: Resources for authors and researchers planning to embark on a systematic review but not sure how to start.
-weight: 7
+weight: 8
 
 # Page metadata.
 title: Systematic Reviews

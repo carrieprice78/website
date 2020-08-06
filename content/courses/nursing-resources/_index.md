@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Images and Visualizations
-summary: Resources for images and visualization tools.
-weight: 2
+linktitle: Nursing Resources
+summary: Resources for nursing students and clinical nurses.
+weight: 3
 
 # Page metadata.
-title: Images and Visualizations
+title: Nursing Resources
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -15,12 +15,12 @@ date: 2020-08-03
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  images-visualizations:
-    name: Images and Visualizations
+  nursing-resources:
+    name: Nursing Resources
     weight: 1
 ---
 
-Resources for images and visualization tools.
+A collection for anyone seeking images and visualization resources and tools.
 
 ## Online Citation Resources
 

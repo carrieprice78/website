@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Open Access
 summary: Resources for authors.
-weight: 3
+weight: 4
 
 # Page metadata.
 title: Open Access

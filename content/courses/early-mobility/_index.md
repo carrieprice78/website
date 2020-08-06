@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Rehabilitation and Early Mobility Research
 summary: Resources for clinicians and researchers working in rehabilitation research.
-weight: 5
+weight: 2
 
 # Page metadata.
 title: Rehabilitation and Early Mobility Research

@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Search Filters
 summary: Resources for medical and health sciences information professionals building bibliographic literature database searches.
-weight: 7
+weight: 6
 
 # Page metadata.
 title: Search Filters
