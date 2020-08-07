@@ -20,3 +20,5 @@ menu:
 ---
 
 Resources for obtaining the most current and factual information about the current pandemic.
+
+<sub>Some of the content of this guide is attributable to the Welch Medical Library COVID-19 Resource Guide at Johns Hopkins University.</sub>

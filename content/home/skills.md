@@ -18,19 +18,21 @@ subtitle = ""
   icon = "search"
   icon_pack = "fas"
   name = "Expert Searching"
-  description = "Expert Bibliographic Literature Searching"
-  
-[[feature]]
-  icon = "hashtag"
-  icon_pack = "fas"
-  name = "Social Media"
-  description = "Social Media Ambassador"  
+  description = ""
   
 [[feature]]
   icon = "file-alt"
   icon_pack = "fas"
   name = "Information Organization"
-  description = "Desktop Publishing, Citation Management, and More"
+  description = ""
+
+  [[feature]]
+  icon = "hashtag"
+  icon_pack = "fas"
+  name = "Social Media"
+  description = "" 
+
+ 
 
 # Uncomment to use emoji icons.
 # [[feature]]

@@ -19,7 +19,7 @@ weight: 3
 
 * [Classes and Webinars from NLM/NNLM](https://nnlm.gov/classes)
 * [Clinical Terminology for International and U.S. Students from Coursera](https://www.coursera.org/learn/clinical-terminology)
-* [Consumer Health Informatoin Specialization through MLA/NNLM](https://www.mlanet.org/page/chis)
+* [Consumer Health Information Specialization through MLA/NNLM](https://www.mlanet.org/page/chis)
 * [Design and Interpretation of Clinical Trials from Coursera](https://www.coursera.org/learn/clinical-trials)
 * [Evidence-Based Practice for the Medical Librarian from the School of Information and Library Science at UNC](https://sils.unc.edu/programs/ebm)
 * [Evidence-Based Practice for Medical Librarians from Strauss Health Sciences Library at U Colorado](https://library-cuanschutz.libguides.com/friendly.php?s=ebpml)

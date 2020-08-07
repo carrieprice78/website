@@ -34,7 +34,7 @@ These tools are a mix of data visualization and image editing tools. Some are op
 * [Tableau Public](https://public.tableau.com/en-us/s/) use for Data Visualization
 * [Vecteezy Editor](https://www.vecteezy.com/editor) use for Image Editing, Vector Graphics
 * [Vectr](https://vectr.com/) use for Image Editing, Vector Graphics
-* [VOSviewer](http://www.vosviewer.com/ use for Network Analysis of Scholarly Datasets
+* [VOSviewer](http://www.vosviewer.com/) use for Network Analysis of Scholarly Datasets
 
 
 

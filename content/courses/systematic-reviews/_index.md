@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Systematic Reviews
 summary: Resources for authors and researchers planning to do a systematic review.
-weight: 8
+weight: 100
 
 # Page metadata.
 title: Systematic Reviews
@@ -21,3 +21,5 @@ menu:
 ---
 
 Resources for authors and researchers planning to do a systematic review.
+
+<sub>Some of the content of this guide is attributable to the Welch Medical Library Systematic Review Guide at Johns Hopkins University.</sub>

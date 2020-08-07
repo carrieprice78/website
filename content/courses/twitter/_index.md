@@ -1,20 +1,24 @@
 ---
-title: Twitter for Academia
-linktitle:  Twitter for Academia
-toc: true
-type: docs
-draft: false
+# Course title, summary, and position.
+linktitle: Twitter for Higher Education
+summary: Resources for using Twitter in higher education.
+weight: 110
+
+# Page metadata.
+title: Twitter for Higher Education
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+date: 2020-08-03
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
 menu:
-  social-media:
-    #parent: Topics
-    weight: 2
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+  twitter:
+    name: Twitter for Higher Education
+    weight: 1
 ---
-
-
-
 ## Why Twitter?
 
 ### Information Dissemination and Networking
@@ -89,3 +93,5 @@ Live-tweeting events and conferences can allow for engagement beyond the attende
 * Pemmaraju, N., Mesa, R. A., Majhail, N. S., & Thompson, M. A. (2017). The use and impact of Twitter at medical conferences: best practices and Twitter etiquette. Seminars in Hematology, 54(4), 184-188. [https://doi.org/10.1053/j.seminhematol.2017.08.003](https://doi.org/10.1053/j.seminhematol.2017.08.003)
 * Van Noorden, R. (2014). Online collaboration: Scientists and the social network. Nature news, 512(7513), 126.[https://www.nature.com/news/online-collaboration-scientists-and-the-social-network-1.15711](https://www.nature.com/news/online-collaboration-scientists-and-the-social-network-1.15711)
 * Ventola C. L. (2014). Social media and health care professionals: benefits, risks, and best practices. P & T: a peer-reviewed Journal for Formulary Management, 39(7), 491–520. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103576/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103576/)
+
+<sub>The content of this guide was originally created by me for the Welch Medical Library Research Guides at Johns Hopkins University.</sub>

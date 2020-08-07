@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Rehabilitation and Early Mobility Research
 summary: Resources for clinicians and researchers working in rehabilitation research.
-weight: 2
+weight: 75
 
 # Page metadata.
 title: Rehabilitation and Early Mobility Research
@@ -24,3 +24,6 @@ Resources for clinicians working in rehabilitation research. Categories include:
 * Early Mobility Publication Trends
 * Early Mobility Search Documentation
 * Research Resources
+
+
+<sub>The content of this guide was originally created by me for the Welch Medical Library PM&R and Early Mobility Research Guides at Johns Hopkins University.</sub>

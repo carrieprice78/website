@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Search Filters
 summary: Resources for medical and health sciences information professionals building bibliographic literature database searches.
-weight: 6
+weight: 80
 
 # Page metadata.
 title: Search Filters
@@ -33,3 +33,6 @@ Please note that none of the posted filters have been validated.
 ## Search Translating Tools
 * [MEDLINE Transpose](https://medlinetranspose.github.io/): MEDLINE Transpose was developed to mitigate a common problem among information specialists: converting search syntax between PubMed and Ovid MEDLINE interfaces.
 * [Polyglot Search via SR Accelerator](http://sr-accelerator.com/#/polyglot): The IEBH SR-Accelerator is a suite of tools to speed up steps in the Systematic Review (SR) process. It is freely available for anyone in the world to use. Simply register below with your name and email address. The SRA is a modular design which means the tools can be incorporated into existing SR workflows and combined with other automation tools.
+
+
+<sub>The content of this guide was originally created by me for the Welch Medical Library Search Filters Internal Guide at Johns Hopkins University.</sub>

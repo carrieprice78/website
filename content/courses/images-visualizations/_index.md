@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Images and Visualizations
 summary: Resources for images and visualization tools.
-weight: 2
+weight: 40
 
 # Page metadata.
 title: Images and Visualizations
@@ -32,3 +32,6 @@ Resources for images and visualization tools.
 ## Online Attribution Builder
 
 * [Open Washington](http://www.openwa.org/)
+
+
+<sub>The content of this guide was originally created by myself and my colleague, Simon Robins, for the Welch Medical Library Finding Images  Research Guide at Johns Hopkins University.</sub>

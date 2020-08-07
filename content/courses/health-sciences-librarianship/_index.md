@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Health Sciences Librarianship
 summary: Resources for aspiring or current health sciences librarians.
-weight: 2
+weight: 30
 
 # Page metadata.
 title: Health Sciences Librarianship
@@ -20,4 +20,4 @@ menu:
     weight: 1
 ---
 
-I've been a clinical medical librarian and health sciences librarian since 2012. It's a profession of lifelong learning. In this guide, I'll list some resources that have helped me find my feet along the way, as well as some that look useful that I haven't had a chance to explore further.
+I have been a clinical medical librarian and health sciences librarian since 2012. It's a profession of lifelong learning. In this guide, I'll list some resources that have helped me find my feet along the way, as well as some that look useful that I haven't had a chance to explore further.
