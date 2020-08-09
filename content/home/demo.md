@@ -53,6 +53,8 @@ subtitle = ""
 
 I am a health sciences librarian and expert searcher with a strong interest in user-centered and instructional design, evidence-based medicine, and interprofessional education. Please see the [Guides](/courses/) section of this site for various guides on health sciences librarianship, expert searching, open educational resources, nursing, systematic reviews, and more.
 
+You are welcome to contact me to find out more about my services of literature review expert searching, database instruction, desktop publishing, and social media outreach using the form at the bottom of this page.
+
 
 
 <sub>Photo by [Nick Fewings on Unsplash](https://unsplash.com/photos/XXBgxhS_-vc)</sub>
