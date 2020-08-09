@@ -21,5 +21,6 @@ weight: 2
 * [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
 * [University of Washington Infection Map](https://hgis.uw.edu/virus/)
 * [IHME COVID-19 Projections](https://covid19.healthdata.org/projections)
+* [PolicyMap's Open Map](https://www.policymap.com/maps)
 * [WHO Africa](https://who.maps.arcgis.com/apps/opsdashboard/index.html#/0c9b3a8b68d0437a8cf28581e9c063a9)
 * [Harvard's Gender/Sex COVID-19 Data Tracker](https://www.genderscilab.org/gender-and-sex-in-covid19)

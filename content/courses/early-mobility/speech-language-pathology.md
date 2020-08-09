@@ -1,6 +1,6 @@
 ---
-title: Research Resources
-linktitle:  Research Resources
+title: Speech Language Pathology
+linktitle:  Speech Language Pathology
 toc: true
 type: docs
 draft: false

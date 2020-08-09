@@ -37,14 +37,7 @@ date_format = "Jan 2006"
   date_end = "2001-06-01"
   description = """"""
 
- [[experience]]
-  title = "Sales Assistant"
-  company = "Wachovia Securities"
-  company_url = ""
-  location = "Baltimore, MD"
-  date_start = "2001-06-01"
-  date_end = "2003-08-01"
-  description = """""" 
+
 
  [[experience]]
   title = "Director of the Annual Fund"

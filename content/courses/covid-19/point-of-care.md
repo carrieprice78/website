@@ -18,7 +18,7 @@ weight: 4
 * [Brigham and Women's Hospital COVID-19 Clinical Guidelines](https://covidprotocols.org/)
 * [CDC Coronavirs Disease 2019 Information for Healthcare Professionals](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html)
 * [EMCrit COVID19 Internet Book of Critical Care](https://emcrit.org/ibcc/COVID19/)
-* [JBI COVID0-19 Special Collection](https://joannabriggs.org/covid-19)
+* [JBI COVID-19 Special Collection](https://joannabriggs.org/covid-19)
 * [The Hastings Center: COVID-19 Supporting Ethical Care and Responding to Moral Distress in a Public Health Emergency](https://www.thehastingscenter.org/guidancetoolsresourcescovid19/)
 * [National COVID-19 Clinical Evidence Taskforce (Australia)](https://covid19evidence.net.au/)
 * [NIH COVID-19 Treatment Guidelines](https://covid19treatmentguidelines.nih.gov/introduction/)
