@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Johns Hopkins University"
   company_url = "https://jhu.edu/"
   location = "Baltimore, MD"
-  date_start = "2020-04-01"
+  date_start = "2012-04-01"
   date_end = ""
   description = """
 
@@ -78,7 +78,7 @@ date_format = "Jan 2006"
  
  [[experience]]
   title = "Intern"
-  company = "The Baltimore Musem of Art"
+  company = "The Baltimore Museum of Art"
   company_url = "https://artbma.org/"
   location = "Baltimore, MD"
   date_start = "2008-06-01"
