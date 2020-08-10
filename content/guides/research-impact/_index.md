@@ -43,7 +43,7 @@ If your publication is part of a larger research project, or if you belong to a 
 
 Consider creating a public-facing Zotero library to show visitors the publications resulting from your study.
 
-Conduct outreach via social media channels such as Twitter to raise awareness about your work and reach a wider audience (see section above).
+Conduct outreach via social media channels such as Twitter to raise awareness about your work and reach a wider audience.
 
 WordPress, Squarespace, and Drupal are recommended content management systems for managing online content.
 
