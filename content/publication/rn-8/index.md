@@ -1,7 +1,7 @@
 ---
 title: "Librarian integration into health care conferences: a case report"
 date: 2020-01-01
-publishDate: 2020-08-09T21:11:15.241527Z
+publishDate: 2020-08-10T22:48:09.913477Z
 authors: ["C. Price", "S. R. Kudchadkar", "P. S. Basyal", "A. Nelliot", "M. Smith", "M. Friedman", "D. M. Needham"]
 publication_types: ["2"]
 abstract: ""

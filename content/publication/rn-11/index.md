@@ -1,7 +1,7 @@
 ---
-title: "Head-Mounted Display Use in Surgery: A Systematic Review"
+title: "Head-mounted display use in surgery: a systematic review"
 date: 2020-01-01
-publishDate: 2020-08-09T21:11:15.252517Z
+publishDate: 2020-08-10T22:48:09.924465Z
 authors: ["R. Rahman", "M. E. Wood", "L. Qian", "C. L. Price", "A. A. Johnson", "G. M. Osgood"]
 publication_types: ["2"]
 abstract: ""

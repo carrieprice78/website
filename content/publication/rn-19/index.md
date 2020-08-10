@@ -1,7 +1,7 @@
 ---
-title: "An Integrative Review of Engaging Clinical Nurses in Nursing Research"
+title: "An integrative review of engaging clinical nurses in nursing research"
 date: 2016-01-01
-publishDate: 2020-08-09T21:11:15.260509Z
+publishDate: 2020-08-10T22:48:09.942449Z
 authors: ["E. Scala", "C. Price", "J. Day"]
 publication_types: ["2"]
 abstract: ""

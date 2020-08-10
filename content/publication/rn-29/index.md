@@ -1,9 +1,9 @@
 ---
-title: "SURG-16. SUPRATOTAL VERSUS GROSS TOTAL RESECTION OF GLIOBLASTOMA: A SYSTEMATIC REVIEW"
+title: "Supratotal versus gross total resection of glioblastoma: a systematic review"
 date: 2019-01-01
-publishDate: 2020-08-09T21:11:15.148612Z
-authors: ["Christina Jackson", "John Choi", "Carrie Price", "Chetan Bettegowda", "Michael Lim", "Gary Gallia", "Jon Weingart", "Henry Brem", "Debraj Mukherjee"]
-publication_types: ["2"]
+publishDate: 2020-08-10T22:48:09.803578Z
+authors: ["C. Jackson", "J. Choi", "A. M. Khalafallah", "C. Price", "C. Bettegowda", "M. Lim", "G. Gallia", "J. Weingart", "H. Brem", "D. Mukherjee"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Neuro-Oncology*"

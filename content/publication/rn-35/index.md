@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the pitfalls of LibGuides through design and value-added content"
 date: 2020-01-01
-publishDate: 2020-08-09T21:11:15.256512Z
+publishDate: 2020-08-10T22:48:09.936454Z
 authors: ["S. Robins", "C. Price"]
 publication_types: ["1"]
 abstract: ""
