@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: How I Created This Site
-summary: Resources for creating a similar page.
+summary: Resources for creating a similar site.
 weight: 200
 
 # Page metadata.
-title: Images and Visualizations
+title: How I Created This Site
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -20,7 +20,7 @@ menu:
     weight: 1
 ---
 
-## How I Created This Site
+
 
 ### Download
 
@@ -32,7 +32,7 @@ menu:
 
 ### Create
 
-* A [GitHub] account
+* A [GitHub](https://github.com/) account
 * A new GitHub repository
 
 
