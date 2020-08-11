@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: LibGuides
 summary: Resources for librarians building LibGuides. 
-weight: 30
+weight: 37
 
 # Page metadata.
 title: LibGuides
