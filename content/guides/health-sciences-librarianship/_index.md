@@ -106,3 +106,13 @@ I found that occasionally browsing these subreddits were very helpful in my unde
 * [Free Open Access Medical Education /Foamed](https://www.reddit.com/r/Foamed/)
 * [Medical School /medicalschool](https://www.reddit.com/r/medicalschool/)
 * [Public Health /publichealth](https://www.reddit.com/r/publichealth/)
+
+## Twitter Tags
+
+* [#MedTwitter](https://twitter.com/hashtag/medtwitter)
+* [#FOAMed](https://twitter.com/hashtag/foamed)
+* [#MedEd](https://twitter.com/hashtag/meded)
+* [#medlibs](https://twitter.com/hashtag/medlibs)
+* [#UXLibs](https://twitter.com/hashtag/uxlibs)
+* [#datalibs](https://twitter.com/hashtag/datalibs)
+* [#AcademicTwitter](https://twitter.com/hashtag/academictwitter)
