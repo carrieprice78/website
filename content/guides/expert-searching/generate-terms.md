@@ -7,10 +7,10 @@ draft: false
 menu:
   expert-searching:
     #parent: Topics
-    weight: 4
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 410
 ---
 
 ## Controlled Vocabulary

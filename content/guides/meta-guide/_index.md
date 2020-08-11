@@ -24,16 +24,16 @@ menu:
 
 ### Download
 
-* [Fork](https://git-fork.com/)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Hugo Academic](https://sourcethemes.com/academic/)
-* [Hugo](https://gohugo.io/getting-started/installing/)
+* [Fork](https://fork.dev/blog/) - software I use to commit changes to the repositories
+* [Visual Studio Code](https://code.visualstudio.com/) - software to edit the site
+* [Hugo Academic](https://sourcethemes.com/academic/) - site theme
+* [Hugo](https://gohugo.io/getting-started/installing/) - server
 
 
 ### Create
 
 * A [GitHub](https://github.com/) account
-* A new GitHub repository
+* A new GitHub repository or repositories for site build and content
 
 
 ### Fork

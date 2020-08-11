@@ -7,10 +7,10 @@ draft: false
 menu:
   expert-searching:
     #parent: Topics
-    weight: 40
+    weight: 120
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 40
+weight: 120
 ---
 
 

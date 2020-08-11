@@ -1,16 +1,16 @@
 ---
-title: Which Database to Use?
-linktitle:  Which Database to Use?
+title: Which Databases to Search?
+linktitle:  Which Databases to Search?
 toc: true
 type: docs
 draft: false
 menu:
   expert-searching:
     #parent: Topics
-    weight: 45
+    weight: 13
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 5
+weight: 13
 ---
 
 ## Database vs. Platform

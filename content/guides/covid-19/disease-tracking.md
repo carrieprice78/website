@@ -7,10 +7,10 @@ draft: false
 menu:
   covid-19:
     #parent: Topics
-    weight: 20
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 20
+weight: 10
 ---
 
 ## Maps and Other Sites
