@@ -7,10 +7,10 @@ draft: false
 menu:
   research-impact:
     #parent: Topics
-    weight: 5
+    weight: 50
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 5
+weight: 50
 ---
 ## The Leiden Manifesto
 [The Leiden Manifesto for Research Metrics](http://www.leidenmanifesto.org/) was published in 2015 by five experts urging responsible use in metrics, named after the conference where the idea came to fruition. They promote the following ten principles to guide research evaluation:

@@ -109,6 +109,8 @@ I found that occasionally browsing these subreddits were very helpful in my unde
 
 ## Twitter Tags
 
+It has been helpful for me to follow these hashtags, sometimes using [Tweetdeck](https://tweetdeck.twitter.com/) to hear about the latest research and controversy.
+
 * [#MedTwitter](https://twitter.com/hashtag/medtwitter)
 * [#FOAMed](https://twitter.com/hashtag/foamed)
 * [#MedEd](https://twitter.com/hashtag/meded)

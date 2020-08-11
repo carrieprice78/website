@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Research Impact
 summary: Resources for authors to assess their impact in their field.
-weight: 76
+weight: 1
 
 # Page metadata.
 title: Research Impact

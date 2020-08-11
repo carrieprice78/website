@@ -7,10 +7,10 @@ draft: false
 menu:
   nursing-resources:
     #parent: Topics
-    weight: 3
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 10
 ---
 
 The American Library Association has released a set of standards for [information literacy competency standards in nursing](http://www.ala.org/acrl/standards/nursing). These standards for nursing are based on the “ACRL Information Competency Standards for Higher Education” with outcomes written specifically to support nursing resources, language, and the value of evidence-based practice.

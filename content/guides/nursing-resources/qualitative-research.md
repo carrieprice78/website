@@ -7,10 +7,10 @@ draft: false
 menu:
   nursing-resources:
     #parent: Topics
-    weight: 10
+    weight: 30
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 10
+weight: 30
 ---
 
 

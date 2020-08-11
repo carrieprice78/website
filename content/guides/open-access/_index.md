@@ -37,16 +37,6 @@ menu:
 
 
 
-## Selecting a Journal
-
-**Empower yourself** by using the [Think, Check, Submit](https://thinkchecksubmit.org/) Checklist to identify trusted journals and publishers. Unsure of your rights as an author? [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/search.php) will guide you through your rights to archive various versions of your research.
-
-### Manuscript Matching TOols
-
-* [Journal/Author Name Estimator](http://jane.biosemantics.org/)
-* [JournalGuide](https://www.journalguide.com/)
-
-
 ## Free Apps for Clinical Care
 
 
