@@ -84,5 +84,5 @@ Since its launch in November 2000 Identifont has become the largest independent 
 * [SoftChalk](http://softchalk.com/)
 * [Udutu](http://udutu.com/)
 
-For more web-based tools, see the Typology of Free Web-based Learning Technologies from Educause.
+
 

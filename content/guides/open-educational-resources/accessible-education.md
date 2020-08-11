@@ -23,7 +23,7 @@ weight: 5
 * Identifies and clearly expresses essential course content
 * Is consistent with universally-recognized principles of good teaching
 
-From [Introduction to Accessible Education from the Council of Ontario Universities](https://accessiblecampus.ca/tools-resources/educators-tool-kit/introduction-accessible-education/).
+<sub>Adapted from [Introduction to Accessible Education from the Council of Ontario Universities](https://accessiblecampus.ca/tools-resources/educators-tool-kit/introduction-accessible-education/).</sub>
 
 
 ## Resources for Accessible Education
@@ -31,7 +31,7 @@ From [Introduction to Accessible Education from the Council of Ontario Universit
 
 * [Accessible Teaching form University of Maryland's Teaching and Learning Transformation Center](https://www.csun.edu/universal-design-center/basic-accessibility-evaluations-4-questions)
 * [Accessible Education from Council of Ontario Universities' Accessible Campus](https://accessiblecampus.ca/tools-resources/educators-tool-kit/introduction-accessible-education/)
-    * [Includes the [Educator's Accessibility Toolkit](https://accessiblecampus.ca/tools-resources/educators-tool-kit/)
+    * Includes the [Educator's Accessibility Toolkit](https://accessiblecampus.ca/tools-resources/educators-tool-kit/)
 * [Four-Point Accessibility Evaluation from California State University Northbridge Universal Design Center](https://www.csun.edu/universal-design-center/basic-accessibility-evaluations-4-questions)
 * [Web Accessibility Criteria for Color Contrast from California State University Northbridge Universal Design Center](https://www.csun.edu/universal-design-center/web-accessibility-criteria-color-contrast)
 * [Creating Accessible Learning Environments from Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/creating-accessible-learning-environments/)
