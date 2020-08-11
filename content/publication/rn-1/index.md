@@ -1,7 +1,7 @@
 ---
 title: "Adjuvant analgesic use in the critically ill: a systematic review and meta-analysis"
 date: 2020-01-01
-publishDate: 2020-08-10T22:48:09.983412Z
+publishDate: 2020-08-11T20:51:50.019422Z
 authors: ["K. E. Wheeler", "R. Grilli", "J. E. Centofanti", "J. Martin", "C. Gelinas", "P. M. Szumita", "J. W. Devlin", "G. Chanques", "W. Alhazzani", "Y. Skrobik", "M. E. Kho", "M. E. Nunnally", "A. Gagarine", "B. A. Ergan", "S. Fernando", "C. Price", "J. Lewin", "B. Rochwerg"]
 publication_types: ["2"]
 abstract: ""

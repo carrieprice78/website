@@ -1,7 +1,7 @@
 ---
 title: "A systematic review of tumor treating fields therapy for high-grade gliomas"
 date: 2020-01-01
-publishDate: 2020-08-10T22:48:09.960433Z
+publishDate: 2020-08-11T20:51:49.990449Z
 authors: ["P. P. Shah", "T. White", "A. M. Khalafallah", "C. G. Romo", "C. Price", "D. Mukherjee"]
 publication_types: ["2"]
 abstract: ""

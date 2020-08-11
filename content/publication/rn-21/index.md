@@ -1,7 +1,7 @@
 ---
 title: "Lung ultrasound for the diagnosis of pneumonia in adults: a systematic review and meta-analysis"
 date: 2014-01-01
-publishDate: 2020-08-10T22:48:09.761617Z
+publishDate: 2020-08-11T20:51:49.801625Z
 authors: ["M. A. Chavez", "N. Shams", "L. E. Ellington", "N. Naithani", "R. H. Gilman", "M. C. Steinhoff", "M. Santosham", "R. E. Black", "C. Price", "M. Gross", "W. Checkley"]
 publication_types: ["2"]
 abstract: ""
