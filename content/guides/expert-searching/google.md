@@ -7,10 +7,10 @@ draft: false
 menu:
   expert-searching:
     #parent: Topics
-    weight: 50
+    weight: 105
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 50
+weight: 105
 ---
 
 ## Google Scholar

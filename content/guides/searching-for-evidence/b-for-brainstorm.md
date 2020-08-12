@@ -3,6 +3,7 @@ title: B for Brainstorming Search Terms
 linktitle:  B for Brainstorming Search Terms
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   searching-for-evidence:

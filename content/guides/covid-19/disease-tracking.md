@@ -3,6 +3,9 @@ title: Disease Tracking
 linktitle: Disease Tracking
 toc: true
 type: docs
+date: 2020-08-12
+
+
 draft: false
 menu:
   covid-19:

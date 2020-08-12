@@ -3,6 +3,7 @@ title: Writing and Publishing Resources
 linktitle:  Writing and Publishing Resources
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   open-access:

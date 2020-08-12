@@ -9,7 +9,7 @@ title: Health Sciences Librarianship
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2020-08-03
+date: 2020-08-12
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -109,7 +109,7 @@ I found that occasionally browsing these subreddits were very helpful in my unde
 
 ## Twitter Tags
 
-It has been helpful for me to follow these hashtags, sometimes using [Tweetdeck](https://tweetdeck.twitter.com/) to hear about the latest research and controversy.
+It has been helpful for me to follow these hashtags, sometimes using [Tweetdeck](https://tweetdeck.twitter.com/) to hear about the latest research and controversy. See more about [Twitter for Higher Education](/guides/twitter/) and how it can help you network and share your research.
 
 * [#MedTwitter](https://twitter.com/hashtag/medtwitter)
 * [#FOAMed](https://twitter.com/hashtag/foamed)

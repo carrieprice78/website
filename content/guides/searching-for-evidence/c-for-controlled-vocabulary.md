@@ -3,6 +3,7 @@ title: C for Choosing Controlled Vocabulary
 linktitle:  C for Choosing Controlled Vocabulary
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   searching-for-evidence:

@@ -3,6 +3,7 @@ title: Quality Improvement
 linktitle:  Quality Improvement
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   nursing-resources:

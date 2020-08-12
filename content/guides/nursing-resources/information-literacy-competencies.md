@@ -3,6 +3,7 @@ title: Information Literacy Competencies for Nurses
 linktitle:  Information Literacy Competencies for Nurses
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   nursing-resources:

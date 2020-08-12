@@ -3,6 +3,7 @@ title: Journal Quality and Author's Rights
 linktitle:  Journal Quality and Author's Rights
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   open-access:

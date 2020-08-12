@@ -3,6 +3,7 @@ title: LGBTQIA+
 linktitle:  LGBTQIA+
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   search-filters:

@@ -9,7 +9,7 @@ title: Twitter for Higher Education
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2020-08-03
+date: 2020-08-12
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -61,13 +61,13 @@ Live-tweeting events and conferences can allow for engagement beyond the attende
 
 ### Ethics in the Twitterverse
 
-* DO ask permission to share photos of colleagues and peers before posting
-* DO cite your sources
-* DO stick to professional and collegial discourse
-* DON'T share patient information or photographs without explicit consent
-* DON'T diagnose or give medical medical advice
-* DON'T share speaker slides if they ask you not to
-* DON'T share unpublished data
+* DO ask permission to share photos of colleagues and peers before posting.
+* DO cite your sources.
+* DO stick to professional and collegial discourse.
+* DON'T share patient information or photographs without explicit consent.
+* DON'T diagnose or give medical medical advice.
+* DON'T share speaker slides if they ask you not to.
+* DON'T share unpublished data.
 
 > Reference: Barnes, S. S., Kaul, V., & Kudchadkar, S. R. (2019). Social media engagement and the critical care medicine community. Journal of Intensive Care Medicine, 34(3), 175-182. [https://doi.org/10.1177%2F0885066618769599](https://doi.org/10.1177%2F0885066618769599)
 
@@ -83,7 +83,7 @@ Live-tweeting events and conferences can allow for engagement beyond the attende
 * **Followers** – users who are viewing your content
 * **Following** – users whose content appears in your timeline
 
-## A Selected Bibliography
+## A Selected Bibliography about Twitter in Medicine
 
 * Azu, M.C., Lilley, E.J., & Kolli, A.H. (2012). Social media, surgeons, and the Internet: an era or an error? The American Surgeon, 78(5), 555-558. [https://doi.org/10.1177/000313481207800537](https://doi.org/10.1177/000313481207800537)
 * Barnes, S. S., Kaul, V., & Kudchadkar, S. R. (2019). Social media engagement and the critical care medicine community. Journal of Intensive Care Medicine, 34(3), 175-182. [https://doi.org/10.1177%2F0885066618769599](https://doi.org/10.1177/0885066618769599)

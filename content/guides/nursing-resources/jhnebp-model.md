@@ -3,6 +3,7 @@ title: Johns Hopkins Nursing Evidence-Based Practice Model
 linktitle:  Johns Hopkins Nursing Evidence-Based Practice Model
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   nursing-resources:

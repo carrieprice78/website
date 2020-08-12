@@ -3,6 +3,7 @@ title: COVID-19 State, Local, and National Resources
 linktitle: COVID-19 State, Local, and National Resources
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   covid-19:

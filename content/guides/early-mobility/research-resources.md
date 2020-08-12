@@ -3,14 +3,15 @@ title: Research Resources
 linktitle:  Research Resources
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   early-mobility:
     #parent: Topics
-    weight: 4
+    weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 10
 ---
 Most of the databases listed here are free to search, while the content may be behind a paywall. You may be able to locate the PDF through your institution or organization, or using on of the tools below.
 

@@ -3,6 +3,7 @@ title: D for Documentation of the Search
 linktitle:  D for Documentation of the Search
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   searching-for-evidence:

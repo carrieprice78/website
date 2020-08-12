@@ -3,6 +3,7 @@ title: Point-of-Care Resources
 linktitle: Point-of-Care Resources
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   covid-19:

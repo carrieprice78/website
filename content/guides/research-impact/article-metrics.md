@@ -3,6 +3,7 @@ title: Article Metrics
 linktitle: Article Metrics
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   research-impact:

@@ -3,6 +3,7 @@ title: Patient and Consumer Health
 linktitle: Patient and Consumer Health
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   covid-19:

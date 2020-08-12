@@ -3,6 +3,7 @@ title: E for Evaluating the Evidence
 linktitle:  E for Evaluating the Evidence
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   searching-for-evidence:

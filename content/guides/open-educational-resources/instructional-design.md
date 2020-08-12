@@ -3,6 +3,7 @@ title: Instructional Design
 linktitle:  Instructional Design
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   open-educational-resources:

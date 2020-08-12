@@ -3,6 +3,7 @@ title: Career Resources
 linktitle:  Career Resources
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   nursing-resources:

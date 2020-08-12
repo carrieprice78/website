@@ -3,17 +3,27 @@ title: Early Mobility Publication Trends
 linktitle:  Early Mobility Publication Trends
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   early-mobility:
     #parent: Topics
-    weight: 2
+    weight: 100
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 100
 ---
+The searches for each of the images below are documented in [Early Mobility Search Documentation](/guides/early-mobility/search-documentation/).
 
-## Most Highly-Cited
+## Author Networks as of June, 2020
+
+The following graph represents networks of authors in early mobility literature through June 2020, based on a highly-specific, targeted literature search in PubMed. 
+
+The mapping below represents connected authors with seven or more publications appearing in the PubMed search.
+
+{{< figure library="true" src="em-authors.png" title="Author Networks Based on PubMed Data. This visualization was created with the open source tool VOSViewer." >}}
+
+## Most Highly-Cited as of June, 2020
 
 The following ten articles on early mobility are the most highly-cited, based on a targeted literature search in Scopus.The citation numbers reflect the total number of citations as of June, 2020. The literature search is documented below.
 
@@ -27,3 +37,23 @@ The following ten articles on early mobility are the most highly-cited, based on
 8. Scott, V., Votova, K., Scanlan, A., & Close, J. (2007). Multifactorial and functional mobility assessment tools for fall risk among older adults in community, home-support, long-term and acute care settings. Age and Ageing, 36(2), 130–139. https://doi.org/10.1093/ageing/afl165 **231 citations**
 9. Zanotti, E., Felicetti, G., Maini, M., & Fracchia, C. (2003). Peripheral muscle strength training in bed-bound patients with COPD receiving mechanical ventilation: Effect of electrical stimulation. Chest, 124(1), 292–296. https://doi.org/10.1378/chest.124.1.292 **215 citations**
 10. Kayambu, G., Boots, R., & Paratz, J. (2013). Physical therapy for the critically ill in the ICU: A systematic review and meta-analysis. Critical Care Medicine, 41(6), 1543–1554. https://doi.org/10.1097/CCM.0b013e31827ca637 **213 citations**
+
+
+## Top Ten Journals as of June, 2020
+
+The following graph represents journals publishing early mobility literature through June 2020, based on a highly-specific, targeted literature search in Web of Science. 
+
+Of a total of 2,592 results in a Web of Science search on June 10, 2020, these journals were the ones that were most widely represented in the results. Below the journal name is the 2018 Journal Impact Factor as reported in InCites Journal Citation Reports. However, please keep in mind that there are other metrics outside of the JIF for evaluating a journal's impact and quality.
+
+{{< figure library="true" src="em-journals.png" title="Top Ten Journals Based on Web of Science Data. This visualization was created with the open source tool Tableau Public." >}}
+
+## Medical Subject Headings (MeSH) in PubMed as of June, 2020
+
+The following graph represents networks MeSH terms in early mobility literature through June 2020, based on a highly-specific, targeted literature search in PubMed. The search is documented below. The visualization was created with the open source tool VOSviewer.
+
+{{< figure library="true" src="em-mesh.png" title="MeSH Network Analysis Based on PubMed Data. This visualization was created with the open source tool VOSViewer." >}}
+
+## Publications Over Time through June, 2020
+
+The following graph represents the growth of early mobility literature over time, based on a targeted literature search in PubMed.  
+{{< figure library="true" src="em - publications over time.jpg" title="Publications Over Time Based on PubMed Data. This visualization was created with the open source tool Tableau Public." >}}

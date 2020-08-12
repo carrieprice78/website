@@ -3,6 +3,7 @@ title: Stock Photos and Media Commons
 linktitle:  Stock Photos and Media Commons
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   images-visualizations:

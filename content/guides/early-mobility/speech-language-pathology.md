@@ -3,14 +3,15 @@ title: Speech Language Pathology
 linktitle:  Speech Language Pathology
 toc: true
 type: docs
+date: 2020-08-12
 draft: false
 menu:
   early-mobility:
     #parent: Topics
-    weight: 4
+    weight: 20
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 20
 ---
 
 ## Professional Organizations for SLP
