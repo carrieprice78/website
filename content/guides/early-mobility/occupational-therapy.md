@@ -38,4 +38,13 @@ PubMed is published and maintained by the National Library of Medicine. PubMed c
 * [MOTA Annual Conference](http://mota.memberlodge.org/)
 
 
+## Apps for Coordination
 
+See also my [Smore digital flyer](https://www.smore.com/xq4kw-apps-for-coordination).
+
+* [Bubble Snap](https://itunes.apple.com/us/app/bubble-snap/id285646135?mt=8)
+* [Dexteria](https://itunes.apple.com/us/app/dexteria-fine-motor-skill-development/id420464455?mt=8)
+* [iTrace Handwriting](https://itunes.apple.com/us/app/id583678381?ign-mpt=uo%3D4)
+* [LetterSchool](https://itunes.apple.com/app/id435476174?mt=8)
+* [Little Finder](https://itunes.apple.com/us/app/little-finder-the-hidden-object-game-for-kids/id491990709?mt=8)
+* [Letter Quiz](https://itunes.apple.com/us/app/letter-quiz-lite-alphabet-tracing-game-for-kids/id331573236?mt=8)

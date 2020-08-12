@@ -57,3 +57,34 @@ Outcomes After Critical Illness and Surgery (OACIS) is a multidisciplinary clini
 ### [Prevalence of Acute Rehab for Kids in the PICU (PARK-PICU)](https://park.web.jhu.edu/)
 
 PARK-PICU (Prevalence of Acute Rehab for Kids in the PICU) is a national point prevalence study to characterize the prevalence and characteristics of mobility as part of routine clinical care for critically ill children in United States PICUs.
+
+
+## Apps for Augmentative and Alternative Communication (AAC)
+
+See also my [Smore Digital Flyer](https://www.smore.com/hqna3-apps-for-communication).
+
+* [Assistive Express](https://itunes.apple.com/us/app/assistive-express/id379891874?mt=8)
+* [GoTalk Now](https://itunes.apple.com/us/app/gotalk-now/id454176457?mt=8)
+* [Grid Player](https://itunes.apple.com/us/app/grid-player/id456278671?mt=8)
+* [Patient Communicator](https://itunes.apple.com/us/app/patient-communicator-by-sccm/id732242570?mt=8)
+* [Predictable](https://itunes.apple.com/us/app/predictable/id404445007?mt=8&ign-mpt=uo%3D4)
+* [Proloquo2Go](https://itunes.apple.com/us/app/proloquo2go/id308368164?mt=8)
+* [Quick Talk AAC](https://itunes.apple.com/us/app/quick-talk-aac/id487824507?mt=8)
+* [SmallTalk Intensive Care](https://itunes.apple.com/us/app/smalltalk-intensive-care/id403057381?mt=8)
+* [Sono Flex](https://itunes.apple.com/us/app/sono-flex/id463697022?mt=8)
+* [Sorenson BuzzCards](https://itunes.apple.com/us/app/sorenson-buzzcards/id380582593?mt=8)
+* [SoundingBoard](https://itunes.apple.com/us/app/soundingboard/id390532167?mt=8&ign-mpt=uo%3D40)
+* [TouchChat HD - AAC](https://itunes.apple.com/us/app/touchchat-hd-aac/id398860728?mt=8)
+* [Verbally](https://itunes.apple.com/us/app/verbally/id418671377?mt=8#)
+* [Verbally Premium](https://itunes.apple.com/us/app/verbally-premium/id470081134?mt=8&ign-mpt=uo%3D4)
+
+## Apps for Coordination
+
+See also my [Smore digital flyer](https://www.smore.com/xq4kw-apps-for-coordination).
+
+* [Bubble Snap](https://itunes.apple.com/us/app/bubble-snap/id285646135?mt=8)
+* [Dexteria](https://itunes.apple.com/us/app/dexteria-fine-motor-skill-development/id420464455?mt=8)
+* [iTrace Handwriting](https://itunes.apple.com/us/app/id583678381?ign-mpt=uo%3D4)
+* [LetterSchool](https://itunes.apple.com/app/id435476174?mt=8)
+* [Little Finder](https://itunes.apple.com/us/app/little-finder-the-hidden-object-game-for-kids/id491990709?mt=8)
+* [Letter Quiz](https://itunes.apple.com/us/app/letter-quiz-lite-alphabet-tracing-game-for-kids/id331573236?mt=8)
