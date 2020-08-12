@@ -8,10 +8,10 @@ draft: false
 menu:
   early-mobility:
     #parent: Topics
-    weight: 100
+    weight: 112
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 100
+weight: 112
 ---
 The searches for each of the images below are documented in [Early Mobility Search Documentation](/guides/early-mobility/search-documentation/).
 
