@@ -17,10 +17,10 @@ weight: 5
 Gather background information. Work with a librarian, if possible, to search relevant sources to see what's been written about your topic so far. Consider your audience. Who might be interested in this issue?
 
 ## Pro Tips
-* Identify a framework that works for your topic and stick with it. Aim for clarity.
+* Identify a framework that works for your topic. Some topics won't fit into a predetermined framework, and that's okay.
 * Start documentation to keep all your ideas in one place.
 * Get input from collaborators, peers, and mentors.
-* Consult with an informationist so that you can complete a thorough search of existing research.
+* Consult with a librarian so that you can complete a thorough search of existing research.
 
 There are many different types of frameworks. Which one you use will depend on the scope of your project and which framework fits best. We have listed just a few of them below.
 

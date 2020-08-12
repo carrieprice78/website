@@ -34,6 +34,8 @@ Keywords are the words used in an article title, abstract, or other text field i
 
 ## Combining Search Terms Effectively
 
+See the [Search Filters Guide](/guides/search-filters/) for examples of PubMed and other database searches that combine controlled vocabulary and keyword terms effectively.
+
 Boolean operators form the basis of mathematical sets and database logic. Using these terms to combine concepts and keywords in your search will assist you in performing a transparent, reproducible, and thorough search. Boolean operators include AND, OR, and NOT. These are generally always capitalized.
 
 * **AND** - AND is used to link ideas and concepts where you want to see both ideas or concepts in your search results. AND narrows the search.
