@@ -10,6 +10,7 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 date: 2020-08-12
+tags: open access
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -42,6 +43,7 @@ menu:
 * [Open Course Library](http://opencourselibrary.org/)
 * [Open Education Resources from the Library of Congress](https://www.loc.gov/education/)
 * [Open Michigan](https://open.umich.edu/)
+* [Open Scholarship Knowledge Base from OER Commons](https://www.oercommons.org/hubs/OSKB)
 * [OpenStax CNX](http://cnx.org/)
 * [The Orange Grove](http://florida.theorangegrove.org/og/access/home.do)
 * [Project CORA](https://www.projectcora.org/resources)

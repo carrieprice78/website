@@ -45,7 +45,9 @@ The following graph represents journals publishing early mobility literature thr
 
 Of a total of 2,592 results in a Web of Science search on June 10, 2020, these journals were the ones that were most widely represented in the results. Below the journal name is the 2018 Journal Impact Factor as reported in InCites Journal Citation Reports. However, please keep in mind that there are other metrics outside of the JIF for evaluating a journal's impact and quality.
 
-{{< figure library="true" src="em-journals.png" title="Top Ten Journals Based on Web of Science Data. This visualization was created with the open source tool Tableau Public." >}}
+
+
+{{< figure src="em-journals.png" title="Top Ten Journals Based on Web of Science Data. This visualization was created with the open source tool Tableau Public." >}}
 
 ## Medical Subject Headings (MeSH) in PubMed as of June, 2020
 

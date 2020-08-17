@@ -61,6 +61,8 @@ You are welcome to contact me to find out more about my services of expert searc
 
 <sub>Photo by [Nick Fewings on Unsplash](https://unsplash.com/photos/XXBgxhS_-vc)</sub>
 
+
+
 <!-- {{% alert note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
