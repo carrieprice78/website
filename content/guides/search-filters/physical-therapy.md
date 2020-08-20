@@ -25,4 +25,4 @@ weight: 12
 
 ### Keywords
 
-exercise therapy OR exercise therapies OR physical therapy OR physical therapies OR physical therapist OR physical therapists OR exercise OR exercises OR exercising OR musculoskeletal manipulation OR musculoskeletal manipulations OR myofunctional therapy OR myofunctional therapies
+exercise therapy OR exercise therapies OR physical therapy OR physical therapies OR physical therapist OR physical therapists OR exercise OR exercises OR exercising OR manual therapy OR manual therapies OR musculoskeletal manipulation OR musculoskeletal manipulations OR myofunctional therapy OR myofunctional therapies OR physiotherap*
