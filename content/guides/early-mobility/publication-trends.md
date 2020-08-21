@@ -47,7 +47,7 @@ Of a total of 2,592 results in a Web of Science search on June 10, 2020, these j
 
 
 
-{{< figure src="em-journals.png" title="Top Ten Journals Based on Web of Science Data. This visualization was created with the open source tool Tableau Public." >}}
+{{< figure library="true" src="em-journals.png" title="Top Ten Journals Based on Web of Science Data. This visualization was created with the open source tool Tableau Public." >}}
 
 ## Medical Subject Headings (MeSH) in PubMed as of June, 2020
 
@@ -58,4 +58,4 @@ The following graph represents networks MeSH terms in early mobility literature 
 ## Publications Over Time through June, 2020
 
 The following graph represents the growth of early mobility literature over time, based on a targeted literature search in PubMed.  
-{{< figure library="true" src="em - publications over time.jpg" title="Publications Over Time Based on PubMed Data. This visualization was created with the open source tool Tableau Public." >}}
+{{< figure library="true" src="em-publicationsovertime.png" title="Publications Over Time Based on PubMed Data. This visualization was created with the open source tool Tableau Public." >}}
