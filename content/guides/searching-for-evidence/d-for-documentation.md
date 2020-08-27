@@ -16,7 +16,16 @@ weight: 4
 
 ## Why
 
- It's time to start searching. 
+If you document your search, it will save you time because you will remember what you did. Your search will be transparent and reproducible later.
 
 ## How To
 
+Use a spreadsheet or document to keep track of all your searches. Document things like:
+* Databases searched
+* Limits applied, such as language or date range
+* Keyword terms and controlled vocabulary terms used
+* Number of results 
+
+## Citation Management
+
+You may also wish to keep track of your sources identified with a citation manager.

@@ -27,9 +27,9 @@ Think of synonyms, acronyms, antonyms, and initialisms associated with the conce
 ### Keyword Generation Tips
 
 * If looking for prevention, you will also need to look for causation.
-* Review [MeSH](https://www.ncbi.nlm.nih.gov/mesh/) or other database controlled vocabularies to find related terms
-* Look at relevant articles on your topic to find potential keywords
-* Browse a dictionary, thesaurus, or encyclopedia
+* Review [MeSH](https://www.ncbi.nlm.nih.gov/mesh/) or other database controlled vocabularies to find related terms.
+* Look at relevant articles on your topic to find potential keywords.
+* Browse a dictionary, thesaurus, or encyclopedia.
 
 ### Using Keywords
 
