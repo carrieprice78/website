@@ -13,6 +13,8 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 13
 ---
+## Existing Filters
+* [ISSG Filters to find population specific studies](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/filters-to-find-population-specific-studies)
 
 
 ## Search Builder for Race and Ethnicity Terms
