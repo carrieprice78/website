@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "1999-08-01"
   date_end = "2001-06-01"
-  description = """
+  description = """"""
 
 
 
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2003-08-01"
   date_end = "2006-08-01"
-  description = """
+  description = """"""
 
  [[experience]]
   title = "Development Specialist"
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2006-08-01"
   date_end = "2008-08-01"
-  description = """
+  description = """"""
 
   
 [[experience]]
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2008-08-01"
   date_end = "2012-03-31"
-  description = """
+  description = """"""
  
  [[experience]]
   title = "Intern, Arthur Friedheim Library"
@@ -76,7 +76,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2010-06-01"
   date_end = "2010-06-01"
-  description = """
+  description = """"""
  
  [[experience]]
   title = "Intern"
@@ -85,7 +85,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2008-06-01"
   date_end = "2012-06-01"
-  description = """
+  description = """"""
  
 [[experience]]
   title = "Clinical Medical Librarian, Welch Medical Library"
