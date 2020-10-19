@@ -17,16 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Clinical Medical Librarian, Welch Medical Library"
-  company = "Johns Hopkins University"
-  company_url = "https://jhu.edu/"
-  location = "Baltimore, MD"
-  date_start = "2012-04-01"
+  title = "Health Professions Librarian"
+  company = "Towson University"
+  company_url = "https://libraries.towson.edu"
+  location = "Towson, MD"
+  date_start = "2020-08-26"
   date_end = ""
   description = """
 
-  """
+""" 
+
 
  [[experience]]
   title = "Physical Therapy Technician"
@@ -35,7 +37,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "1999-08-01"
   date_end = "2001-06-01"
-  description = """"""
+  description = """
 
 
 
@@ -46,7 +48,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2003-08-01"
   date_end = "2006-08-01"
-  description = """"""
+  description = """
 
  [[experience]]
   title = "Development Specialist"
@@ -55,7 +57,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2006-08-01"
   date_end = "2008-08-01"
-  description = """"""
+  description = """
 
   
 [[experience]]
@@ -65,7 +67,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2008-08-01"
   date_end = "2012-03-31"
-  description = """"""
+  description = """
  
  [[experience]]
   title = "Intern, Arthur Friedheim Library"
@@ -74,7 +76,7 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2010-06-01"
   date_end = "2010-06-01"
-  description = """"""
+  description = """
  
  [[experience]]
   title = "Intern"
@@ -83,7 +85,16 @@ date_format = "Jan 2006"
   location = "Baltimore, MD"
   date_start = "2008-06-01"
   date_end = "2012-06-01"
-  description = """"""
+  description = """
  
+[[experience]]
+  title = "Clinical Medical Librarian, Welch Medical Library"
+  company = "Johns Hopkins University"
+  company_url = "https://jhu.edu/"
+  location = "Baltimore, MD"
+  date_start = "2012-04-01"
+  date_end = "2020-08-20"
+  description = """
 
+  """
 +++

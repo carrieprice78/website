@@ -15,7 +15,7 @@ weight: 12
 ---
 
 
-## Search Builder for Occupational Therapy
+## Search Builder for Physical Therapy
 
 ### Controlled Vocabulary
 
