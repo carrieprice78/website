@@ -45,3 +45,17 @@ COVID-19 OR COVID OR COVID19 OR COVID2019 OR coronavirus OR corona virus OR coro
 
 2019 ncov OR 2019ncov OR 2019-ncov OR alphacoronaviridae OR alphacoronavirinae OR alphacoronavirus OR alphacoronaviruses OR alphacoronovirus OR alphacoronoviruses OR alphacoronovirinae OR alphacoronoviridae OR betacoronaviridae OR betacoronavirinae OR betacoronavirus OR betacoronaviruses OR betacoronovirus OR betacoronoviruses OR betacoronovirinae OR betacoronoviridae OR corona viridae OR corona virinae OR corona virus OR corona viruses OR coronaviridae OR coronavirinae OR coronavirus OR coronaviruses OR corono viridae OR corono virinae OR coronoviridae OR coronovirinae OR coronovirus OR coronoviruses OR covid 19 OR covid 2019 OR covid19 OR covid-19 OR covid2019 OR covid-2019 OR deltacoronavirus OR deltacoronaviruses OR deltacoronaviridae OR deltacoronavirinae OR deltacoronovirus OR deltacoronoviruses OR deltacoronovirinae OR deltacoronoviradae OR gammacoronaviridae OR gammacoronavirinae OR gammacoronavirus OR gammacoronaviruses OR gammacoronovirus OR gammacoronoviruses OR gammacoronovirinae OR gammacoronovirdae OR hcov 229e OR hcov nl63 OR hcov229e OR hcov-229e OR hcovnl63 OR hcov-nl63 OR mers OR middle east respiratory syndrome OR middle east respiratory syndromes OR nCoV OR porcine epidemic diarrhea virus OR sars OR sarscov2 OR sars-cov-2 OR sars cov 2 OR severe acute respiratory syndrome OR severe acute respiratory syndromes
 
+
+
+## Search Builder Long Covid to be Paired with Covid Terminology (Created by C. Price with help from Twitter)
+
+### Controlled Vocabulary
+
+#### PubMed
+
+"patient discharge"[mesh] OR "patient discharge summaries"[mesh] OR "time factors"[mesh] OR "long term adverse effects"[mesh] OR "longitudinal studies"[mesh] OR "survivors"[mesh:noexp] OR "survivorship"[mesh] OR "psychosocial support systems"[mesh] OR "patient outcome assessment"[mesh] OR "critical care outcomes"[mesh] OR "self report"[mesh] OR "social support"[mesh] OR "patient reported outcome measures"[mesh] 
+
+## Keywords
+
+"after effect*" OR "aftereffect*" OR "long covid" OR "long haul*" OR "long term" OR "longcovid" OR "longhaul*" OR "longitudinal*" OR "mental health" OR "month*" OR "occupational therap*" OR "patient report*" OR "physical therap*" OR "pics" OR "post acute rehabilitation" OR "post acute" OR "post discharge" OR "post hospital*" OR "post intensive care syndrome*" OR "postacute" OR "postdischarge" OR "posthospitali*" OR "postintensive care syndrome" OR "readmission*" OR "self report" OR "self reported" OR "subsequent*" OR "survival" OR "survivor*" OR ("chronic" AND "covid*") OR ("long" AND "covid*") OR consequen* OR physiotherap* OR prolong*
+
