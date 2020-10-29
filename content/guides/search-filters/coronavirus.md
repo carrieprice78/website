@@ -47,7 +47,9 @@ COVID-19 OR COVID OR COVID19 OR COVID2019 OR coronavirus OR corona virus OR coro
 
 
 
-## Search Builder Long Covid to be Paired with Covid Terminology (Created by C. Price with help from Twitter)
+## Search Builder Long Covid 
+
+These terms should be paired with Covid Terminology. I received input from peers on Twitter to create this filter.
 
 ### Controlled Vocabulary
 
