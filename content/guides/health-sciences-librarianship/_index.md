@@ -43,6 +43,12 @@ Take all the opportunities you can: to volunteer in clinical settings; to round 
 * [Epidemiology in Public Health Practice from Coursera](https://www.coursera.org/specializations/professional-epidemiology?)
 * [Various Statistics Courses from Johns Hopkins Bloomberg School of Public Health Open Courseware](https://ocw.jhsph.edu/index.cfm/go/imageLib:il.search/#courses)
 
+## YouTube
+
+* [CEBM Oxford](https://www.youtube.com/channel/UCier2CaQeEuW1JOBn67ECjg)
+* [Cochrane Training](https://www.youtube.com/channel/UCoWzvKR8RPHG07PPeqBiibA)
+* [Sketchy EBM YouTube Channel](https://www.youtube.com/channel/UCj8HWVgRfPDhZgCPDQFMA5w) and [Site](http://www.sketchyebm.com/)
+
 
 ## Reading About Systematic Reviews
 
@@ -101,7 +107,7 @@ It's important to stay on top of trends and publications in librarianship, but a
 
 ## Reddit Communities
 
-I found that occasionally browsing these subreddits were very helpful in my understanding of medical education, the clinical experience, and public health.
+I found that occasionally browsing these subreddits was very helpful in my understanding of medical education, the clinical experience, and public health.
 
 * [Free Open Access Medical Education /Foamed](https://www.reddit.com/r/Foamed/)
 * [Medical School /medicalschool](https://www.reddit.com/r/medicalschool/)
