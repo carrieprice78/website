@@ -24,7 +24,7 @@ I have been a clinical medical librarian and health sciences librarian since 201
 
 Take all the opportunities you can: to volunteer in clinical settings; to round with doctors; to attend department/division meetings. Read as much as you can about the disciplines you're interested in.
 
-## Learning About Medicine and Medical Terminology
+## Medicine and Medical Terminology
 * [Harvard Medical School Medical Dictionary of Health Terms](https://www.health.harvard.edu/a-through-c)
 * [Medical Subject Heading (MeSH) Browser](https://meshb.nlm.nih.gov/search)
 * [Medical Subject Heading (MeSH) Database](https://www.ncbi.nlm.nih.gov/mesh/) and [MeSH Home](https://www.nlm.nih.gov/mesh/meshhome.html)
@@ -43,25 +43,22 @@ Take all the opportunities you can: to volunteer in clinical settings; to round 
 * [Epidemiology in Public Health Practice from Coursera](https://www.coursera.org/specializations/professional-epidemiology?)
 * [Various Statistics Courses from Johns Hopkins Bloomberg School of Public Health Open Courseware](https://ocw.jhsph.edu/index.cfm/go/imageLib:il.search/#courses)
 
-## YouTube
-
-* [CEBM Oxford](https://www.youtube.com/channel/UCier2CaQeEuW1JOBn67ECjg)
-* [Cochrane Training](https://www.youtube.com/channel/UCoWzvKR8RPHG07PPeqBiibA)
-* [Sketchy EBM YouTube Channel](https://www.youtube.com/channel/UCj8HWVgRfPDhZgCPDQFMA5w) and [Site](http://www.sketchyebm.com/)
-
-
-## Reading About Systematic Reviews
+## Systematic Reviews
 
 If you are going to be doing any type of systematic or expert reviews, then the collection of manuals and guidance below should make for very exciting weekend reading. In addition to engaging in continuing education and professional development around the systematic review process, make sure to be familiar with these seminal publications about the methodology.
 
 * [The Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook)
   * Especially Part 1 and Part 2.1 -- 2.4
+* [Methodological Expectations for Cochrane Intervention Reviews (MECIR) Manual](https://community.cochrane.org/mecir-manual)
+  * Section C24-C38 address searching
 * [The National Academies: "Finding What Works in Health Care: Standards for Systematic Reviews"](https://www.nap.edu/read/13059/chapter/1)
   * Standards 2 and 3 are especially relevant to medical librarians
 * [JBI Manual for Evidence Synthesis](https://wiki.jbi.global/display/MANUAL/JBI+Manual+for+Evidence+Synthesis)
   * Sections 1.5 and all the chapters about different types of systematic reviews, depending on the research question/topic
 * [Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)](http://www.prisma-statement.org/)
   * Note the PRISMA-P and the PRISMA-ScR extensions
+* Kugley, S., Wade, A., Thomas, J., Mahood, Q., Jørgensen, A. M. K., Hammerstrøm, K., & Sathe, N. (2016). Searching for studies: A guide to information retrieval for Campbell. Campbell Systematic Reviews.  https://doi.org/10.4073/cmg.2016.1 from Campbell Methods Guides
+
 
 ## Literature Review Methods
 
@@ -124,3 +121,11 @@ It has been helpful for me to follow these hashtags, sometimes using [Tweetdeck]
 * [#UXLibs](https://twitter.com/hashtag/uxlibs)
 * [#datalibs](https://twitter.com/hashtag/datalibs)
 * [#AcademicTwitter](https://twitter.com/hashtag/academictwitter)
+* [#AcademicChatter](https://twitter.com/hashtag/academicchatter)
+
+## YouTube
+
+* [CEBM Oxford](https://www.youtube.com/channel/UCier2CaQeEuW1JOBn67ECjg)
+* [Cochrane Training](https://www.youtube.com/channel/UCoWzvKR8RPHG07PPeqBiibA)
+* [NNLM Channel](https://www.youtube.com/c/NnlmGov)
+* [Sketchy EBM YouTube Channel](https://www.youtube.com/channel/UCj8HWVgRfPDhZgCPDQFMA5w) and [Site](http://www.sketchyebm.com/)
