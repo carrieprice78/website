@@ -50,7 +50,7 @@ If you are going to be doing any type of systematic or expert reviews, then the 
 * [The Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook)
   * Especially Part 1 and Part 2.1 -- 2.4
 * [Methodological Expectations for Cochrane Intervention Reviews (MECIR) Manual](https://community.cochrane.org/mecir-manual)
-  * Section C24-C38 address searching
+  * Sections C24-C38 address searching
 * [The National Academies: "Finding What Works in Health Care: Standards for Systematic Reviews"](https://www.nap.edu/read/13059/chapter/1)
   * Standards 2 and 3 are especially relevant to medical librarians
 * [JBI Manual for Evidence Synthesis](https://wiki.jbi.global/display/MANUAL/JBI+Manual+for+Evidence+Synthesis)
