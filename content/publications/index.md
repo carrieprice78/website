@@ -1,14 +1,12 @@
 ---
-# Course title, summary, and position.
-# linktitle: Health Sciences Librarianship
-#summary: Resources for aspiring or current health sciences librarians.
-# weight: 30
+
 
 # Page metadata.
 title: Publications 
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 date: 2021-02-20
+
 
 ---
 ## Book Chapters 
