@@ -29,9 +29,9 @@ The Cochrane Collaboration's tools and resources will guide your systematic revi
 
 ### Joanna Briggs Institute
 
-JBI is an an international evidence-based healthcare research organisation that works with 70+ Universities and Hospitals (known as the JBI Collaboration) around the world. The organisation focuses on improving health outcomes globally by producing and disseminating research evidence, software, training, resources and publications relating to evidence-based healthcare. Learn about the JBI approach to evidence-based healthcare. The Reviewer's Manual provides guidance ofr all types of systematic and other expert reviews.
+The Manual for Evidence Synthesis provides guidance for all types of systematic and other expert reviews.
 
-* [JBI Reviewer's Manual](https://wiki.jbi.global/display/MANUAL/JBI+Manual+for+Evidence+Synthesis)
+* [JBI Manual for Evidence Synthesis](https://wiki.jbi.global/display/MANUAL/JBI+Manual+for+Evidence+Synthesis)
 
 
 ## Reporting

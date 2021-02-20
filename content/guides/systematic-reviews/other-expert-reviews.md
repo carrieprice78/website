@@ -18,6 +18,7 @@ weight: 2
 
 These three articles outline different approaches to typology and methodology for answering different types of clinical and non-clinical questions.
 
+* Sutton, A., Clowes, M., Preston, L., & Booth, A. (2019). Meeting the review family: exploring review types and associated information retrieval requirements. Health Information and Libraries Journal, 36(3), 202–222. https://doi.org/10.1111/hir.12276 
 * Akl, E.A., Haddaway, N., Rada, G., & Lotfi, T. (2020). Evidence synthesis 2.0: when systematic, scoping, rapid, living, and overviews of reviews come together? Journal of Clinical Epidemiology, online. https://doi.org/10.1016/j.jclinepi.2020.01.025
 * Munn, Z., Stern, C., Aromataris, E., Lockwood, C., & Jordan, Z. (2018). What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences. BMC medical research methodology, 18(1), 5. https://doi.org/10.1186/s12874-017-0468-4
 * Grant, M. J., & Booth, A. (2009). A typology of reviews: an analysis of 14 review types and associated methodologies. Health Information & Libraries Journal, 26(2), 91-108.https://doi.org/10.1111/j.1471-1842.2009.00848.x
