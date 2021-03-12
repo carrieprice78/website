@@ -9,7 +9,7 @@ title: LibGuides
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2020-08-12
+date: 2021-03-11
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -21,13 +21,13 @@ menu:
 ---
 
 
-I have built a lot of LibGuides over the years. I'll share what worked best for me.
+I have built a lot of LibGuides over the years and I'm happy to share what worked best for me.
 
 As the content and number of guides grew, I found it helpful to have at least three internal guides, as defined below. If working at an institution that has a lot of guides, it might be helpful to have these types of internal guides for each group, college, or discipline. 
 
 ## Best Practices Guide (Internal)
 
-Use your best practices guide internally. It should provide guidance to other LibGuide developers. I included sections for:
+Use your best practices guide internally. It should provide guidance to other LibGuide content creators. I included sections for:
 
 ### Accessibility
 
@@ -57,7 +57,8 @@ An accessible PDF:
 * has a set language
 
 Make sure that your uploaded accessible documents have alternative text and a thumbnail image.
-Using Adobe Acrobat Pro to Ensure Accessibility
+
+##### Using Adobe Acrobat Pro to Ensure Accessibility
 
 Use Adobe Acrobat Pro to create accessible PDFs.
 
@@ -82,7 +83,7 @@ Link to your institutional brand pages, which should reflect your choices of col
 
 ### Editorial Guidelines
 
-Here is where you can standardize terminology, grammar, and puncutation, fonts, and other materials such as PowerPoints and presentations for the whole library. I used tables inside a tabbed box for this purpose.
+Here is where you can standardize terminology, grammar, and punctuation, fonts, and other materials such as PowerPoints and presentations for the whole library. I used tables inside a tabbed box for this purpose.
 
 You can also specify how users should create friendly URLs or slugs for their guide pages. See [Compound Domain names](https://www.nngroup.com/articles/compound-domain-names/) from the Nielsen Norman Group.
 
@@ -103,7 +104,7 @@ Also note how you should embed resopnsive media, usually with a div class. See [
 ### Site Documentation
 Upload your current documents to a site documentation page on the best practices guide, and keep it updated.
 
-* customized CSS
+* customized JS/CSS
 * header code
 * footer code
 * subjects and tags metadata
@@ -115,7 +116,7 @@ Upload your current documents to a site documentation page on the best practices
 
 #### Making a New Guide
 
-Ensure the need for a new guide by first checking with your manager. To create a new guide, choose Create Guide in the LibGuides system. The default navigation is Side Nav.
+Ensure the need for a new guide by first checking manager/LibGuides administrators. To create a new guide, choose Create Guide in the LibGuides system. The default navigation is Side Nav.
 
 ##### Adding Assets, Links, and Databases
 
@@ -171,9 +172,9 @@ It may also be helpful to link to tools that will help budding web developers tr
 
 ## Storage and Reusable Elements Guide (Internal)
 
-I used the storage guide to keep reusable boxes that appeared frequently on many guides. I also used a storage guide to display resuable elements like headers, boxes, and other customized CSS or HTML elements. A user could see what it looked like before using the code in their own site. Users could also simply reuse a box that had the correct information, and the boxes could be updated from one place.
+I used the storage guide to keep reusable boxes that appeared frequently on many guides. I also used a storage guide to display resuable elements like headers, boxes, and other customized CSS or HTML elements. A user could see what it looked like before using the code in their own site. Content creators could also simply reuse a box that had the correct information, and the boxes could be updated from one place.
 
-You might also consider adding a sandbox page here, so that users can try out different designs before going live.
+You might also consider adding a sandbox page here, so that content creators can try out different designs before going live.
 
 ## Reusable Pages Guide (Internal)
 
