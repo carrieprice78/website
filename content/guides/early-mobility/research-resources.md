@@ -17,9 +17,9 @@ Most of the databases listed here are free to search, while the content may be b
 
 ## Getting to Full Text PDFs
 
-Both Kopernio and Unpaywall offer free, legal ways to access PDFs with browser plugins.
+Both EndNote Click and Unpaywall offer free, legal ways to access PDFs with browser plugins.
 
-* [Kopernio](https://kopernio.com/)
+* [EndNote Click](https://kopernio.com/)
 * [Open Access Button](https://openaccessbutton.org/)
 * [Unpaywall](https://unpaywall.org/)
 
