@@ -29,6 +29,20 @@ The [Grid System](https://getbootstrap.com/docs/3.3/css/#grid) can help you brea
 
 While LibGuides offers multiple Bootstrap-styled [Tables](https://getbootstrap.com/docs/3.3/css/#tables), there are additional table designs that you can incorporate into LibGuides. Remember that as a user experience best practice, Tables should not be used for layout reasons, but instead for the display of data.
 
+### Bootstrap Features Useful for LibGuides
+
+* [Grid Systems](http://bootstrapdocs.com/v3.3.0/docs/css/#grid) allow content creators to create a responsive layout that scales depending on the viewing device
+* [Tables](http://bootstrapdocs.com/v3.3.0/docs/css/#tables)
+
+#### Bootstrap Components Useful for LibGuides
+
+* [Alerts](https://getbootstrap.com/docs/3.3/components/#alerts)
+* [Badges](https://getbootstrap.com/docs/3.3/components/#badges)
+* [Jumbotron](https://getbootstrap.com/docs/3.3/components/#jumbotron)
+* [Labels](https://getbootstrap.com/docs/3.3/components/#labels)
+* [List Groups](https://getbootstrap.com/docs/3.3/components/#list-group)
+* [Responsive Media Embeds](https://getbootstrap.com/docs/3.3/components/#responsive-embed)
+* [Wells](https://getbootstrap.com/docs/3.3/components/#wells)
 ### Responsive Design
 
 Bootstrap allows for [Responsive Images](https://getbootstrap.com/docs/3.3/css/#images-responsive) and [Responsive Embeds](https://getbootstrap.com/docs/3.3/components/#responsive-embed) for media. This allows your selected images and videos to scale with the size of the device instead of remain at a fixed-width.

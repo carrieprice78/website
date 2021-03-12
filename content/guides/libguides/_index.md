@@ -40,17 +40,18 @@ Use your best practices guide internally. It should provide guidance to other Li
 
 #### Copy
 
-Use heading element tags (h3, h4, h5) instead of text decoration (bold, underline, italic) so that screen readers can identify headings and sections
+Use heading element tags (h3, h4, h5) instead of text decoration (bold, underline, italic) so that screen readers can identify headings and sections. h1 and h2 are already defined in LibGuides.
 
 #### Images
 
-Include short descriptive text as alt text (alternative text) for images so that screen readers can describe the image to the viewer
+Include short descriptive text as alt text (alternative text) for images so that screen readers can describe the image to the viewer with the use of a screen reader.
 
 #### What is an Accessible PDF?
 
 An accessible PDF:
 
-* has readable text - is not an image
+* has readable text
+* is not an image
 * has tags to indicate a heading structure
 * has alternate text for images
 * has a set reading order so that it can be read by a screen reader
@@ -98,7 +99,7 @@ You may wish to create a CSS Grid inside a box for a more customized look than B
 
 Embed responsive images by setting width to 100% with the height left blank.
 
-Also note how you should embed resopnsive media, usually with a div class. See [Boostrap's Documentation on Responsive Embeds](https://getbootstrap.com/docs/4.4/utilities/embed/). 
+Also note how you should embed resopnsive media, usually with a div class. See [Bootstrap's Documentation on Responsive Embeds](https://getbootstrap.com/docs/4.4/utilities/embed/). 
 
 
 ### Site Documentation
