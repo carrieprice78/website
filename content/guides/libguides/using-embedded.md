@@ -19,7 +19,7 @@ Both Bootstrap 3.3.0 and Font Awesome 4.7.0 are built-in to LibGuides. These are
 
 ## Bootstrap
 
-*[Bootstrap 3.3.0](https://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/)
+* [Bootstrap 3.3.0](https://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/)
 
 Bootstrap is an open-source CSS framework that helps users create responsive, device-friendly websites. As of March, 2021, version 3.3.0 is built in to the LibGuides and LibGuides CMS platforms. LibGuides content creators can use components or a Bootstrap grid or table by using the appropriate HTML in their source code. 
 
@@ -49,7 +49,7 @@ Bootstrap allows for [Responsive Images](https://getbootstrap.com/docs/3.3/css/#
 
 ## Font Awesome
 
-*[Font Awesome 4.7.0](https://fontawesome.com/v4.7.0/)
+* [Font Awesome 4.7.0](https://fontawesome.com/v4.7.0/)
 
 Font Awesome provides vector icons for a variety of commonly recognized meanings and tasks. Font Awesome icons were originally designed to be used with Bootstrap, so they interact well together. Finally, Font Awesome icons are designed to be screen reader-friendly, and can be used as decorative elements or with semantic or interactive purposes (Font Awesome, n.d.). LibGuides content creators can call on Font Awesome icons from their source code. 
 

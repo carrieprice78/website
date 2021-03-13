@@ -18,7 +18,7 @@ weight: 15
 
 ## Google Fonts
 
-*[Google Fonts](https://fonts.google.com/)
+* [Google Fonts](https://fonts.google.com/)
 
 Google's open source fonts can be included in the Custom JS/CSS section of Admin > Look & Feel so that LibGuides content creators and administrators can use a variety of fonts.
 
@@ -33,7 +33,7 @@ Include the font file in the head of your HTML and it will be automatically down
 
 ## Academicons
 
-*[Academicons](https://jpswalsh.github.io/academicons/)
+* [Academicons](https://jpswalsh.github.io/academicons/)
 
 Academicons are specialized open source icons for academia. It was originally built as a supplement to Font Awesome, so the two sets of icons work well together. You can style the icons using Font Awesome CSS. Instructions for using them in sites are at the bottom of the Academicons page.
 
