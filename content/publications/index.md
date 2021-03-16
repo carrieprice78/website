@@ -9,6 +9,10 @@ date: 2021-02-20
 
 
 ---
+
+View my [ORCID](https://orcid.org/0000-0003-4345-3547).
+
+
 ## Book Chapters 
 
 Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), Resident’s Handbook of Medical Quality and Safety. Switzerland: Springer International Publications. 

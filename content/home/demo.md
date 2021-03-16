@@ -51,7 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 
-I am a health sciences librarian and expert searcher with a strong interest in user-centered and instructional design, evidence-based medicine, and interprofessional education. 
+I am a health sciences librarian and expert searcher with a strong interest in user-centered and instructional design, evidence-based medicine, and interprofessional education. View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 Please see the [Guides](/guides/) section of this site for various guides on health sciences librarianship, expert searching, open educational resources, nursing, systematic reviews, and more.
 
