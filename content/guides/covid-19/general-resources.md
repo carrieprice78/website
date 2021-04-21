@@ -19,7 +19,6 @@ weight: 5
 * [Access Medicine COVID-19 Central](https://www.accessmedicinenetwork.com/channels/2610)
 * [American Medical Association COVID-19 Guidance](https://www.ama-assn.org/delivering-care/public-health/covid-19-2019-novel-coronavirus-resource-center-physicians)
 * [Cochrane COVID-19 Evidence Relevant to Critical Care](https://www.cochranelibrary.com/collections/doi/SC000039/full)
-* [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/)
 * [National Collaborating Centre for Methods and Tools: COVID-19 Rapid Evidence Service](https://www.nccmt.ca/knowledge-repositories/covid-19-rapid-evidence-service)
 * [Oxford Centre for Evidence Based Medicine COVID-19 Evidence Service](https://www.cebm.net/oxford-covid-19/)
 * [University of Minnesota Center for Infectious Disease Research and Policy](http://www.cidrap.umn.edu/)
