@@ -45,11 +45,11 @@ Put it all together in OpenShot Video Editor. [OpenShot](https://www.openshot.or
 
 ## Design
 
-I use (Canva)[https://canva.com/], the free version, to make opening and closing slides that I export as .png files. I use those slides along with the fonts and colors I've chosen for branding to create a PowerPoint template (.potx).
+I use (Canva)[https://canva.com/], the free version, to make opening and closing slides that I export as .png files. I use those slides along with the fonts and colors I've chosen for branding to create a PowerPoint template (.potx or .pptx).
 
 ## Sound
 
-Sound quality is important. Early on, I invested in a (RODE NT-USB Mini)[https://www.bhphotovideo.com/c/product/1540109-REG/rode_nt_usb_mini_usb_microphone.html].
+Sound quality is important. Early on, I invested in a [RODE NT-USB Mini](https://www.bhphotovideo.com/c/product/1540109-REG/rode_nt_usb_mini_usb_microphone.html).
 ## Need Help?
 
 Lots of these tools have communities on YouTube and Reddit to help you with learning the basics and troubleshooting problems.
