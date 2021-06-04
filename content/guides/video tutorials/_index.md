@@ -37,11 +37,11 @@ Record the audio for your script using [Audacity, a free open source tool](https
 
 ### Step Four
 
-Playback your script and use OBS Studio or video that can include screen capture or camera. [OBS](https://obsproject.com/) is also a free open source tool.
+Playback your script and use OBS Studio. [OBS](https://obsproject.com/) is also a free open source tool. OBS allows for screen and video capture. It usually takes me a couple of tries to get this step correct.
 
 ### Step Five
 
-Put it all together in OpenShot Video Editor. [OpenShot](https://www.openshot.org/) is also a free open-source tool. Export your video and save! You're done! You can publish on YouTube or anywhere else.
+Put it all together in OpenShot Video Editor. [OpenShot](https://www.openshot.org/) is also a free open-source tool. Export your video and save! You're done! You can publish on YouTube or anywhere else. This takes me a little while, too. I add open source music and opening and closing images. Sometimes I cut the video to insert something else, or a retake. 
 
 
 ### Need Help?
