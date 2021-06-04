@@ -43,13 +43,13 @@ Playback your script and use OBS Studio. [OBS](https://obsproject.com/) is also 
 
 Put it all together in OpenShot Video Editor. [OpenShot](https://www.openshot.org/) is also a free open-source tool. Export your video and save! You're done! You can publish on YouTube or anywhere else. This takes me a little while, too. I add open source music and opening and closing images. Sometimes I cut the video to insert something else, or a retake. 
 
-### Design
+## Design
 
 I use (Canva)[https://canva.com/], the free version, to make opening and closing slides that I export as .png files. I use those slides along with the fonts and colors I've chosen for branding to create a PowerPoint template (.potx).
 
-### Microphone
+## Sound
 
 Sound quality is important. Early on, I invested in a (RODE NT-USB Mini)[https://www.bhphotovideo.com/c/product/1540109-REG/rode_nt_usb_mini_usb_microphone.html].
-### Need Help?
+## Need Help?
 
 Lots of these tools have communities on YouTube and Reddit to help you with learning the basics and troubleshooting problems.
