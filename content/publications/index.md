@@ -25,6 +25,12 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 ## Articles 
 
+Swetlik, C., Migdady, I., Hasan, L. Z., Buletko, A. B., Price, C., & Cho, S. M. (2021). Cannabis use and stroke: Does a risk exist?. _Journal of Addiction Medicine_. Advance online publication. https://doi.org/10.1097/ADM.0000000000000870
+
+Yi, J. S., Pittman, C. A., Price, C. L., Nieman, C. L., & Oh, E. S. (2021). Telemedicine and dementia care: A systematic review of barriers and facilitators. _Journal of the American Medical Directors Association_. https://doi.org/10.1016/j.jamda.2021.03.015 
+
+Pittman, C. A., Roura, R., Price, C., Lin, F. R., Marrone, N., & Nieman, C. L. (2021). Racial/ethnic and sex rpresentation in US-based clinical trials of hearing loss management in adults: A systematic review. _JAMA Otolaryngology: Head & Neck Surgery_. Advance online publication. https://doi.org/10.1001/jamaoto.2021.0550
+
 Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., Price, C., Hernandez, A. V., & Cho, S. M. (2021). The authors reply. _Critical Care Medicine, 49_(3), e344–e345. https://doi.org/10.1097/CCM.0000000000004871 
 
 Shukla, A., Ahmed, O. G., Orlov, C. P., Price, C., Mukherjee, D., Choby, G., & Rowan, N. R. (2021). Quality-of-life instruments in endoscopic endonasal skull base surgery-A practical systematic review. _International Forum of Allergy & Rhinology_. Advance online publication. https://doi.org/10.1002/alr.22783
