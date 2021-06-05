@@ -87,7 +87,7 @@ Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinho
  
 ## Presentations and Posters  
 
-Price, C. (2021). Leveraging Embedded Tools in LibGuides for Improved Design and Navigation. To be presented at Association of College & Research Libraries (ACRL) Ascending Into an Open Future, virtual.
+Price, C. (2021). Leveraging embedded tools in LibGuides for improved design and navigation. Presented at the Association of College & Research Libraries (ACRL) Ascending Into an Open Future, virtual.
 
 Lobner, K., Price, C. (2020). Real-world readiness: Using LibGuides to wade through the COVID-19 flood. Springycamp, virtual.
 
