@@ -1,6 +1,6 @@
 ---
-title: C for Choosing Controlled Vocabulary
-linktitle:  C for Choosing Controlled Vocabulary
+title: C for Choosing Controlled Vocabulary or Choosing Databases
+linktitle:  C for Choosing Controlled Vocabulary or Choosing Databases
 toc: true
 type: docs
 date: 2020-08-12
@@ -41,3 +41,42 @@ Databases that use controlled vocabularies employ subject specialists who review
 * Explode will search with all narrower headings beneath the main heading you have chosen. PubMed will default to explode any MeSH term you search.
 * No Explode will only search for your chosen MeSH term without including any of the narrower headings in the MeSH hierarchy. You can select this option from the MeSH record.
 * Major Heading will narrow your search to only find MeSH terms listed as a major topic of an article. You can select this option from the MeSH record. Major headings are shown in the article record with an asterisk.
+
+## Choosing Databases
+
+Depending on your experience level, perhaps choosing databases to search is more appropriate than choosing controlled vocabulary. Much will depend on what you have access to. Here are just a few suggestions.
+
+### Multidisciplinary
+
+* PubMed
+* Embase
+* Scopus
+* Web of Science
+* Academic Search Ultimate
+
+### Psychology/Psychiatry
+
+* APA PsycINFO
+* PTSD Pubs
+* Social Theory
+* Abstracts in Social Gerontology
+* SocINDEX
+
+### Nursing
+
+* CINAHL
+
+### Rehabilitation
+
+* CINAHL
+* PEDro
+* SportDiscus
+* OTSeeker
+* SpeechBITE
+
+
+### Education
+
+* ERIC
+* Education Research Complete
+* ERC

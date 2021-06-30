@@ -21,7 +21,7 @@ weight: 10
 
 ### Guidelines
 
-* [ISSG Filters to Identify Guidelines](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-guidelines)
+* [ISSG Filters to Identify Guidelines](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/guidelines?authuser=0)
 
 ### Miscellaneous
 
@@ -31,13 +31,13 @@ weight: 10
 ### Randomized Controlled Trials
 
 * [Cochrane Highly Sensitive Search Strategies for PubMed from the 2008 version Cochrane Handbook](https://handbook-5-1.cochrane.org/chapter_6/6_4_11_1_the_cochrane_highly_sensitive_search_strategies_for.htm)
-* [Embase Search Strategy for finding RCTs from the Cochrane Work group](https://work.cochrane.org/embase)
-* [PsycINFO Search Strategy for finding RCTs from the Cochrane Work group](https://browse.welch.jhmi.edu/search-filters/%3Cli%3E%3Ca%20href=)
-* [ISSG Filters to Identify RCTs](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-randomized-controlled-trials-and)
+* [Embase Search Strategy for finding RCTs from Cochrane Community](https://community.cochrane.org/search-filters)
+* [PsycINFO Search Strategy for finding RCTs from the Cochrane Work group](https://work.cochrane.org/psycinfo)
+* [ISSG Filters to Identify RCTs](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/rcts?authuser=0)
 
 ### Systematic Reviews
 
-* [ISSG Filters to IDentify Systematic Reviews](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/filters-to-identify-systematic-reviews)
+* [ISSG Filters to Identify Systematic Reviews](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/systematic-reviews?authuser=0)
 
 ## Search Builder for Guidelines
 

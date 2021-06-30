@@ -16,7 +16,7 @@ weight: 5
 
 ## PubMed
 
-PubMed has a number of subject filters built in and can be called by appending a search by typing the appropriate words and [sb].
+PubMed has a number of subject filters built in and can be called by appending a search by typing the appropriate words and [sb]. As of 2020, these appear to no longer be maintained. I suggest using them as guidance.
 
 * [AIDS](https://www.nlm.nih.gov/bsd/pubmed_subsets/aids_strategy.html): use aids [sb]
 * [Bioethics](https://www.nlm.nih.gov/bsd/pubmed_subsets/bioethics_strategy.html): use bioethics [sb]
@@ -32,12 +32,12 @@ PubMed has a number of subject filters built in and can be called by appending a
 
 ## Miscellaneous
 
-* [Flinders Filters and CareSearch Filters](https://www.flinders.edu.au/flinders-digital-health-research-centre/flinders-filters) follow an established methodology designed to be objective and minimize bias
+* [Flinders Filters and CareSearch Filters](https://www.flinders.edu.au/research-centre-palliative-care-death-dying/partnerships-and-projects/flinders-filters) follow an established methodology designed to be objective and minimize bias
 * [Health Information Research Unit at McMaster University](https://hiru.mcmaster.ca/hiru/HIRU_Hedges_home.aspx) has written various database filters for therapy, diagnosis, review, prognosis, causation, etiology, economics, cost, clinical prediction guides, qualitative, and more for MEDLINE, Embase, and PsycINFO
 * [ISSG at InterTASC Search Filter Resource](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home) has a number of searches for different databases
-* [Search Filters for Various Databases](https://browse.welch.jhmi.edu/search-filters/ibguides.sph.uth.tmc.edu/c.php?g=543319&p=3723017) from the University of Texas School of Public Health
+* [Search Filters for Various Databases](https://libguides.sph.uth.tmc.edu/search_filters) from the University of Texas School of Public Health
 
 ## Ovid Platform Expert Searches
 
-* [Various search filters built by Ovid for Ovid](http://resourcecenter.ovid.com/site/resources/expert_search/healthexp.html#OvidFilters)
+* [Various search filters built by Ovid for Ovid](https://tools.ovid.com/ovidtools/expertsearches.html)
 

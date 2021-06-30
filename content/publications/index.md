@@ -94,16 +94,10 @@ Lobner, K., Price, C. (2020). Real-world readiness: Using LibGuides to wade thro
 Suen, J.J., Shukla, A., Harper, M. Pedersen, E., Goman, A.M., Price, C., Applebaum, J., Hoyer, M., Lin, F.R., Reed, N.S. (2020). Associations between hearing loss, loneliness, and social isolation: a systematic review. Poster presented at the American Auditory Society, Tucson, AZ. 
 
 Robins, S., Price, C. Overcoming the pitfalls of LibGuides through design and value-added content. Poster presented at the Medical Library Association Annual Conference (2020); presented at the Midwest-MLA Chapter Meeting, Milwaukee, WI (2019). 
-
  
-
 Blanck, J., Anton, B., Price, C., Woodson, S., Seal, S., Seymour, A. (2018). Counting what matters: Combining robust assessment practices with dynamic visual dashboards. Paper presented at the Medical Library Association (MLA) Annual Meeting and Exhibition, Atlanta, GA. 
 
- 
-
 Price, C. (2018). Predatory publishing: How can librarians lead the way? Webinar presented for the U.S. National Library of Medicine, National Network of Libraries of Medicine. Seaside Webinar Series. Online at https://youtu.be/ON6a2THN9q4.  
-
- 
 
 Johns, E., Price, C., Ungaretti, T. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations. Paper presented Distance Library Services Conference, San Antonio, TX.  
 

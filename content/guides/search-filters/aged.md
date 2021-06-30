@@ -17,7 +17,7 @@ weight: 2
 
 
 ## Existing Filters
-* [ISSG Filters to Find Age-Specific Studies](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/other-filters/age-filters-1)
+* [ISSG Filters to Find Age-Specific Studies](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/age-groups?authuser=0)
 
 ## Search Builder for Aged
 ### Controlled Vocabulary

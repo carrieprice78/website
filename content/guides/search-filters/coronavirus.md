@@ -13,14 +13,17 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4
 ---
+## Existing Filters
 
+* [CADTH](https://covid.cadth.ca/literature-searching-tools/cadth-covid-19-search-strings/#covid-19-medline)
+* [Medical Library Association](https://www.mlanet.org/page/covid-19-literature-searching)
 ## Search Builder for COVID-19
 
 ### Controlled Vocabulary
 
 #### PubMed
 
-"coronavirus"[mesh:noexp] OR "coronavirus infections"[mesh] OR "coronaviridae infections"[mesh:noexp] OR "coronaviridae"[mesh] OR "COVID-19" [Supplementary Concept] OR "COVID-19 vaccine"[supplementary concept] OR "COVID-19 serotherapy"[supplementary concept] OR "COVID-19 diagnostic testing"[supplementary concept] OR "spike glycoprotein, coronavirus"[supplementary concept] OR "COVID-19 drug treatment"[supplementary concept] OR "LAMP assay"[supplementary concept] OR "severe acute respiratory syndrome coronavirus 2"[supplementary concept]
+"COVID-19"[mesh] OR "SARS-CoV-2"[mesh] OR "coronavirus"[mesh:noexp] OR "coronavirus infections"[mesh] OR "coronaviridae infections"[mesh:noexp] OR "coronaviridae"[mesh] OR "COVID-19" [Supplementary Concept] OR "COVID-19 vaccine"[supplementary concept] OR "COVID-19 serotherapy"[supplementary concept] OR "COVID-19 diagnostic testing"[supplementary concept] OR "spike glycoprotein, coronavirus"[supplementary concept] OR "COVID-19 drug treatment"[supplementary concept] OR "LAMP assay"[supplementary concept] OR "severe acute respiratory syndrome coronavirus 2"[supplementary concept]
 
 Note: If using coronavirus MeSH, consider limiting the search to 2019 through the present.
 
@@ -35,7 +38,7 @@ COVID-19 OR COVID OR COVID19 OR COVID2019 OR coronavirus OR corona virus OR coro
 
 #### PubMed
 
-"alphacoronavirus"[mesh] OR "alphacoronavirus 1"[mesh] OR "betacoronavirus"[mesh] OR "coronaviridae"[mesh] OR "coronavirus 229e, human"[mesh] OR "coronavirus infections"[mesh] OR "coronavirus, turkey"[mesh] OR "coronavirus nl63, human"[mesh] OR "coronavirus"[mesh] OR "covid-19"[supplementary concept] OR "gammacoronavirus"[mesh] OR "infectious bronchitis virus"[mesh] OR "middle east respiratory syndrome coronavirus"[mesh] OR "porcine epidemic diarrhea virus"[mesh] OR "porcine respiratory coronavirus"[mesh] OR "sars virus"[mesh]
+"COVID-19"[mesh] OR "SARS-CoV-2"[mesh] OR "alphacoronavirus"[mesh] OR "alphacoronavirus 1"[mesh] OR "betacoronavirus"[mesh] OR "coronaviridae"[mesh] OR "coronavirus 229e, human"[mesh] OR "coronavirus infections"[mesh] OR "coronavirus, turkey"[mesh] OR "coronavirus nl63, human"[mesh] OR "coronavirus"[mesh] OR "covid-19"[supplementary concept] OR "gammacoronavirus"[mesh] OR "infectious bronchitis virus"[mesh] OR "middle east respiratory syndrome coronavirus"[mesh] OR "porcine epidemic diarrhea virus"[mesh] OR "porcine respiratory coronavirus"[mesh] OR "sars virus"[mesh]
 
 #### Embase
 
