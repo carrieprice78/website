@@ -15,7 +15,7 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Book Chapters 
 
-Price, C., Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen.  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines._ 4th ed. Indianapolis, IN: Sigma Theta Tau International
+Price, C., Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International
 
 Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Switzerland: Springer International Publications. 
   
