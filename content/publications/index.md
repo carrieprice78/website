@@ -5,7 +5,7 @@
 title: Publications 
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
-date: 2021-02-20
+date: 2021-10-12
 
 
 ---
@@ -15,15 +15,17 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Book Chapters 
 
-Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), Resident’s Handbook of Medical Quality and Safety. Switzerland: Springer International Publications. 
+Price, C., Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen.  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines._ 4th ed. Indianapolis, IN: Sigma Theta Tau International
 
+Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Switzerland: Springer International Publications. 
   
-
-Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), Resident’s Handbook of Medical Quality and Safety. Switzerland: Springer International Publications. 
+Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), _Resident’s handbook of medical quality and safety._ Switzerland: Springer International Publications. 
 
   
 
 ## Articles 
+
+Huang, M., Gedansky, A., Hassett, C. E., Price, C., Fan, T. H., Stephens, R. S., Nyquist, P., Uchino, K., & Cho, S. M. (2021). Pathophysiology of brain injury and neurological outcome in acute respiratory distress syndrome: A scoping review of preclinical to clinical studies. _Neurocritical Care,_ 1–10. Advance online publication. https://doi.org/10.1007/s12028-021-01309-x
 
 Swetlik, C., Migdady, I., Hasan, L. Z., Buletko, A. B., Price, C., & Cho, S. M. (2021). Cannabis use and stroke: Does a risk exist?. _Journal of Addiction Medicine_. Advance online publication. https://doi.org/10.1097/ADM.0000000000000870
 
@@ -101,9 +103,7 @@ Price, C. (2018). Predatory publishing: How can librarians lead the way? Webinar
 
 Johns, E., Price, C., Ungaretti, T. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations. Paper presented Distance Library Services Conference, San Antonio, TX.  
 
- 
-
-Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review. Poster presented at the 7th Annual Johns Hopkins Physical Medicine and Rehabilitation Annual Research and Clinical Expo, Baltimore, MD. 
+ Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review. Poster presented at the 7th Annual Johns Hopkins Physical Medicine and Rehabilitation Annual Research and Clinical Expo, Baltimore, MD. 
 
  
 
