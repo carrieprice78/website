@@ -1,8 +1,8 @@
 ---
 # Course title, summary, and position.
 linktitle: PubMed
-summary: Tips and tricks for using PubMed.
-weight: 10
+summary: Tips and tricks for using PubMed, a platform of biomedical literature maintained by the U.S. National Library of Medicine.
+weight: 72
 
 # Page metadata.
 title: PubMed
@@ -10,7 +10,7 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 date: 2021-10-13
-tags: open access
+tags: pubmed,
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
