@@ -26,9 +26,9 @@ menu:
 
 ## Creating an Account
 1.	In the upper right-hand corner of PubMed, click on Log in. 
-2.	Choose Other login options.
-3.	Scroll to the bottom and click New here? Sign up.
-4.	Choose More sign up options.
+2.	Choose **Other login options**.
+3.	Scroll to the bottom and click **New here? Sign up**.
+4.	Choose **More sign up options**.
 5.	Search for your institution.
 6.	You should be able to use your institution credentials. You will need to verify your email. 
 
