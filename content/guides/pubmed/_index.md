@@ -10,7 +10,7 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 date: 2021-10-13
-tags: pubmed,
+tags: pubmed
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -29,8 +29,10 @@ menu:
 2.	Choose Other login options.
 3.	Scroll to the bottom and click New here? Sign up.
 4.	Choose More sign up options.
-5.	Search for Towson University.
-6.	You should be able to use your TU NetID. You will need to verify your email. You should now be able to sign in with your TU credentials.
+5.	Search for your institution.
+6.	You should be able to use your institution credentials. You will need to verify your email. 
+
+You may choose another option if you do not want to use your institution.
 
 
 
