@@ -66,8 +66,9 @@ If you are a reference librarian who assists research teams with literature revi
 
 * [National Collaborating Centre for Methods and Tools at McMaster University: Knowledge Translation Methods and Tools for Public Health](https://www.nccmt.ca/knowledge-repositories/search)
 * Akl, E.A., Haddaway, N., Rada, G., & Lotfi, T. (2020). Evidence synthesis 2.0: when systematic, scoping, rapid, living, and overviews of reviews come together? Journal of Clinical Epidemiology, online.[https://doi.org/10.1016/j.jclinepi.2020.01.025](https://doi.org/10.1016/j.jclinepi.2020.01.025)
-* Munn, Z., Stern, C., Aromataris, E., Lockwood, C., & Jordan, Z. (2018). What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences. BMC medical research methodology, 18(1), 5. [https://doi.org/10.1186/s12874-017-0468-4](https://doi.org/10.1186/s12874-017-0468-4)
-* Grant, M. J., & Booth, A. (2009). A typology of reviews: an analysis of 14 review types and associated methodologies. Health Information & Libraries Journal, 26(2), 91-108.[https://doi.org/10.1111/j.1471-1842.2009.00848.x](https://doi.org/10.1111/j.1471-1842.2009.00848.x)
+* Grant, M. J., & Booth, A. (2009). A typology of reviews: an analysis of 14 review types and associated methodologies. _Health Information & Libraries Journal, 26_(2), 91-108.[https://doi.org/10.1111/j.1471-1842.2009.00848.x](https://doi.org/10.1111/j.1471-1842.2009.00848.x)
+* Munn, Z., Stern, C., Aromataris, E., Lockwood, C., & Jordan, Z. (2018). What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences. _BMC Medical Research Methodology, 18_(1), 5. [https://doi.org/10.1186/s12874-017-0468-4](https://doi.org/10.1186/s12874-017-0468-4)
+* Sutton, A., Clowes, M., Preston, L., & Booth, A. (2019). Meeting the review family: exploring review types and associated information retrieval requirements. _Health Information and Libraries Journal, 36_(3), 202–222. [https://doi.org/10.1111/hir.12276](https://doi.org/10.1111/hir.12276)
 
 ## Health Literacy
 
@@ -83,10 +84,13 @@ The books I've listed here represent a wide variety of stories and memoirs, but 
 * [Admissions: Life as a Brain Surgeon, by Henry Marsh](https://www.goodreads.com/book/show/33574189-admissions?from_search=true&from_srp=true&qid=jRuDgXTIMO&rank=2)
 * [Being Mortal: Medicine and What Matters in the End, by Atul Gawande](https://www.goodreads.com/book/show/20696006-being-mortal?from_search=true&from_srp=true&qid=fZnN7YuZ1F&rank=1)
 * [Black Man in a White Coat: A Doctor's Reflections on Race and Medicine, by Damon Tweedy](https://www.goodreads.com/book/show/22857246-black-man-in-a-white-coat?from_search=true&from_srp=true&qid=cu47WvMHiq&rank=1)
-* [Critical Care: A New Nurse Faces Death, Life, and Everything in Between](https://www.goodreads.com/book/show/8474510-critical-care)
+* [Critical Care: A New Nurse Faces Death, Life, and Everything in Between, by Theresa Brown](https://www.goodreads.com/book/show/8474510-critical-care)
 * [Do No Harm, by Henry Marsh](https://www.goodreads.com/book/show/21086818-do-no-harm?from_search=true&from_srp=true&qid=jRuDgXTIMO&rank=1)
-* [Emergency!: True Stories from the Nation's ERs](https://www.goodreads.com/book/show/18919904-emergency)
+* [Emergency!: True Stories from the Nation's ERs, by Mark Brown](https://www.goodreads.com/book/show/18919904-emergency)
+* [The House of God, by Samuel Shem](https://www.goodreads.com/book/show/401876.The_House_of_God)
+* [The Laws of Medicine, by Siddhartha Mukherjee](https://www.goodreads.com/book/show/25409816-the-laws-of-medicine)
 * [The Man Who Touched His Own Heart: True Tales of Science, Surgery, and Mystery, by Rob Dunn](https://www.goodreads.com/book/show/22500961-the-man-who-touched-his-own-heart)
+* [The Youngest Science, by Lewis Thomas](https://www.goodreads.com/book/show/434412.The_Youngest_Science)
 * [People of the ER, by Philip Allen Green](https://www.goodreads.com/book/show/36432750-people-of-the-er)
 * [Trauma Room Two, by Philip Allen Green](https://www.goodreads.com/book/show/26370821-trauma-room-two) 
 * [When the Air Hits Your Brain: Tales from Neurosurgery, by Frank T. Vertosick, Jr.](https://www.goodreads.com/book/show/20240188-when-the-air-hits-your-brain)
