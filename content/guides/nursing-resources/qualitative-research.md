@@ -28,7 +28,7 @@ weight: 30
 * [International Institute for Qualitative Methodology from the University of Alberta](https://www.ualberta.ca/international-institute-for-qualitative-methodology/index.html)
 
   The International Institute for Qualitative Methodology (IIQM) is an interdisciplinary institute based at the University of Alberta, in Edmonton, Alberta, Canada, but serving qualitative researchers around the world.IIQM was founded in 1998, with the primary goal of facilitating the development of qualitative research methods across a wide variety of academic disciplines.
-* [The JBI Approach to Quantitative Synthesis](https://wiki.joannabriggs.org/display/MANUAL/2.4+The+JBI+Approach+to+qualitative+synthesis)
+* [The JBI Approach to Quantitative Synthesis](https://jbi-global-wiki.refined.site/space/MANUAL/3289120777/2.4+The+JBI+Approach+to+qualitative+synthesis)
 
-  JBI, or the Joanna Briggs Institute, is an evidence-based medicine organization. Their JBI Reviewer's Manual provides guidance to authors for the preparation of JBI Systematic Reviews and Evidence Syntheses.
+  
 

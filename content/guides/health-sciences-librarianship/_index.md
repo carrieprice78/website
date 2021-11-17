@@ -34,14 +34,14 @@ Take all the opportunities you can: to volunteer in clinical settings; to round 
 
 ## Various Courses
 
-* [Classes and Webinars from NLM/NNLM](https://nnlm.gov/classes)
+* [Classes and Webinars from NLM/NNLM](https://nnlm.gov/training)
 * [Clinical Terminology for International and U.S. Students from Coursera](https://www.coursera.org/learn/clinical-terminology)
 * [Consumer Health Information Specialization through MLA/NNLM](https://www.mlanet.org/page/chis)
 * [Design and Interpretation of Clinical Trials from Coursera](https://www.coursera.org/learn/clinical-trials)
 * [Evidence-Based Practice for the Medical Librarian from the School of Information and Library Science at UNC](https://sils.unc.edu/programs/ebm)
 * [Evidence-Based Practice for Medical Librarians from Strauss Health Sciences Library at U Colorado](https://library-cuanschutz.libguides.com/friendly.php?s=ebpml)
 * [Epidemiology in Public Health Practice from Coursera](https://www.coursera.org/specializations/professional-epidemiology?)
-* [Various Statistics Courses from Johns Hopkins Bloomberg School of Public Health Open Courseware](https://ocw.jhsph.edu/index.cfm/go/imageLib:il.search/#courses)
+* [Various Courses from Johns Hopkins Bloomberg School of Public Health Open Courseware](https://ocw.jhsph.edu/)
 
 ## Systematic Reviews
 
@@ -53,11 +53,11 @@ If you are going to be doing any type of systematic or expert reviews, then the 
   * Sections C24-C38 address searching
 * [The National Academies: "Finding What Works in Health Care: Standards for Systematic Reviews"](https://www.nap.edu/read/13059/chapter/1)
   * Standards 2 and 3 are especially relevant to medical librarians
-* [JBI Manual for Evidence Synthesis](https://wiki.jbi.global/display/MANUAL/JBI+Manual+for+Evidence+Synthesis)
+* [JBI Manual for Evidence Synthesis](https://jbi-global-wiki.refined.site/space/MANUAL)
   * Sections 1.5 and all the chapters about different types of systematic reviews, depending on the research question/topic
 * [Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)](http://www.prisma-statement.org/)
   * Note the PRISMA-P and the PRISMA-ScR extensions
-* Kugley, S., Wade, A., Thomas, J., Mahood, Q., Jørgensen, A. M. K., Hammerstrøm, K., & Sathe, N. (2016). Searching for studies: A guide to information retrieval for Campbell. Campbell Systematic Reviews.  https://doi.org/10.4073/cmg.2016.1 from Campbell Methods Guides
+* Kugley, S., Wade, A., Thomas, J., Mahood, Q., Jørgensen, A. M. K., Hammerstrøm, K., & Sathe, N. (2016). Searching for studies: A guide to information retrieval for Campbell. Campbell Systematic Reviews. [https://doi.org/10.4073/cmg.2016.1](https://doi.org/10.4073/cmg.2016.1) from Campbell Methods Guides
 
 
 ## Literature Review Methods
@@ -65,8 +65,8 @@ If you are going to be doing any type of systematic or expert reviews, then the 
 If you are a reference librarian who assists research teams with literature reviews, then these sources are critical to aid in understanding the different types of reviews that are appropriate for different types of topics and author goals.
 
 * [National Collaborating Centre for Methods and Tools at McMaster University: Knowledge Translation Methods and Tools for Public Health](https://www.nccmt.ca/knowledge-repositories/search)
-* Akl, E.A., Haddaway, N., Rada, G., & Lotfi, T. (2020). Evidence synthesis 2.0: when systematic, scoping, rapid, living, and overviews of reviews come together? Journal of Clinical Epidemiology, online. https://doi.org/10.1016/j.jclinepi.2020.01.025
-* Munn, Z., Stern, C., Aromataris, E., Lockwood, C., & Jordan, Z. (2018). What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences. BMC medical research methodology, 18(1), 5. https://doi.org/10.1186/s12874-017-0468-4
+* Akl, E.A., Haddaway, N., Rada, G., & Lotfi, T. (2020). Evidence synthesis 2.0: when systematic, scoping, rapid, living, and overviews of reviews come together? Journal of Clinical Epidemiology, online.[https://doi.org/10.1016/j.jclinepi.2020.01.025](https://doi.org/10.1016/j.jclinepi.2020.01.025)
+* Munn, Z., Stern, C., Aromataris, E., Lockwood, C., & Jordan, Z. (2018). What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences. BMC medical research methodology, 18(1), 5. [https://doi.org/10.1186/s12874-017-0468-4](https://doi.org/10.1186/s12874-017-0468-4)
 * Grant, M. J., & Booth, A. (2009). A typology of reviews: an analysis of 14 review types and associated methodologies. Health Information & Libraries Journal, 26(2), 91-108.[https://doi.org/10.1111/j.1471-1842.2009.00848.x](https://doi.org/10.1111/j.1471-1842.2009.00848.x)
 
 ## Health Literacy
@@ -128,4 +128,4 @@ It has been helpful for me to follow these hashtags, sometimes using [Tweetdeck]
 * [CEBM Oxford](https://www.youtube.com/channel/UCier2CaQeEuW1JOBn67ECjg)
 * [Cochrane Training](https://www.youtube.com/channel/UCoWzvKR8RPHG07PPeqBiibA)
 * [NNLM Channel](https://www.youtube.com/c/NnlmGov)
-* [Sketchy EBM YouTube Channel](https://www.youtube.com/channel/UCj8HWVgRfPDhZgCPDQFMA5w) and [Site](http://www.sketchyebm.com/)
+* [Sketchy EBM YouTube Channel](https://www.youtube.com/channel/UCj8HWVgRfPDhZgCPDQFMA5w) 
