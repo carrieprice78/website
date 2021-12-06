@@ -25,9 +25,13 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 ## Articles 
 
+Fan, T. H., Huang, M., Gedansky, A., Price, C., Robba, C., Hernandez, A. V., & Cho, S. M. (2021). Prevalence and outcome of acute respiratory distress syndrome in traumatic brain injury: A systematic review and meta-analysis. _Lung, 199_(6), 603–610. https://doi.org/10.1007/s00408-021-00491-1
+
+Huang, M., Shoskes, A., Migdady, I., Amin, M., Hasan, L., Price, C., Uchino, K., Choi, C. W., Hernandez, A. V., & Cho, S. M. (2021). Does targeted temperature management improve neurological outcome in extracorporeal cardiopulmonary resuscitation (ECPR)?. _Journal of Intensive Care Mdicine_. Advance online publication. https://doi.org/10.1177/08850666211018982 
+
 Huang, M., Gedansky, A., Hassett, C. E., Price, C., Fan, T. H., Stephens, R. S., Nyquist, P., Uchino, K., & Cho, S. M. (2021). Pathophysiology of brain injury and neurological outcome in acute respiratory distress syndrome: A scoping review of preclinical to clinical studies. _Neurocritical Care,_ 1–10. Advance online publication. https://doi.org/10.1007/s12028-021-01309-x
 
-Swetlik, C., Migdady, I., Hasan, L. Z., Buletko, A. B., Price, C., & Cho, S. M. (2021). Cannabis use and stroke: Does a risk exist?. _Journal of Addiction Medicine_. Advance online publication. https://doi.org/10.1097/ADM.0000000000000870
+Swetlik, C., Migdady, I., Hasan, L. Z., Buletko, A. B., Price, C., & Cho, S. M. (2021). Cannabis use and stroke: Does a risk exist?. _Journal of Addiction Medicine_. https://doi.org/10.1097/ADM.0000000000000870
 
 Yi, J. S., Pittman, C. A., Price, C. L., Nieman, C. L., & Oh, E. S. (2021). Telemedicine and dementia care: A systematic review of barriers and facilitators. _Journal of the American Medical Directors Association_. https://doi.org/10.1016/j.jamda.2021.03.015 
 

@@ -80,6 +80,3 @@ In addition to the evidence levels and grading found in the JHN EBP Model Tools,
 * [SYRCLE's Risk of Bias Tool](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-14-43): This tool is based on the Cochrane RoB tool and has been adjusted for aspects of bias that play a specific role in animal intervention studies.
 * [U.S. Preventive Services Task Force](https://www.uspreventiveservicestaskforce.org/uspstf/grade-definitions): The U.S. Preventive Services Task Force (USPSTF) assigns one of five letter grades (A, B, C, D, or I). The USPSTF changed its grade definitions based on a change in methods in May 2007 and again in July 2012, when it updated the definition of and suggestions for practice for the grade C recommendation.
 
-## Practice Searching Exercises
-
-Coming soon!

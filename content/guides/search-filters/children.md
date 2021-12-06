@@ -33,4 +33,3 @@ weight: 3
 MH "adolescence" OR MH "child" OR MH "infant" OR MH "neonatology" OR MH "pediatrics" OR MH "perinatology" OR MH "puberty"
 
 ### Keywords
-adolescent OR adolescents OR adolescence OR baby OR babies OR boy OR boys OR girl OR girls OR OR boyhood OR girlhood OR child OR childhood OR children OR infant OR infants OR infantile OR juvenile OR juveniles OR kid OR kids OR kindergarten* OR K12 OR K-12 OR K 12 OR neonatal* OR neonate OR neonates OR newborn OR newborns OR pediatric OR paediatric OR pediatrics OR paediatrics OR perinatal* OR preteen OR preteens OR primary school OR pubescent OR pubescents OR pubescence OR puberty OR puberties OR school aged OR school age OR secondary school OR teen OR teens OR teenager OR teenagers OR toddler OR toddlers OR tween OR tweens OR young OR youth 

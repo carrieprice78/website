@@ -30,7 +30,6 @@ weight: 5
 ## Local Government Resources
 
 * [Maryland Department of Health](https://coronavirus.maryland.gov/)
-  * [Baltimore City COVID-19 Dashboard](https://coronavirus.baltimorecity.gov/)
 * [Virginia Department of Health](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)
 * [Pennsylvania Department of Health](https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx)
 * [District of Columbia Coronavirus](https://coronavirus.dc.gov/)
