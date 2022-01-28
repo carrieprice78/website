@@ -22,4 +22,4 @@ menu:
 
 Resources for authors and researchers planning to do a systematic review.
 
-<sub>Some of the content of this guide is attributable to the Welch Medical Library Systematic Review Guide at Johns Hopkins University.</sub>
+<sub>Navigate resources with the menu on the left.</sub>
