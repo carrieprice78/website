@@ -27,7 +27,3 @@ weight: 15
 * [University of Michigan COVID-19 Best Evidence](https://frontdoor.knack.com/covidbestevidence/)
 * [U.S. Department of Health and Human Services Novel Coronavirus Resources](https://asprtracie.hhs.gov/COVID-19)
 
-## COVID-19 on Social Media
-
-* [#ICU and #COVID19 Twitter Feed](http://bit.ly/icucovid)
-* [#pedsICU and #COVID19 Twitter Feed](https://mobile.twitter.com/search?q=%23pedsicu+%23covid19)

@@ -50,7 +50,7 @@ If you have a subscription to [APA PsycINFO or APA PsycTESTS](https://www.apa.or
 
 ## Clinical Trials Registries
 
-* [AAFP Clinical Practice Guidelines](https://www.aafp.org/patient-care/browse/type.tag-clinical-practice-guidelines.html)
+* [AAFP Clinical Practice Guidelines](https://www.aafp.org/family-physician/patient-care/clinical-recommendations/clinical-practice-guidelines/clinical-practice-guidelines.html)
 * [AOTA Practice Guidelines](https://www.aota.org/Practice/Researchers/practice-guidelines.aspx)
 * [ASHA Guidelines Search](https://find.asha.org/asha#q=guidelines&sort=relevancy)
 * [ClinicalTrials.gov](https://clinicaltrials.gov/)

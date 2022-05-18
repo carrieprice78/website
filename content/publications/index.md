@@ -12,18 +12,16 @@ date: 2021-10-12
 
 View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
+ - [Articles](#articles)
+ - [Book Chapters](#books)
+ - [Grants](#grants)
+ - [Instruction](#instruction)
+ - [Posters and Presentations](#posters)
+ - [Protocols](#protocols)
 
-## Book Chapters 
+## Articles <a name="articles"></a>
 
-Price, C., Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International
-
-Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Switzerland: Springer International Publications. 
-  
-Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), _Resident’s handbook of medical quality and safety._ Switzerland: Springer International Publications. 
-
-  
-
-## Articles 
+Dhar, S. I., Ryan, M. A., Davis, A. C., Jedlanek, E., Pietsch, K., Price, C., Brodsky, M. B., & Akst, L. M. (2022). Does medialization improve swallowing function in patients with unilateral vocal fold paralysis? Asystematic review._ Dysphagia_. Advance online publication. https://doi.org/10.1007/s00455-022-10441-5
 
 Fan, T. H., Huang, M., Gedansky, A., Price, C., Robba, C., Hernandez, A. V., & Cho, S. M. (2021). Prevalence and outcome of acute respiratory distress syndrome in traumatic brain injury: A systematic review and meta-analysis. _Lung, 199_(6), 603–610. https://doi.org/10.1007/s00408-021-00491-1
 
@@ -90,46 +88,75 @@ Scala, E., Price, C., Day, J. (2016). An integrative review of engaging clinical
 Pereda, M. A., Chavez, M. A., Hooper-Miele, C. C., Gilman, R. H., Steinhoff, M. C., Ellington, L. E., Gross, M., Price, C., Tielsch, J. M. & Checkley, W. (2015). Lung ultrasound for the diagnosis of pneumonia in children: a meta-analysis. _Pediatrics, 135_(4), 714-722. https://doi.org/10.1542/peds.2014-2833  
 
 Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinhoff, M. C., Santosham, M., Black, R.E., Price C., Gross,- M. & Checkley, W. (2014). Lung ultrasound for the diagnosis of pneumonia in adults: a systematic review and meta-analysis. _Respiratory Research, 15_(1), 50. https://doi.org/10.1186/1465-9921-15-50  
- 
-## Presentations and Posters  
 
-Price, C. (2021). Leveraging embedded tools in LibGuides for improved design and navigation. Presented at the Association of College & Research Libraries (ACRL) Ascending Into an Open Future, virtual.
 
-Lobner, K., Price, C. (2020). Real-world readiness: Using LibGuides to wade through the COVID-19 flood. Springycamp, virtual.
+## Book Chapters <a name="books"></a>
 
-Suen, J.J., Shukla, A., Harper, M. Pedersen, E., Goman, A.M., Price, C., Applebaum, J., Hoyer, M., Lin, F.R., Reed, N.S. (2020). Associations between hearing loss, loneliness, and social isolation: a systematic review. Poster presented at the American Auditory Society, Tucson, AZ. 
+Price, C., Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International
 
-Robins, S., Price, C. Overcoming the pitfalls of LibGuides through design and value-added content. Poster presented at the Medical Library Association Annual Conference (2020); presented at the Midwest-MLA Chapter Meeting, Milwaukee, WI (2019). 
- 
-Blanck, J., Anton, B., Price, C., Woodson, S., Seal, S., Seymour, A. (2018). Counting what matters: Combining robust assessment practices with dynamic visual dashboards. Paper presented at the Medical Library Association (MLA) Annual Meeting and Exhibition, Atlanta, GA. 
+Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Switzerland: Springer International Publications. 
+  
+Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), _Resident’s handbook of medical quality and safety._ Switzerland: Springer International Publications. 
 
-Price, C. (2018). Predatory publishing: How can librarians lead the way? Webinar presented for the U.S. National Library of Medicine, National Network of Libraries of Medicine. Seaside Webinar Series. Online at https://youtu.be/ON6a2THN9q4.  
+## Grant <a name="grants"></a>
 
-Johns, E., Price, C., Ungaretti, T. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations. Paper presented Distance Library Services Conference, San Antonio, TX.  
+NNLM Data Science and Services Project Award. Amount: $25,000. (October 2021 – June 30, 2022).
 
- Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review. Poster presented at the 7th Annual Johns Hopkins Physical Medicine and Rehabilitation Annual Research and Clinical Expo, Baltimore, MD. 
+## Instruction <a name="instruction"></a>
+Price, C., Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
 
- 
+Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
+Price, C., Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; live]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
 
- Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review. Poster presented at the American Thoracic Society International Conference, Washington, D.C. 
+## Presentations and Posters  <a name="posters"></a>
 
- 
+Price, C. (2022). Bit by Byte: Building Best Practices in Data Literacy [Poster]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
+Oh, E., Yi, J., Pittman, C., Price, C., Nieman, C. (2021). Considering the technological and sensory needs of patients with cognitive impairment in the era of telehealth [Presentation]. American Auditory Society Annual Conference. https://doi.org/10.1093/geroni/igab046.326 
 
-Johns, E., Price, C., Ungaretti, T. (2017). Managing a mind shift: how a library partnership helps medical practitioners transform into medical educators. Poster presented at the Towson Conference for Academic Libraries, Towson, MD.  
+Damania, R., Price, C., Grunwell, J., Kamat, P. (2022). Future of pediatric critical care remote learning: Role and reach of a podcast series [Presentation]. Society of Critical Care Medicine 51st Critical Care Congress, virtual.
 
- 
+Price, C. (2021). Twitter and higher education: A bibliometric analysis [Poster]. Towson Conference for Academic Libraries, virtual. https://cpb-us-w2.wpmucdn.com/wp.towson.edu/dist/2/145/files/2021/07/TwitterHigherEd_poster.pdf 
 
-Lyon J., Price, C., Saragossi, J., Tran, C. (2017). Evaluating the consistency and quality of search strategies and methodology in Cochrane Urology group systematic reviews. Paper presented at the Medical Library Association (MLA) Annual Meeting and Exhibition, Seattle, WA. 
+Gass, S., Gilbert, M., Price, C., Sweeney, L., DesHarnais, M. (2021). Read it and weep: How one library began to improve its database descriptions [Poster]. Towson Conference for Academic Libraries, virtual. https://cpb-us-w2.wpmucdn.com/wp.towson.edu/dist/2/145/files/2021/07/ReadItWeep_poster.pdf
 
- 
+Ballard, B. Gass, S., Price, C., White, E. B. A cite for more eyes: Hosting virtual citation management workshops [Poster]. Towson Conference for Academic Libraries, virtual. https://www.youtube.com/watch?v=NKjtKoCp3lI 
 
-Price, C., Riese, V., Lobner, K., Blanck, J. & Anton, B. (2015). Beyond the search: librarian involvement on the systematic review team. Paper presented at the Medical Library Association (MLA) Annual Meeting and Exhibition, Austin, TX. 
+Price, C. (2021). Searching for evidence in the health professions: creating a robust guide that meets the needs of users [Poster]. SpringyCamp Annual Conference, virtual.
 
- 
+Price, C. (2021). Leveraging embedded tools in LibGuides for improved design and communication [Poster]. Association of College and Research Libraries Annual Conference, virtual.
 
-Price, C. (2013). Virtual office hours at the Welch Medical Library. Lightning Talk presented at the Medical Library Association (MLA) Annual Meeting and Exhibition, Boston, MA. 
+Price, C., Lobner, K. (2020). Real-world readiness: Using LibGuides to wade through the COVID-19 flood [Presentation]. SpringyCamp Annual Conference, virtual. https://buzz.springshare.com/springycamp/summer2020/real-world-readiness   
 
- 
+Suen, J.J., Shukla, A., Harper, M. Pedersen, E., Goman, A.M., Price, C., Applebaum, J., Hoyer, M., Lin, F.R., Reed, N.S. (2020). Associations between hearing loss, loneliness, and social isolation: a systematic review [Poster]. American Auditory Society Annual Conference, Tucson, AZ.
+
+Robins, S., Price, C. (2020). Overcoming the pitfalls of LibGuides through design and value-added content [Poster]. Presented at the Midwest-MLA Chapter Meeting, Milwaukee, WI.
+Shah, P., White, T., Price, C., Mukherjee, D. Innv-20. A systematic review of tumor treating fields therapy for primary for recurrent and glioblastoma [Presentation]. Neuro-oncology, 21(Supplement 6), vi134-va135. https://doi.org/10.1093/neuonc/noz175.563
+
+Jackson, C., Choi, J., Price, C.,  Bettegowda, C., Lim, M., Gallia, G., Weingart, J., Brem, H., Mukherjee. (2019). Surg-16. Supratotal versus gross total resection of glioblastoma: A systematic review [Poster]. Neuro-oncology, 21(Supplement 6), vi243. https://doi.org/10.1093/neuonc/noz175.1017 
+
+Blanck, J., Anton, B., Price, C., Woodson, S., Seal, S., Seymour, A. (2018). Counting what matters: Combining robust assessment practices with dynamic visual dashboards [Presentation]. the Medical Library Association (MLA) Annual Meeting and Exhibition, Atlanta, GA.
+
+Price, C. (2018). Predatory publishing: How can librarians lead the way? [Webinar].U.S. National Library of Medicine, Network of the National Library of Medicine Seaside Webinar Series. https://youtu.be/ON6a2THN9q4
+
+Johns, E., Price, C., Ungaretti, T. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations [Presentation]. Towson Conference for Academic Libraries, Towson, MD, and Distance Library Services Conference, San Antonio, TX. 
+
+Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. 7th Annual Johns Hopkins Physical Medicine and Rehabilitation Annual Research and Clinical Expo, Baltimore, MD.
+
+Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. American Thoracic Society International Conference, Washington, D.C.
+
+Johns, E., Price, C., Ungaretti, T. (2017). Managing a mind shift: how a library partnership helps medical practitioners transform into medical educators [Poster]. Towson Conference for Academic Libraries, Towson, MD. 
+
+Lyon J., Price, C., Saragossi, J., Tran, C. (2017). Evaluating the consistency and quality of search strategies and methodology in Cochrane Urology group systematic reviews [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Seattle, WA.
+
+Price, C., Riese, V., Lobner, K., Blanck, J. & Anton, B. (2015). Beyond the search: librarian involvement on the systematic review team [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Austin, TX.
+
+Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Boston, MA.
+
+
+
+## Protocol <a name="protocols"></a>
+
+Munn, Z., Stone, J. C., Barker, T. H., Price, C., Pollock, D., Kabaghe, A. N., Gimnig, J. E., & Stevenson, J. C. (2021). Residual insecticide surface treatment for preventing malaria: A systematic review protocol. MedRxiv, 2021.12.13.21267747. https://doi.org/10.1101/2021.12.13.21267747 
 
  
 

@@ -28,10 +28,8 @@ The following tools will aid in creating a sensitive search that includes the ty
 BioReader can help you distill your reading list by ranking articles by relevance. Simply collect the PubMed IDs of a number of articles you found relevant and a similar number of articles not relevant to you. BioReader will provide you with a ranked reading list to limit the time wasted on reading irrelevant literature.
 
 
-
 * [MeSH on Demand](https://meshb.nlm.nih.gov/MeSHonDemand)
 MeSH on Demand identifies MeSH® terms in your submitted text (abstract or manuscript). MeSH on Demand also lists PubMed similar articles relevant to your submitted text.
-
 
 
 * [PubReMiner](https://hgserver2.amc.nl/cgi-bin/miner/miner2.cgi)

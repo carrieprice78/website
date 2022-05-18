@@ -20,13 +20,13 @@ weight: 10
 * [CDC Library](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)
 * [The Chinese University of Hong Kong COVID-19 Information](https://www.aic.cuhk.edu.hk/covid19/)
 * [COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research)
-* [COVID-19 Evidence Reviews](https://www.who.int/gpsc/5may/hand_hygiene_video/en/)
 * [COVID-19 Preprints from medRxiv and bioRxiv](http://connect.medrxiv.org/relate/content/181)
 * [DisasterLit's Curated COVID-19 Search](https://disasterinfo.nlm.nih.gov/search/?q=%28coronavirus+AND+novel%29+OR+%28Wuhan+OR+19-ncov+OR+COVID-19%29)
 * [Homeland Security Digital Library COVID-19 Literature](https://www.hsdl.org/?search&all=&searchfield=&collection=public&any=&exact=&without=&begindate=&enddate=&fct&advanced=&submitted=Search&tabsection=Coronavirus+Disease+%28COVID-19%29)
 * [LitCovid from the U.S. National Library of Medicine](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 * [OutbreakSci PreReview](https://outbreaksci.prereview.org/)
 * [ProQuest Coronavirus Hub](https://search.proquest.com/coronavirus/index?_ga=2.199303854.1623208853.1585837935-914672131.1578949435)
+* [WHO COVID-19 Global Literature on Coronvavirus Disease](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/)
 
 ## Preprints and Open Access
 
@@ -43,6 +43,7 @@ See also:
 * [National COVID Cohort Collaborative](https://ncats.nih.gov/n3c/about)
 * [NIH Open Access Data and Computational Resources](https://datascience.nih.gov/covid-19-open-access-resources)
 * [New York Times Coronavirus Dataset](https://www.nytimes.com/article/coronavirus-county-data-us.html)
+* [WHO COVID-19 Dashboard Data Sources](https://covid19.who.int/data)
 
 ## Bench Science Resources
 
@@ -62,7 +63,7 @@ See also:
 * [Norwegian Institute of Public Health Systematic and Living Map on COVID-19 Evidence](https://www.nornesk.no/forskningskart/NIPH_mainMap.html)
   * [Map description/information](https://www.fhi.no/en/qk/systematic-reviews-hta/map/)
 * [OECD Coronavirus Resources and Information](http://www.oecd.org/coronavirus/en/)
-* [Causaly](https://get.causaly.com/covid19/)
+
 
 
 ## Getting to Full-Text PDFs

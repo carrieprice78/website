@@ -19,7 +19,7 @@ weight: 2
 The Cochrane Collaboration's tools and resources will guide your systematic review whether or not it is a Cochrane Review.
 
 * [Cochrane Handbook for Systematic Reviews of Interventions](http://training.cochrane.org/handbook)
-* [Methodological Expectatiosn of Cochrane Intervention Reviews](http://community.cochrane.org/mecir-manual)
+* [Methodological Expectations of Cochrane Intervention Reviews](http://community.cochrane.org/mecir-manual)
 * [Cochrane Handbook for Diagnostic Test Accuracy Reviews](https://methods.cochrane.org/sdt/handbook-dta-reviews): in development
 
 ### Institute of Medicine, National Academies
@@ -27,7 +27,7 @@ The Cochrane Collaboration's tools and resources will guide your systematic revi
 * [Finding What Works in Health Care: Standards for Systematic Reviews](https://www.nap.edu/read/13059/chapter/1)
 
 
-### Joanna Briggs Institute
+### JBI
 
 The Manual for Evidence Synthesis provides guidance for all types of systematic and other expert reviews.
 

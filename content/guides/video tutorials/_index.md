@@ -45,11 +45,14 @@ Playback your audio file and use OBS Studio for screen capture. [OBS](https://ob
 
 ### Step Six
 
-Put it all together in OpenShot Video Editor. [OpenShot](https://www.openshot.org/) is also a free open-source tool. Export your video and save! You're done! You can publish on YouTube or anywhere else. This takes me a little while, too. I add open source music and opening and closing images. Sometimes I cut the video to insert something else, or a retake. 
+Put it all together in a video editor. There are many to choose from. Cut, snip, trim, add music, text, and more. When you're ready, export the final video to an .mp4 format. You're done! You can publish on YouTube or anywhere else. T
+
+* [OpenShot](https://www.openshot.org/) 
+* [Shotcut](https://shotcut.org/) 
 
 ## Design
 
-I use [Canva](https://canva.com/), the free version, to make opening and closing slides that I export as .png files. I use those slides along with the fonts and colors I've chosen for branding to create a PowerPoint template (.potx or .pptx).
+I sometimes use [Canva](https://canva.com/), the free version, an to make opening and closing slides that I export as .png files. I use those slides along with the fonts and colors I've chosen for branding to create a PowerPoint template (.potx or .pptx).
 
 ## Sound
 

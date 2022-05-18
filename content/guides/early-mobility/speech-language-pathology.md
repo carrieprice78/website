@@ -35,7 +35,7 @@ Coming soon!
 
 ## Conferences and Events
 
-## [ASHA List of Events](http://www.asha.org/events/)
+* [ASHA List of Events](http://www.asha.org/events/)
 
 ## Apps for Augmentative and Alternative Communication (AAC)
 
