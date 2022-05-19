@@ -21,17 +21,14 @@ Joining a professional association can add to your skills by providing access to
 * [American Speech-Language-Hearing Association](http://www.asha.org/)
 * [American Speech Language Hearing Foundation](https://www.ashfoundation.org/)
 * [Dysphagia Research Society](http://www.dysphagiaresearch.org/)
-* [MD Board of Audiologists, Hearing Aid Dispensers, and SLPs](http://dhmh.maryland.gov/boardsahs/Pages/Index.aspx)
-* [MD Board of Audiologists, Hearing Aid Dispensers, and SLPs - License Verification](https://mdbnc.dhmh.md.gov/AUDVerification/Default.aspx)
+* [MD Board of Examiners for Audiologists, Hearing Aid Dispensers, Speech-Language Pathologists & Music Therapists](https://health.maryland.gov/boardsahs/Pages/Index.aspx)
+* [MD Board of Audiologists, Hearing Aid Dispensers, and SLPs - Licensing](https://health.maryland.gov/boardsahs/Pages/licensing.aspx)
 * [Maryland Licensing Requirements via ASHA](http://www.asha.org/advocacy/state/info/MD/licensure/)
 * [National Center for Voice and Speech](http://www.ncvs.org/)
 * [National Foundation of Swallowing Disorders](http://swallowingdisorderfoundation.com/)
 * [National Hearing Conservation Association](http://www.hearingconservation.org/)
 
 
-## Open Access SLP Journals
-
-Coming soon!
 
 ## Conferences and Events
 

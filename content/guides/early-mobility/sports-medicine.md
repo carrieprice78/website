@@ -27,13 +27,10 @@ Joining a professional organization can add to your skills by providing access t
 
 
 
-## Open Access Sports Medicine Journals
 
-Coming soon!
 
 ## Conferences and Events
 
-* [ACSM Annual Conference](http://www.acsm.org/attend-a-meeting/annual-meeting)
 * [AMSSM Annual Conference](http://www.amssm.org/Conferences.html)
 * [ASMI Annual Injuries in Baseball Annual Course](http://www.asmi.org/injuriesInBaseball.php)
 
