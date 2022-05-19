@@ -85,16 +85,16 @@ Huddle M.G., Goman A. M., Kernizan F.C., Foley D. M., Price C., Frick K.D., Lin 
 
 Scala, E., Price, C., Day, J. (2016). An integrative review of engaging clinical nurses in nursing research. _Journal of Nursing Scholarship, 48_(4), 423-30. https://doi.org/10.1111/jnu.12223  
 
-Pereda, M. A., Chavez, M. A., Hooper-Miele, C. C., Gilman, R. H., Steinhoff, M. C., Ellington, L. E., Gross, M., Price, C., Tielsch, J. M. & Checkley, W. (2015). Lung ultrasound for the diagnosis of pneumonia in children: a meta-analysis. _Pediatrics, 135_(4), 714-722. https://doi.org/10.1542/peds.2014-2833  
+Pereda, M. A., Chavez, M. A., Hooper-Miele, C. C., Gilman, R. H., Steinhoff, M. C., Ellington, L. E., Gross, M., Price, C., Tielsch, J. M., & Checkley, W. (2015). Lung ultrasound for the diagnosis of pneumonia in children: a meta-analysis. _Pediatrics, 135_(4), 714-722. https://doi.org/10.1542/peds.2014-2833  
 
-Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinhoff, M. C., Santosham, M., Black, R.E., Price C., Gross,- M. & Checkley, W. (2014). Lung ultrasound for the diagnosis of pneumonia in adults: a systematic review and meta-analysis. _Respiratory Research, 15_(1), 50. https://doi.org/10.1186/1465-9921-15-50  
+Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinhoff, M. C., Santosham, M., Black, R.E., Price C., Gross, M., & Checkley, W. (2014). Lung ultrasound for the diagnosis of pneumonia in adults: a systematic review and meta-analysis. _Respiratory Research, 15_(1), 50. https://doi.org/10.1186/1465-9921-15-50  
 
 
 ## Book Chapters <a name="books"></a>
 
 Price, C., Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International
 
-Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Switzerland: Springer International Publications. 
+Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Switzerland: Springer International Publications. http://www.worldcat.org/oclc/950930190 
   
 Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), _Resident’s handbook of medical quality and safety._ Switzerland: Springer International Publications. 
 
