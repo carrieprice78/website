@@ -43,9 +43,11 @@ If you have a subscription to [APA PsycINFO or APA PsycTESTS](https://www.apa.or
 
 ## Selected Open Access Databases
 
+* [Dimensions Free App](https://app.dimensions.ai/discover/publication)
 * [Eldis](https://www.eldis.org/)
 * [Global Index Medicus from the WHO](https://www.globalindexmedicus.net)
-* [Hinari from the WHO](https://www.who.int/hinari/en/)
+* [The Lens](https://www.lens.org/)
+* [Research4life - formerly HINARI](https://portal.research4life.org/content/journals)
 * [Virtual Health Library](https://bvsalud.org/)
 
 ## Clinical Trials Registries
@@ -59,6 +61,7 @@ If you have a subscription to [APA PsycINFO or APA PsycTESTS](https://www.apa.or
 * [ISRCTN Registry](https://www.isrctn.com/)
 
 ## Guidelines
+
 * [CPG Infobase](https://joulecma.ca/cpg/homepage)
 * [NICE: National Institute for Health and Care Excellence](https://www.nice.org.uk/)
 * [Registered Nurses' Association of Ontario: Guidelines](https://rnao.ca/bpg/guidelines?items=75)
