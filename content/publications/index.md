@@ -21,43 +21,43 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
-Dhar, S. I., Ryan, M. A., Davis, A. C., Jedlanek, E., Pietsch, K., Price, C., Brodsky, M. B., & Akst, L. M. (2022). Does medialization improve swallowing function in patients with unilateral vocal fold paralysis? Asystematic review._ Dysphagia_. Advance online publication. https://doi.org/10.1007/s00455-022-10441-5
+Dhar, S. I., Ryan, M. A., Davis, A. C., Jedlanek, E., Pietsch, K., Price, C., Brodsky, M. B., & Akst, L. M. (2022). Does medialization improve swallowing function in patients with unilateral vocal fold paralysis? A systematic review. _Dysphagia_. Advance online publication. https://doi.org/10.1007/s00455-022-10441-5
 
 Fan, T. H., Huang, M., Gedansky, A., Price, C., Robba, C., Hernandez, A. V., & Cho, S. M. (2021). Prevalence and outcome of acute respiratory distress syndrome in traumatic brain injury: A systematic review and meta-analysis. _Lung, 199_(6), 603–610. https://doi.org/10.1007/s00408-021-00491-1
 
-Huang, M., Shoskes, A., Migdady, I., Amin, M., Hasan, L., Price, C., Uchino, K., Choi, C. W., Hernandez, A. V., & Cho, S. M. (2021). Does targeted temperature management improve neurological outcome in extracorporeal cardiopulmonary resuscitation (ECPR)?. _Journal of Intensive Care Mdicine_. Advance online publication. https://doi.org/10.1177/08850666211018982 
+Huang, M., Shoskes, A., Migdady, I., Amin, M., Hasan, L., Price, C., Uchino, K., Choi, C. W., Hernandez, A. V., & Cho, S. M. (2021). Does targeted temperature management improve neurological outcome in extracorporeal cardiopulmonary resuscitation (ECPR)? _Journal of Intensive Care Medicine, 37_(2), 157-167. https://doi.org/10.1177/08850666211018982 
 
-Huang, M., Gedansky, A., Hassett, C. E., Price, C., Fan, T. H., Stephens, R. S., Nyquist, P., Uchino, K., & Cho, S. M. (2021). Pathophysiology of brain injury and neurological outcome in acute respiratory distress syndrome: A scoping review of preclinical to clinical studies. _Neurocritical Care,_ 1–10. Advance online publication. https://doi.org/10.1007/s12028-021-01309-x
+Huang, M., Gedansky, A., Hassett, C. E., Price, C., Fan, T. H., Stephens, R. S., Nyquist, P., Uchino, K., & Cho, S. M. (2021). Pathophysiology of brain injury and neurological outcome in acute respiratory distress syndrome: A scoping review of preclinical to clinical studies. _Neurocritical Care, 35_, 518-527. https://doi.org/10.1007/s12028-021-01309-x
 
-Swetlik, C., Migdady, I., Hasan, L. Z., Buletko, A. B., Price, C., & Cho, S. M. (2021). Cannabis use and stroke: Does a risk exist?. _Journal of Addiction Medicine_. https://doi.org/10.1097/ADM.0000000000000870
+Swetlik, C., Migdady, I., Hasan, L. Z., Buletko, A. B., Price, C., & Cho, S. M. (2021). Cannabis use and stroke: Does a risk exist?. _Journal of Addiction Medicine, 16_(2), 208-215. https://doi.org/10.1097/ADM.0000000000000870
 
-Yi, J. S., Pittman, C. A., Price, C. L., Nieman, C. L., & Oh, E. S. (2021). Telemedicine and dementia care: A systematic review of barriers and facilitators. _Journal of the American Medical Directors Association_. https://doi.org/10.1016/j.jamda.2021.03.015 
+Yi, J. S., Pittman, C. A., Price, C. L., Nieman, C. L., & Oh, E. S. (2021). Telemedicine and dementia care: A systematic review of barriers and facilitators. _Journal of the American Medical Directors Association, 22_(7), P1396-1402. https://doi.org/10.1016/j.jamda.2021.03.015 
 
-Pittman, C. A., Roura, R., Price, C., Lin, F. R., Marrone, N., & Nieman, C. L. (2021). Racial/ethnic and sex rpresentation in US-based clinical trials of hearing loss management in adults: A systematic review. _JAMA Otolaryngology: Head & Neck Surgery_. Advance online publication. https://doi.org/10.1001/jamaoto.2021.0550
+Pittman, C. A., Roura, R., Price, C., Lin, F. R., Marrone, N., & Nieman, C. L. (2021). Racial/ethnic and sex rpresentation in US-based clinical trials of hearing loss management in adults: A systematic review. _JAMA Otolaryngology: Head & Neck Surgery, 147_(7), 656-662. https://doi.org/10.1001/jamaoto.2021.0550
 
 Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., Price, C., Hernandez, A. V., & Cho, S. M. (2021). The authors reply. _Critical Care Medicine, 49_(3), e344–e345. https://doi.org/10.1097/CCM.0000000000004871 
 
-Shukla, A., Ahmed, O. G., Orlov, C. P., Price, C., Mukherjee, D., Choby, G., & Rowan, N. R. (2021). Quality-of-life instruments in endoscopic endonasal skull base surgery-A practical systematic review. _International Forum of Allergy & Rhinology_. Advance online publication. https://doi.org/10.1002/alr.22783
+Shukla, A., Ahmed, O. G., Orlov, C. P., Price, C., Mukherjee, D., Choby, G., & Rowan, N. R. (2021). Quality-of-life instruments in endoscopic endonasal skull base surgery-A practical systematic review. _International Forum of Allergy & Rhinology, 11_(8), 1264-1268. https://doi.org/10.1002/alr.22783
 
 Fan, T. H., Hassett, C. E., Migdady, I., Price, C., Choi, C. W., Katzan, I., & Cho, S. M. (2021). How are we monitoring brain injuries in patients with left ventricular assist device? A systematic review of literature. _ASAIO Journal (American Society for Artificial Internal Organs: 1992), 67_(2), 149–156. https://doi.org/10.1097/MAT.0000000000001204  
 
-Mallack, E. J., Turk, B. R., Yan, H., Price, C., Demetres, M., Moser, A. B., Becker, C., Hollandsworth, K., Adang, L., Vanderver, A., Van Haren, K., Ruzhnikov, M., Kurtzberg, J., Maegawa, G., Orchard, P. J., Lund, T. C., Raymond, G. V., Regelmann, M., Orsini, J. J., Seeger, E., Price, C., … Fatemi, A. (2020). MRI surveillance of boys with X-linked adrenoleukodystrophy identified by newborn screening: Meta-analysis and consensus guidelines. _Journal of Inherited Metabolic Disease_. https://doi.org/10.1002/jimd.12356  
+Mallack, E. J., Turk, B. R., Yan, H., Price, C., Demetres, M., Moser, A. B., Becker, C., Hollandsworth, K., Adang, L., Vanderver, A., Van Haren, K., Ruzhnikov, M., Kurtzberg, J., Maegawa, G., Orchard, P. J., Lund, T. C., Raymond, G. V., Regelmann, M., Orsini, J. J., Seeger, E., Price, C., … Fatemi, A. (2020). MRI surveillance of boys with X-linked adrenoleukodystrophy identified by newborn screening: Meta-analysis and consensus guidelines. _Journal of Inherited Metabolic Disease, 44_(3), 728-739. https://doi.org/10.1002/jimd.12356  
 
-Brodsky, M. B., Akst, L. M., Jedlanek, E., Pandian, V., Blackford, B., Price, C., Cole, G., Mendez-Tellez, P. A., Hillel, A. T., Best, S. R., & Levy, M. J. (2020). Laryngeal injury and upper airway symptoms after endotracheal intubation during surgery: a systematic review and meta-analysis. _Anesthesia and Analgesia_. https://doi.org/10.1213/ANE.0000000000005276  
+Brodsky, M. B., Akst, L. M., Jedlanek, E., Pandian, V., Blackford, B., Price, C., Cole, G., Mendez-Tellez, P. A., Hillel, A. T., Best, S. R., & Levy, M. J. (2020). Laryngeal injury and upper airway symptoms after endotracheal intubation during surgery: a systematic review and meta-analysis. _Anesthesia and Analgesia, 132_(4), 1023-1032. https://doi.org/10.1213/ANE.0000000000005276  
  
 Wheeler, K. E., Grilli, R., Centofanti, J. E., Martin, J., Gelinas, C., Szumita, P. M., Devlin, J. W., Chanques, G., Alhazzani, W., Skrobik, Y., Kho, M. E., Nunnally, M. E., Gagarine, A., Ergan, B. A., Fernando, S., Price, C., Lewin, J., & Rochwerg, B. (2020). Adjuvant analgesic use in the critically ill: A systematic review and meta-analysis. _Critical Care Explorations, 2_(7), e0157. https://doi.org/10.1097/CCE.0000000000000157  
 
 Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., Price, C., Hernandez, A. V., & Cho, S. M. (2020). Brain injury is more common in venoarterial extracorporeal membrane oxygenation than venovenous extracorporeal membrane oxygenation: A systematic review and meta-analysis. _Critical Care Medicine, 48_(12), 1799–1808. https://doi.org/10.1097/CCM.0000000000004618 
 
-Botros, D., Dux, H., Price, C., Khalafallah, A. M., & Mukherjee, D. (2020). Assessing the efficacy of repeat resections in recurrent glioblastoma: a systematic review. _Neurosurgical Review_. https://doi.org/10.1007/s10143-020-01331-1  
+Botros, D., Dux, H., Price, C., Khalafallah, A. M., & Mukherjee, D. (2020). Assessing the efficacy of repeat resections in recurrent glioblastoma: a systematic review. _Neurosurgical Review, 44_, 1259-1271. https://doi.org/10.1007/s10143-020-01331-1  
 
 Jackson, C., Choi, J., Khalafallah, A. M., Price, C., Bettegowda, C., Lim, M., Gallia, G., Weingart, J., Brem, H., & Mukherjee, D. (2020). A systematic review and meta-analysis of supratotal versus gross total resection for glioblastoma. _Journal of Neuro-Oncology, 148_(3), 419–431. https://doi.org/10.1007/s11060-020-03556-y  
 
-Shan, A., Ting, J. S., Price, C., Goman, A. M., Willink, A., Reed, N. S., & Nieman, C. L. (2020). Hearing loss and employment: a systematic review of the association between hearing loss and employment among adults. _The Journal of Laryngology and Otology_, 1–11. https://doi.org/10.1017/S0022215120001012  
+Shan, A., Ting, J. S., Price, C., Goman, A. M., Willink, A., Reed, N. S., & Nieman, C. L. (2020). Hearing loss and employment: a systematic review of the association between hearing loss and employment among adults. _The Journal of Laryngology and Otology, 134_(5), 1–11. https://doi.org/10.1017/S0022215120001012  
 
-Migdady, I., Rice, C., Deshpande, A., Hernandez, A. V., Price, C., Whitman, G. J., Geocadin, R. G., & Cho, S. M. (2020). Brain injury and neurologic outcome in patients undergoing extracorporeal cardiopulmonary resuscitation: a systematic review and meta-analysis. _Critical Care Medicine_. https://doi.org/10.1097/CCM.0000000000004377  
+Migdady, I., Rice, C., Deshpande, A., Hernandez, A. V., Price, C., Whitman, G. J., Geocadin, R. G., & Cho, S. M. (2020). Brain injury and neurologic outcome in patients undergoing extracorporeal cardiopulmonary resuscitation: a systematic review and meta-analysis. _Critical Care Medicine, 48_(7), e611-e619. https://doi.org/10.1097/CCM.0000000000004377  
 
-Migdady, I., Stephens, R. S., Price, C., Geocadin, R. G., Whitman, G., & Cho, S. M. (2020). The use of apnea test and brain death determination in patients on extracorporeal membrane oxygenation: A systematic review. _The Journal of Thoracic and Cardiovascular Surgery_. https://doi.org/10.1016/j.jtcvs.2020.03.038  
+Migdady, I., Stephens, R. S., Price, C., Geocadin, R. G., Whitman, G., & Cho, S. M. (2020). The use of apnea test and brain death determination in patients on extracorporeal membrane oxygenation: A systematic review. _The Journal of Thoracic and Cardiovascular Surgery, 162_(3), P867-P877. https://doi.org/10.1016/j.jtcvs.2020.03.038  
 
 Brodsky M. B., Levy M. J., Jedlanek E., Pandian V., Blackford B., Price C., Cole G., Hillel A. T., Best S. R., Akst L. M. (2018). Laryngeal injury and upper airway symptoms after oral endotracheal intubation with mechanical ventilation during critical care: a systematic review. _Critical Care Medicine, 46_(12), 2010-2017. https://doi.org/10.1097/CCM.0000000000003368  
 
