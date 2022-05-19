@@ -32,6 +32,7 @@ menu:
 - Stevinson, C., & Lawlor, D. A. (2004). Searching multiple databases for systematic reviews: added value or diminishing returns? *Complementary Therapies in Medicine, 12*(4), 228-232. https://doi.org/10.1016/j.ctim.2004.09.003
 
 ## Searching
+- Booth A. (2010). How much searching is enough? Comprehensive versus optimal retrieval for technology assessments. International journal of technology assessment in health care, 26(4), 431–435. https://doi.org/10.1017/S0266462310000966
 - Cochrane. (2020). Low and middle income country (LMIC) filter. Cochrane CIS Support Digest, 61. https://mailchi.mp/ebb18ffeece7/cochrane-information-specialist-support-team-digest-2864754#EPOC%20LMICs%20Filter
 - Glanville, J. M., Duffy, S., McCool, R., & Varley, D. (2014). Searching ClinicalTrials.gov and the International Clinical Trials Registry Platform to inform systematic reviews: what are the optimal search approaches? *Journal of the Medical Library Association 102*(3), 177–183. https://doi.org/10.3163/1536-5050.102.3.007
 - Glanville, J., Kotas, E., Featherstone, R., & Dooley, G. (2020). Which are the most sensitive search filters to identify randomized controlled trials in MEDLINE?. *Journal of the Medical Library Association: JMLA, 108*(4), 556–563. https://doi.org/10.5195/jmla.2020.912 
