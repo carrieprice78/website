@@ -13,86 +13,95 @@ date: 2021-10-12
 View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
  - [Articles](#articles)
+ - [Blog Posts](#blogs)
  - [Book Chapters](#books)
  - [Grants](#grants)
  - [Instruction](#instruction)
  - [Posters and Presentations](#posters)
  - [Protocols](#protocols)
+ - [Videos](#videos)
 
 ## Articles <a name="articles"></a>
 
-Dhar, S. I., Ryan, M. A., Davis, A. C., Jedlanek, E., Pietsch, K., Price, C., Brodsky, M. B., & Akst, L. M. (2022). Does medialization improve swallowing function in patients with unilateral vocal fold paralysis? A systematic review. _Dysphagia_. Advance online publication. https://doi.org/10.1007/s00455-022-10441-5
+Dhar, S. I., Ryan, M. A., Davis, A. C., Jedlanek, E., Pietsch, K., **Price, C.**, Brodsky, M. B., & Akst, L. M. (2022). Does medialization improve swallowing function in patients with unilateral vocal fold paralysis? A systematic review. _Dysphagia_. Advance online publication. https://doi.org/10.1007/s00455-022-10441-5
 
-Fan, T. H., Huang, M., Gedansky, A., Price, C., Robba, C., Hernandez, A. V., & Cho, S. M. (2021). Prevalence and outcome of acute respiratory distress syndrome in traumatic brain injury: A systematic review and meta-analysis. _Lung, 199_(6), 603–610. https://doi.org/10.1007/s00408-021-00491-1
+Fan, T. H., Huang, M., Gedansky, A., **Price, C.**, Robba, C., Hernandez, A. V., & Cho, S. M. (2021). Prevalence and outcome of acute respiratory distress syndrome in traumatic brain injury: A systematic review and meta-analysis. _Lung, 199_(6), 603–610. https://doi.org/10.1007/s00408-021-00491-1
 
-Huang, M., Shoskes, A., Migdady, I., Amin, M., Hasan, L., Price, C., Uchino, K., Choi, C. W., Hernandez, A. V., & Cho, S. M. (2021). Does targeted temperature management improve neurological outcome in extracorporeal cardiopulmonary resuscitation (ECPR)? _Journal of Intensive Care Medicine, 37_(2), 157-167. https://doi.org/10.1177/08850666211018982 
+Huang, M., Shoskes, A., Migdady, I., Amin, M., Hasan, L., **Price, C.**, Uchino, K., Choi, C. W., Hernandez, A. V., & Cho, S. M. (2021). Does targeted temperature management improve neurological outcome in extracorporeal cardiopulmonary resuscitation (ECPR)? _Journal of Intensive Care Medicine, 37_(2), 157-167. https://doi.org/10.1177/08850666211018982 
 
-Huang, M., Gedansky, A., Hassett, C. E., Price, C., Fan, T. H., Stephens, R. S., Nyquist, P., Uchino, K., & Cho, S. M. (2021). Pathophysiology of brain injury and neurological outcome in acute respiratory distress syndrome: A scoping review of preclinical to clinical studies. _Neurocritical Care, 35_, 518-527. https://doi.org/10.1007/s12028-021-01309-x
+Huang, M., Gedansky, A., Hassett, C. E., **Price, C.**, Fan, T. H., Stephens, R. S., Nyquist, P., Uchino, K., & Cho, S. M. (2021). Pathophysiology of brain injury and neurological outcome in acute respiratory distress syndrome: A scoping review of preclinical to clinical studies. _Neurocritical Care, 35_, 518-527. https://doi.org/10.1007/s12028-021-01309-x
 
-Swetlik, C., Migdady, I., Hasan, L. Z., Buletko, A. B., Price, C., & Cho, S. M. (2021). Cannabis use and stroke: Does a risk exist?. _Journal of Addiction Medicine, 16_(2), 208-215. https://doi.org/10.1097/ADM.0000000000000870
+Swetlik, C., Migdady, I., Hasan, L. Z., Buletko, A. B., **Price, C.**, & Cho, S. M. (2021). Cannabis use and stroke: Does a risk exist?. _Journal of Addiction Medicine, 16_(2), 208-215. https://doi.org/10.1097/ADM.0000000000000870
 
-Yi, J. S., Pittman, C. A., Price, C. L., Nieman, C. L., & Oh, E. S. (2021). Telemedicine and dementia care: A systematic review of barriers and facilitators. _Journal of the American Medical Directors Association, 22_(7), P1396-1402. https://doi.org/10.1016/j.jamda.2021.03.015 
+Yi, J. S., Pittman, C. A., **Price, C. L.**, Nieman, C. L., & Oh, E. S. (2021). Telemedicine and dementia care: A systematic review of barriers and facilitators. _Journal of the American Medical Directors Association, 22_(7), P1396-1402. https://doi.org/10.1016/j.jamda.2021.03.015 
 
-Pittman, C. A., Roura, R., Price, C., Lin, F. R., Marrone, N., & Nieman, C. L. (2021). Racial/ethnic and sex rpresentation in US-based clinical trials of hearing loss management in adults: A systematic review. _JAMA Otolaryngology: Head & Neck Surgery, 147_(7), 656-662. https://doi.org/10.1001/jamaoto.2021.0550
+Pittman, C. A., Roura, R., **Price, C.**, Lin, F. R., Marrone, N., & Nieman, C. L. (2021). Racial/ethnic and sex representation in US-based clinical trials of hearing loss management in adults: A systematic review. _JAMA Otolaryngology: Head & Neck Surgery, 147_(7), 656-662. https://doi.org/10.1001/jamaoto.2021.0550
 
-Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., Price, C., Hernandez, A. V., & Cho, S. M. (2021). The authors reply. _Critical Care Medicine, 49_(3), e344–e345. https://doi.org/10.1097/CCM.0000000000004871 
+Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., **Price, C.**, Hernandez, A. V., & Cho, S. M. (2021). The authors reply. _Critical Care Medicine, 49_(3), e344–e345. https://doi.org/10.1097/CCM.0000000000004871 
 
-Shukla, A., Ahmed, O. G., Orlov, C. P., Price, C., Mukherjee, D., Choby, G., & Rowan, N. R. (2021). Quality-of-life instruments in endoscopic endonasal skull base surgery-A practical systematic review. _International Forum of Allergy & Rhinology, 11_(8), 1264-1268. https://doi.org/10.1002/alr.22783
+Shukla, A., Ahmed, O. G., Orlov, C. P., **Price, C.**, Mukherjee, D., Choby, G., & Rowan, N. R. (2021). Quality-of-life instruments in endoscopic endonasal skull base surgery-A practical systematic review. _International Forum of Allergy & Rhinology, 11_(8), 1264-1268. https://doi.org/10.1002/alr.22783
 
-Fan, T. H., Hassett, C. E., Migdady, I., Price, C., Choi, C. W., Katzan, I., & Cho, S. M. (2021). How are we monitoring brain injuries in patients with left ventricular assist device? A systematic review of literature. _ASAIO Journal (American Society for Artificial Internal Organs: 1992), 67_(2), 149–156. https://doi.org/10.1097/MAT.0000000000001204  
+Fan, T. H., Hassett, C. E., Migdady, I., **Price, C.**, Choi, C. W., Katzan, I., & Cho, S. M. (2021). How are we monitoring brain injuries in patients with left ventricular assist device? A systematic review of literature. _ASAIO Journal (American Society for Artificial Internal Organs: 1992), 67_(2), 149–156. https://doi.org/10.1097/MAT.0000000000001204  
 
-Mallack, E. J., Turk, B. R., Yan, H., Price, C., Demetres, M., Moser, A. B., Becker, C., Hollandsworth, K., Adang, L., Vanderver, A., Van Haren, K., Ruzhnikov, M., Kurtzberg, J., Maegawa, G., Orchard, P. J., Lund, T. C., Raymond, G. V., Regelmann, M., Orsini, J. J., Seeger, E., Price, C., … Fatemi, A. (2020). MRI surveillance of boys with X-linked adrenoleukodystrophy identified by newborn screening: Meta-analysis and consensus guidelines. _Journal of Inherited Metabolic Disease, 44_(3), 728-739. https://doi.org/10.1002/jimd.12356  
+Mallack, E. J., Turk, B. R., Yan, H., **Price, C.**, Demetres, M., Moser, A. B., Becker, C., Hollandsworth, K., Adang, L., Vanderver, A., Van Haren, K., Ruzhnikov, M., Kurtzberg, J., Maegawa, G., Orchard, P. J., Lund, T. C., Raymond, G. V., Regelmann, M., Orsini, J. J., Seeger, E., Price, C., … Fatemi, A. (2020). MRI surveillance of boys with X-linked adrenoleukodystrophy identified by newborn screening: Meta-analysis and consensus guidelines. _Journal of Inherited Metabolic Disease, 44_(3), 728-739. https://doi.org/10.1002/jimd.12356  
 
-Brodsky, M. B., Akst, L. M., Jedlanek, E., Pandian, V., Blackford, B., Price, C., Cole, G., Mendez-Tellez, P. A., Hillel, A. T., Best, S. R., & Levy, M. J. (2020). Laryngeal injury and upper airway symptoms after endotracheal intubation during surgery: a systematic review and meta-analysis. _Anesthesia and Analgesia, 132_(4), 1023-1032. https://doi.org/10.1213/ANE.0000000000005276  
+Brodsky, M. B., Akst, L. M., Jedlanek, E., Pandian, V., Blackford, B., **Price, C.**, Cole, G., Mendez-Tellez, P. A., Hillel, A. T., Best, S. R., & Levy, M. J. (2020). Laryngeal injury and upper airway symptoms after endotracheal intubation during surgery: a systematic review and meta-analysis. _Anesthesia and Analgesia, 132_(4), 1023-1032. https://doi.org/10.1213/ANE.0000000000005276  
  
-Wheeler, K. E., Grilli, R., Centofanti, J. E., Martin, J., Gelinas, C., Szumita, P. M., Devlin, J. W., Chanques, G., Alhazzani, W., Skrobik, Y., Kho, M. E., Nunnally, M. E., Gagarine, A., Ergan, B. A., Fernando, S., Price, C., Lewin, J., & Rochwerg, B. (2020). Adjuvant analgesic use in the critically ill: A systematic review and meta-analysis. _Critical Care Explorations, 2_(7), e0157. https://doi.org/10.1097/CCE.0000000000000157  
+Wheeler, K. E., Grilli, R., Centofanti, J. E., Martin, J., Gelinas, C., Szumita, P. M., Devlin, J. W., Chanques, G., Alhazzani, W., Skrobik, Y., Kho, M. E., Nunnally, M. E., Gagarine, A., Ergan, B. A., Fernando, S., **Price, C.**, Lewin, J., & Rochwerg, B. (2020). Adjuvant analgesic use in the critically ill: A systematic review and meta-analysis. _Critical Care Explorations, 2_(7), e0157. https://doi.org/10.1097/CCE.0000000000000157  
 
-Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., Price, C., Hernandez, A. V., & Cho, S. M. (2020). Brain injury is more common in venoarterial extracorporeal membrane oxygenation than venovenous extracorporeal membrane oxygenation: A systematic review and meta-analysis. _Critical Care Medicine, 48_(12), 1799–1808. https://doi.org/10.1097/CCM.0000000000004618 
+Shoskes, A., Migdady, I., Rice, C., Hassett, C., Deshpande, A., **Price, C.**, Hernandez, A. V., & Cho, S. M. (2020). Brain injury is more common in venoarterial extracorporeal membrane oxygenation than venovenous extracorporeal membrane oxygenation: A systematic review and meta-analysis. _Critical Care Medicine, 48_(12), 1799–1808. https://doi.org/10.1097/CCM.0000000000004618 
 
-Botros, D., Dux, H., Price, C., Khalafallah, A. M., & Mukherjee, D. (2020). Assessing the efficacy of repeat resections in recurrent glioblastoma: a systematic review. _Neurosurgical Review, 44_, 1259-1271. https://doi.org/10.1007/s10143-020-01331-1  
+Botros, D., Dux, H., **Price, C.**, Khalafallah, A. M., & Mukherjee, D. (2020). Assessing the efficacy of repeat resections in recurrent glioblastoma: a systematic review. _Neurosurgical Review, 44_, 1259-1271. https://doi.org/10.1007/s10143-020-01331-1  
 
-Jackson, C., Choi, J., Khalafallah, A. M., Price, C., Bettegowda, C., Lim, M., Gallia, G., Weingart, J., Brem, H., & Mukherjee, D. (2020). A systematic review and meta-analysis of supratotal versus gross total resection for glioblastoma. _Journal of Neuro-Oncology, 148_(3), 419–431. https://doi.org/10.1007/s11060-020-03556-y  
+Jackson, C., Choi, J., Khalafallah, A. M., **Price, C.**, Bettegowda, C., Lim, M., Gallia, G., Weingart, J., Brem, H., & Mukherjee, D. (2020). A systematic review and meta-analysis of supratotal versus gross total resection for glioblastoma. _Journal of Neuro-Oncology, 148_(3), 419–431. https://doi.org/10.1007/s11060-020-03556-y  
 
-Shan, A., Ting, J. S., Price, C., Goman, A. M., Willink, A., Reed, N. S., & Nieman, C. L. (2020). Hearing loss and employment: a systematic review of the association between hearing loss and employment among adults. _The Journal of Laryngology and Otology, 134_(5), 1–11. https://doi.org/10.1017/S0022215120001012  
+Shan, A., Ting, J. S., **Price, C.**, Goman, A. M., Willink, A., Reed, N. S., & Nieman, C. L. (2020). Hearing loss and employment: a systematic review of the association between hearing loss and employment among adults. _The Journal of Laryngology and Otology, 134_(5), 1–11. https://doi.org/10.1017/S0022215120001012  
 
-Migdady, I., Rice, C., Deshpande, A., Hernandez, A. V., Price, C., Whitman, G. J., Geocadin, R. G., & Cho, S. M. (2020). Brain injury and neurologic outcome in patients undergoing extracorporeal cardiopulmonary resuscitation: a systematic review and meta-analysis. _Critical Care Medicine, 48_(7), e611-e619. https://doi.org/10.1097/CCM.0000000000004377  
+Migdady, I., Rice, C., Deshpande, A., Hernandez, A. V., **Price, C.**, Whitman, G. J., Geocadin, R. G., & Cho, S. M. (2020). Brain injury and neurologic outcome in patients undergoing extracorporeal cardiopulmonary resuscitation: a systematic review and meta-analysis. _Critical Care Medicine, 48_(7), e611-e619. https://doi.org/10.1097/CCM.0000000000004377  
 
-Migdady, I., Stephens, R. S., Price, C., Geocadin, R. G., Whitman, G., & Cho, S. M. (2020). The use of apnea test and brain death determination in patients on extracorporeal membrane oxygenation: A systematic review. _The Journal of Thoracic and Cardiovascular Surgery, 162_(3), P867-P877. https://doi.org/10.1016/j.jtcvs.2020.03.038  
+Migdady, I., Stephens, R. S., **Price, C.**, Geocadin, R. G., Whitman, G., & Cho, S. M. (2020). The use of apnea test and brain death determination in patients on extracorporeal membrane oxygenation: A systematic review. _The Journal of Thoracic and Cardiovascular Surgery, 162_(3), P867-P877. https://doi.org/10.1016/j.jtcvs.2020.03.038  
 
-Brodsky M. B., Levy M. J., Jedlanek E., Pandian V., Blackford B., Price C., Cole G., Hillel A. T., Best S. R., Akst L. M. (2018). Laryngeal injury and upper airway symptoms after oral endotracheal intubation with mechanical ventilation during critical care: a systematic review. _Critical Care Medicine, 46_(12), 2010-2017. https://doi.org/10.1097/CCM.0000000000003368  
+Brodsky M. B., Levy M. J., Jedlanek E., Pandian V., Blackford B., **Price C.**, Cole G., Hillel A. T., Best S. R., Akst L. M. (2018). Laryngeal injury and upper airway symptoms after oral endotracheal intubation with mechanical ventilation during critical care: a systematic review. _Critical Care Medicine, 46_(12), 2010-2017. https://doi.org/10.1097/CCM.0000000000003368  
 
-Johns, E. M., Price, C., Ungaretti, A. S. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations. _Journal of Library & Information Services in Distance Learning_, 1-19. https://doi.org/10.1080/1533290X.2018.1499234  
+Johns, E. M., **Price, C.**, Ungaretti, A. S. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations. _Journal of Library & Information Services in Distance Learning_, 1-19. https://doi.org/10.1080/1533290X.2018.1499234  
 
-Price, C., Kudchadkar, S. R., Basyal, P. S., Nelliot, A., Smith, M., Friedman, M., & Needham, D. M. (2020). Librarian integration into health care conferences: a case report. _Journal of the Medical Library Association, 108_(2), 278–285. https://doi.org/10.5195/jmla.2020.803  
+**Price, C.**, Kudchadkar, S. R., Basyal, P. S., Nelliot, A., Smith, M., Friedman, M., & Needham, D. M. (2020). Librarian integration into health care conferences: a case report. _Journal of the Medical Library Association, 108_(2), 278–285. https://doi.org/10.5195/jmla.2020.803  
 
-Purohit, A., Jha, R., Khalafallah, A. M., Price, C., Rowan, N. R., & Mukherjee, D. (2019). Endoscopic endonasal versus transcranial approach to resection of olfactory groove meningiomas: a systematic review. _Neurosurgical Review_, 1-7. https://doi.org/10.1007/s10143-019-01193-2  
+Purohit, A., Jha, R., Khalafallah, A. M., **Price, C.**, Rowan, N. R., & Mukherjee, D. (2019). Endoscopic endonasal versus transcranial approach to resection of olfactory groove meningiomas: a systematic review. _Neurosurgical Review_, 1-7. https://doi.org/10.1007/s10143-019-01193-2  
 
-Shukla, A., Harper, M., Pedersen, E., Goman, A., Suen, J. J., Price, C., Applebaum, J., Hoyer, M., Lin, F. R., & Reed, N. S. (2020). Hearing loss, loneliness, and social isolation: a systematic review. _Otolaryngology--Head and Neck Surgery, 162_(5), 622–633. https://doi.org/10.1177/0194599820910377  
+Shukla, A., Harper, M., Pedersen, E., Goman, A., Suen, J. J., **Price, C.**, Applebaum, J., Hoyer, M., Lin, F. R., & Reed, N. S. (2020). Hearing loss, loneliness, and social isolation: a systematic review. _Otolaryngology--Head and Neck Surgery, 162_(5), 622–633. https://doi.org/10.1177/0194599820910377  
  
-Rahman, R., Wood, M. E., Qian, L., Price, C. L., Johnson, A. A., & Osgood, G. M. (2020). Head-mounted display use in surgery: a systematic review. _Surgical Innovation, 27_(1), 88–100. https://doi.org/10.1177/1553350619871787  
+Rahman, R., Wood, M. E., Qian, L., **Price, C. L.**, Johnson, A. A., & Osgood, G. M. (2020). Head-mounted display use in surgery: a systematic review. _Surgical Innovation, 27_(1), 88–100. https://doi.org/10.1177/1553350619871787  
 
-Mamo, S. K., Reed, N. S., Price, C., Occhipinti, D., Pletnikova, A., Lin, F. R., & Oh, E. S. (2018). Hearing loss treatment in older adults with cognitive impairment: a systematic review. _Journal of Speech, Language, and Hearing Research, 61_(10), 2589-2603. https://doi.org/10.1044/2018_JSLHR-H-18-0077  
+Mamo, S. K., Reed, N. S., **Price, C.**, Occhipinti, D., Pletnikova, A., Lin, F. R., & Oh, E. S. (2018). Hearing loss treatment in older adults with cognitive impairment: a systematic review. _Journal of Speech, Language, and Hearing Research, 61_(10), 2589-2603. https://doi.org/10.1044/2018_JSLHR-H-18-0077  
 
-Shukla, A., Nieman, C. L., Price, C., Harper, M., Lin, F. R., & Reed, N. S. (2018). Impact of hearing loss on patient-provider communication among hospitalized patients: a systematic review. _American Journal of Medical Quality, 34_(3), 282-292. https://doi.org/10.1177/1062860618798926  
+Shukla, A., Nieman, C. L., **Price, C.**, Harper, M., Lin, F. R., & Reed, N. S. (2018). Impact of hearing loss on patient-provider communication among hospitalized patients: a systematic review. _American Journal of Medical Quality, 34_(3), 282-292. https://doi.org/10.1177/1062860618798926  
 
-Devlin, J. W., Skrobik, Y., Rochwerg, B., Nunnally, M., Needham, D. M., Gelinas, C., Pandharipande, P. P., Slooter, A. J. C., Watson, P., Weinhouse, G., Kho, M., Centofanti, J., Price, C., Harmon, L., Misak, C. J., Flood, P. D., Alhazzani, W. (2018). Methodologic innovation in creating clinical practice guidelines: insights from the 2018 Society of Critical Care Medicine pain, agitation/sedation, delirium, immobility, and sleep disruption guideline effort. _Critical Care Medicine, 46_(9), 1457-1463. https://doi.org/10.1097/CCM.0000000000003298  
+Devlin, J. W., Skrobik, Y., Rochwerg, B., Nunnally, M., Needham, D. M., Gelinas, C., Pandharipande, P. P., Slooter, A. J. C., Watson, P., Weinhouse, G., Kho, M., Centofanti, J., **Price, C.**, Harmon, L., Misak, C. J., Flood, P. D., Alhazzani, W. (2018). Methodologic innovation in creating clinical practice guidelines: insights from the 2018 Society of Critical Care Medicine pain, agitation/sedation, delirium, immobility, and sleep disruption guideline effort. _Critical Care Medicine, 46_(9), 1457-1463. https://doi.org/10.1097/CCM.0000000000003298  
 
-Devlin, J. W., Skrobik, Y., Gélinas, C., Needham, D. M., Slooter, A., Pandharipande, P. P., Watson, P. L., Weinhouse, G. L., Nunnally, M. E., Rochwerg, B., Balas, M. C., van den Boogaard, M., Bosma, K. J., Brummel, N. E., Chanques, G., Denehy, L., Drouot, X., Fraser, G. L., Harris, J. E., Joffe, A. M., Kho, M. E., Kress, J. P., Lanphere, J. A., McKinley, S., Neufeld, K. J., Pisani, M. A., Payen, J., Pun, B. T., Puntillo, K. A., Riker, R. R., Robinson, B. R. H., Shehabi, Y., Szumita, P. M., Winkelman, C., Centofani, J. E., Price, C., Nikayin, S., Misak, C. J., Flood, P. D., Kiedrowski, K.,  Alhazzani, W. (2018). Clinical practice guidelines for the prevention and management of pain, agitation/sedation, delirium, immobility, and sleep disruption in adult patients in the ICU. _Critical Care Medicine, 46_(9), e825–e873. https://doi.org/10.1097/CCM.0000000000003299  
+Devlin, J. W., Skrobik, Y., Gélinas, C., Needham, D. M., Slooter, A., Pandharipande, P. P., Watson, P. L., Weinhouse, G. L., Nunnally, M. E., Rochwerg, B., Balas, M. C., van den Boogaard, M., Bosma, K. J., Brummel, N. E., Chanques, G., Denehy, L., Drouot, X., Fraser, G. L., Harris, J. E., Joffe, A. M., Kho, M. E., Kress, J. P., Lanphere, J. A., McKinley, S., Neufeld, K. J., Pisani, M. A., Payen, J., Pun, B. T., Puntillo, K. A., Riker, R. R., Robinson, B. R. H., Shehabi, Y., Szumita, P. M., Winkelman, C., Centofani, J. E., **Price, C.**, Nikayin, S., Misak, C. J., Flood, P. D., Kiedrowski, K., Alhazzani, W. (2018). Clinical practice guidelines for the prevention and management of pain, agitation/sedation, delirium, immobility, and sleep disruption in adult patients in the ICU. _Critical Care Medicine, 46_(9), e825–e873. https://doi.org/10.1097/CCM.0000000000003299  
 
-Devlin, J. W., Skrobik, Y., Gélinas, C., Needham, D. M., Slooter, A., Pandharipande, P. P., Watson, P. L., Weinhouse, G. L., Nunnally, M. E., Rochwerg, B., Balas, M. C., van den Boogaard, M., Bosma, K. J., Brummel, N. E., Chanques, G., Denehy, L., Drouot, X., Fraser, G. L., Harris, J. E., Joffe, A. M., Kho, M. E., Kress, J. P., Lanphere, J. A., McKinley, S., Neufeld, K. J., Pisani, M. A., Payen, J., Pun, B. T., Puntillo, K. A., Riker, R. R., Robinson, B. R. H., Shehabi, Y., Szumita, P. M., Winkelman, C., Centofani, J. E., Price, C., Nikayin, S., Misak, C. J., Flood, P. D., Kiedrowski, K.,  Alhazzani, W. (2018). Executive Summary: Clinical practice guidelines for the prevention and management of pain, agitation/sedation, delirium, immobility, and sleep disruption in adult patients in the ICU. _Critical Care Medicine, 46_(9), 1532–1548. https://doi.org/10.1097/CCM.0000000000003259  
+Devlin, J. W., Skrobik, Y., Gélinas, C., Needham, D. M., Slooter, A., Pandharipande, P. P., Watson, P. L., Weinhouse, G. L., Nunnally, M. E., Rochwerg, B., Balas, M. C., van den Boogaard, M., Bosma, K. J., Brummel, N. E., Chanques, G., Denehy, L., Drouot, X., Fraser, G. L., Harris, J. E., Joffe, A. M., Kho, M. E., Kress, J. P., Lanphere, J. A., McKinley, S., Neufeld, K. J., Pisani, M. A., Payen, J., Pun, B. T., Puntillo, K. A., Riker, R. R., Robinson, B. R. H., Shehabi, Y., Szumita, P. M., Winkelman, C., Centofani, J. E., **Price, C.**, Nikayin, S., Misak, C. J., Flood, P. D., Kiedrowski, K., Alhazzani, W. (2018). Executive Summary: Clinical practice guidelines for the prevention and management of pain, agitation/sedation, delirium, immobility, and sleep disruption in adult patients in the ICU. _Critical Care Medicine, 46_(9), 1532–1548. https://doi.org/10.1097/CCM.0000000000003259  
  
-Huddle M.G., Goman A. M., Kernizan F.C., Foley D. M., Price C., Frick K.D., Lin F.R. (2017). The economic impact of adult hearing loss: a systematic review. _JAMA Otolaryngology: Head and Neck Surgery, 143_(10), 1040-1048. https://doi.org/10.1001/jamaoto.2017.1243  
+Huddle M.G., Goman A. M., Kernizan F.C., Foley D. M., **Price C.**, Frick K.D., Lin F.R. (2017). The economic impact of adult hearing loss: a systematic review. _JAMA Otolaryngology: Head and Neck Surgery, 143_(10), 1040-1048. https://doi.org/10.1001/jamaoto.2017.1243  
 
-Scala, E., Price, C., Day, J. (2016). An integrative review of engaging clinical nurses in nursing research. _Journal of Nursing Scholarship, 48_(4), 423-30. https://doi.org/10.1111/jnu.12223  
+Scala, E., **Price, C.**, Day, J. (2016). An integrative review of engaging clinical nurses in nursing research. _Journal of Nursing Scholarship, 48_(4), 423-30. https://doi.org/10.1111/jnu.12223  
 
-Pereda, M. A., Chavez, M. A., Hooper-Miele, C. C., Gilman, R. H., Steinhoff, M. C., Ellington, L. E., Gross, M., Price, C., Tielsch, J. M., & Checkley, W. (2015). Lung ultrasound for the diagnosis of pneumonia in children: a meta-analysis. _Pediatrics, 135_(4), 714-722. https://doi.org/10.1542/peds.2014-2833  
+Pereda, M. A., Chavez, M. A., Hooper-Miele, C. C., Gilman, R. H., Steinhoff, M. C., Ellington, L. E., Gross, M., **Price, C.**, Tielsch, J. M., & Checkley, W. (2015). Lung ultrasound for the diagnosis of pneumonia in children: a meta-analysis. _Pediatrics, 135_(4), 714-722. https://doi.org/10.1542/peds.2014-2833  
 
-Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinhoff, M. C., Santosham, M., Black, R.E., Price C., Gross, M., & Checkley, W. (2014). Lung ultrasound for the diagnosis of pneumonia in adults: a systematic review and meta-analysis. _Respiratory Research, 15_(1), 50. https://doi.org/10.1186/1465-9921-15-50  
+Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinhoff, M. C., Santosham, M., Black, R.E., **Price C.**, Gross, M., & Checkley, W. (2014). Lung ultrasound for the diagnosis of pneumonia in adults: a systematic review and meta-analysis. _Respiratory Research, 15_(1), 50. https://doi.org/10.1186/1465-9921-15-50  
 
+## Blog Posts <a name="blogs"></a>
+
+Price, C. (2022). _Is there a better teaching opportunity than assigning systematic reviews in a semester? Covidence._ https://www.covidence.org/blog/elementor-2112/ 
+
+Price, C. (2021). _The librarian's role in the systematic review team: Why you should make friends with a librarian._ Covidence. https://www.covidence.org/blog/the-librarians-role-in-a-systematic-review-team/ 
+
+Price, C. (2021). _Systematic reviews: learn to search like a pro._ Covidence. https://www.covidence.org/blog/systematic-reviews-learn-to-search-like-a-pro/ 
 
 ## Book Chapters <a name="books"></a>
 
-Price, C., Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International
+**Price, C.**, Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International
 
 Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Switzerland: Springer International Publications. http://www.worldcat.org/oclc/950930190 
   
@@ -100,10 +109,10 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 ## Grant <a name="grants"></a>
 
-NNLM Data Science and Services Project Award. Amount: $25,000. (October 2021 – June 30, 2022).
+**Price, C.**, Garczynski, J., Yaukey, S. NNLM Data Science and Services Project Award. Amount: $25,000. (October 2021 – June 30, 2022).
 
 ## Instruction <a name="instruction"></a>
-Price, C., Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
+**Price, C.**, Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
 
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
 Price, C., Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; live]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
@@ -113,13 +122,13 @@ Price, C., Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills
 Price, C. (2022). Bit by Byte: Building Best Practices in Data Literacy [Poster]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
 Oh, E., Yi, J., Pittman, C., Price, C., Nieman, C. (2021). Considering the technological and sensory needs of patients with cognitive impairment in the era of telehealth [Presentation]. American Auditory Society Annual Conference. https://doi.org/10.1093/geroni/igab046.326 
 
-Damania, R., Price, C., Grunwell, J., Kamat, P. (2022). Future of pediatric critical care remote learning: Role and reach of a podcast series [Presentation]. Society of Critical Care Medicine 51st Critical Care Congress, virtual.
+Damania, R., **Price, C.**, Grunwell, J., Kamat, P. (2022). Future of pediatric critical care remote learning: Role and reach of a podcast series [Presentation]. Society of Critical Care Medicine 51st Critical Care Congress, virtual.
 
 Price, C. (2021). Twitter and higher education: A bibliometric analysis [Poster]. Towson Conference for Academic Libraries, virtual. https://cpb-us-w2.wpmucdn.com/wp.towson.edu/dist/2/145/files/2021/07/TwitterHigherEd_poster.pdf 
 
-Gass, S., Gilbert, M., Price, C., Sweeney, L., DesHarnais, M. (2021). Read it and weep: How one library began to improve its database descriptions [Poster]. Towson Conference for Academic Libraries, virtual. https://cpb-us-w2.wpmucdn.com/wp.towson.edu/dist/2/145/files/2021/07/ReadItWeep_poster.pdf
+Gass, S., Gilbert, M., **Price, C.**, Sweeney, L., DesHarnais, M. (2021). Read it and weep: How one library began to improve its database descriptions [Poster]. Towson Conference for Academic Libraries, virtual. https://cpb-us-w2.wpmucdn.com/wp.towson.edu/dist/2/145/files/2021/07/ReadItWeep_poster.pdf
 
-Ballard, B. Gass, S., Price, C., White, E. B. A cite for more eyes: Hosting virtual citation management workshops [Poster]. Towson Conference for Academic Libraries, virtual. https://www.youtube.com/watch?v=NKjtKoCp3lI 
+Ballard, B. Gass, S., **Price, C.**, White, E. B. A cite for more eyes: Hosting virtual citation management workshops [Poster]. Towson Conference for Academic Libraries, virtual. https://www.youtube.com/watch?v=NKjtKoCp3lI 
 
 Price, C. (2021). Searching for evidence in the health professions: creating a robust guide that meets the needs of users [Poster]. SpringyCamp Annual Conference, virtual.
 
@@ -127,28 +136,29 @@ Price, C. (2021). Leveraging embedded tools in LibGuides for improved design and
 
 Price, C., Lobner, K. (2020). Real-world readiness: Using LibGuides to wade through the COVID-19 flood [Presentation]. SpringyCamp Annual Conference, virtual. https://buzz.springshare.com/springycamp/summer2020/real-world-readiness   
 
-Suen, J.J., Shukla, A., Harper, M. Pedersen, E., Goman, A.M., Price, C., Applebaum, J., Hoyer, M., Lin, F.R., Reed, N.S. (2020). Associations between hearing loss, loneliness, and social isolation: a systematic review [Poster]. American Auditory Society Annual Conference, Tucson, AZ.
+Suen, J.J., Shukla, A., Harper, M. Pedersen, E., Goman, A.M., **Price, C.**, Applebaum, J., Hoyer, M., Lin, F.R., Reed, N.S. (2020). Associations between hearing loss, loneliness, and social isolation: a systematic review [Poster]. American Auditory Society Annual Conference, Tucson, AZ.
 
-Robins, S., Price, C. (2020). Overcoming the pitfalls of LibGuides through design and value-added content [Poster]. Presented at the Midwest-MLA Chapter Meeting, Milwaukee, WI.
-Shah, P., White, T., Price, C., Mukherjee, D. Innv-20. A systematic review of tumor treating fields therapy for primary for recurrent and glioblastoma [Presentation]. Neuro-oncology, 21(Supplement 6), vi134-va135. https://doi.org/10.1093/neuonc/noz175.563
+Robins, S., **Price, C.** (2020). Overcoming the pitfalls of LibGuides through design and value-added content [Poster]. Presented at the Midwest-MLA Chapter Meeting, Milwaukee, WI.
 
-Jackson, C., Choi, J., Price, C.,  Bettegowda, C., Lim, M., Gallia, G., Weingart, J., Brem, H., Mukherjee. (2019). Surg-16. Supratotal versus gross total resection of glioblastoma: A systematic review [Poster]. Neuro-oncology, 21(Supplement 6), vi243. https://doi.org/10.1093/neuonc/noz175.1017 
+Shah, P., White, T.,**Price, C.**, Mukherjee, D. Innv-20. A systematic review of tumor treating fields therapy for primary for recurrent and glioblastoma [Presentation]. Neuro-oncology, 21(Supplement 6), vi134-va135. https://doi.org/10.1093/neuonc/noz175.563
 
-Blanck, J., Anton, B., Price, C., Woodson, S., Seal, S., Seymour, A. (2018). Counting what matters: Combining robust assessment practices with dynamic visual dashboards [Presentation]. the Medical Library Association (MLA) Annual Meeting and Exhibition, Atlanta, GA.
+Jackson, C., Choi, J., **Price, C.**,  Bettegowda, C., Lim, M., Gallia, G., Weingart, J., Brem, H., Mukherjee. (2019). Surg-16. Supratotal versus gross total resection of glioblastoma: A systematic review [Poster]. Neuro-oncology, 21(Supplement 6), vi243. https://doi.org/10.1093/neuonc/noz175.1017 
+
+Blanck, J., Anton, B., **Price, C.**, Woodson, S., Seal, S., Seymour, A. (2018). Counting what matters: Combining robust assessment practices with dynamic visual dashboards [Presentation]. The Medical Library Association (MLA) Annual Meeting and Exhibition, Atlanta, GA.
 
 Price, C. (2018). Predatory publishing: How can librarians lead the way? [Webinar].U.S. National Library of Medicine, Network of the National Library of Medicine Seaside Webinar Series. https://youtu.be/ON6a2THN9q4
 
-Johns, E., Price, C., Ungaretti, T. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations [Presentation]. Towson Conference for Academic Libraries, Towson, MD, and Distance Library Services Conference, San Antonio, TX. 
+Johns, E., **Price, C.**, Ungaretti, T. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations [Presentation]. Towson Conference for Academic Libraries, Towson, MD, and Distance Library Services Conference, San Antonio, TX. 
 
-Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. 7th Annual Johns Hopkins Physical Medicine and Rehabilitation Annual Research and Clinical Expo, Baltimore, MD.
+Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., **Price C.**, Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. 7th Annual Johns Hopkins Physical Medicine and Rehabilitation Annual Research and Clinical Expo, Baltimore, MD.
 
 Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. American Thoracic Society International Conference, Washington, D.C.
 
-Johns, E., Price, C., Ungaretti, T. (2017). Managing a mind shift: how a library partnership helps medical practitioners transform into medical educators [Poster]. Towson Conference for Academic Libraries, Towson, MD. 
+Johns, E., **Price, C.**, Ungaretti, T. (2017). Managing a mind shift: how a library partnership helps medical practitioners transform into medical educators [Poster]. Towson Conference for Academic Libraries, Towson, MD. 
 
-Lyon J., Price, C., Saragossi, J., Tran, C. (2017). Evaluating the consistency and quality of search strategies and methodology in Cochrane Urology group systematic reviews [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Seattle, WA.
+Lyon J., **Price, C.**, Saragossi, J., Tran, C. (2017). Evaluating the consistency and quality of search strategies and methodology in Cochrane Urology group systematic reviews [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Seattle, WA.
 
-Price, C., Riese, V., Lobner, K., Blanck, J. & Anton, B. (2015). Beyond the search: librarian involvement on the systematic review team [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Austin, TX.
+**Price, C.**, Riese, V., Lobner, K., Blanck, J. & Anton, B. (2015). Beyond the search: librarian involvement on the systematic review team [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Austin, TX.
 
 Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Boston, MA.
 
@@ -156,8 +166,16 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
 
 ## Protocol <a name="protocols"></a>
 
-Munn, Z., Stone, J. C., Barker, T. H., Price, C., Pollock, D., Kabaghe, A. N., Gimnig, J. E., & Stevenson, J. C. (2021). Residual insecticide surface treatment for preventing malaria: A systematic review protocol. MedRxiv, 2021.12.13.21267747. https://doi.org/10.1101/2021.12.13.21267747 
+Munn, Z., Stone, J. C., Barker, T. H., **Price, C.**, Pollock, D., Kabaghe, A. N., Gimnig, J. E., & Stevenson, J. C. (2021). Residual insecticide surface treatment for preventing malaria: A systematic review protocol. _MedRxiv,_ 2021.12.13.21267747. https://doi.org/10.1101/2021.12.13.21267747 
+
+Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M., Pais, V., & Dahm, P. (2022). Tranexamic acid for percutaneous nephrolithotomy. _Cochrane Database of Systematic Reviews,_ (3). https://doi.org/10.1002/14651858.CD015122
 
  
 
- 
+## Videos and Learning Materials <a name="videos"></a>
+
+Price, C. (2022). Health Professions LibGuides at the Cook Library. https://towson.libguides.com/prf.php?account_id=261107 
+
+Price, C. (2021). Librarian Carrie Price. YouTube Channel. https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw 
+
+Price, C. (2021). Digital Handouts. Smore. https://www.smore.com/u/carrieprice 
