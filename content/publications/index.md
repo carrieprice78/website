@@ -93,7 +93,7 @@ Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinho
 
 ## Blog Posts <a name="blogs"></a>
 
-Price, C. (2022). _Is there a better teaching opportunity than assigning systematic reviews in a semester? Covidence._ https://www.covidence.org/blog/elementor-2112/ 
+Price, C. (2022). _Is there a better teaching opportunity than assigning systematic reviews in a semester?_Covidence. https://www.covidence.org/blog/elementor-2112/ 
 
 Price, C. (2021). _The librarian's role in the systematic review team: Why you should make friends with a librarian._ Covidence. https://www.covidence.org/blog/the-librarians-role-in-a-systematic-review-team/ 
 
