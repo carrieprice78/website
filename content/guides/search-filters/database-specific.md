@@ -31,7 +31,7 @@ PubMed has a number of subject filters built in and can be called by appending a
 * [Veterinary Science](https://www.nlm.nih.gov/services/queries/veterinarymed_details.html): use veterinary [sb]
 
 ## Miscellaneous
-
+* [CADTH Search Filters Database](https://searchfilters.cadth.ca/)
 * [Flinders Filters and CareSearch Filters](https://www.flinders.edu.au/research-centre-palliative-care-death-dying/partnerships-and-projects/flinders-filters) follow an established methodology designed to be objective and minimize bias
 * [Health Information Research Unit at McMaster University](https://hiru.mcmaster.ca/hiru/HIRU_Hedges_home.aspx) has written various database filters for therapy, diagnosis, review, prognosis, causation, etiology, economics, cost, clinical prediction guides, qualitative, and more for MEDLINE, Embase, and PsycINFO
 * [ISSG at InterTASC Search Filter Resource](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home) has a number of searches for different databases
