@@ -24,11 +24,12 @@ menu:
 ---
 ## Materials
 
-I created an adapted version of the PRESS Assessment Form that is fillable. 
+I created an adapted version of the Peer Review of Electronic Search Strategies (PRESS) Assessment Form that is fillable. 
 
-{{% staticref "uploads/20220407 - PRESS peer review template.docx" "newtab" %}}PRESS Fillable Form{{% /staticref %}}
+{{% staticref "uploads/20220407 - PRESS peer review template.docx" "newtab" %}}PRESS Assessment Fillable Form{{% /staticref %}}
 
 ## A Bibliography
+<p>This bibliography was assembled by Carrie Price, MLS, David Farris, MSIS, and Rachael Lebo, MLS.</p>
 
 ### Authorship
 - COPE. (2022). *Authorship and contributorship.* Committee on Publication Ethics. https://publicationethics.org/authorship
@@ -75,4 +76,3 @@ I created an adapted version of the PRESS Assessment Form that is fillable.
 - Stroup, D. F., Berlin, J. A., Morton, S. C., Olkin, I., Williamson, G. D., Rennie, D., ... & Thacker, S. B. (2000). Meta-analysis of observational studies in epidemiology: a proposal for reporting. JAMA, 283(15), 2008-2012. https://doi.org/10.1001/jama.283.15.2008 
 
 
-<sub>This bibliography was assembled by Carrie Price, MLS, David Farris, MSIS, and Rachael Lebo, MLS.</sub>
