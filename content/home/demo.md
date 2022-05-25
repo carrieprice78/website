@@ -29,8 +29,9 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/blue-circles.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.6
+  image = "headers/blue-bubbles.jpg"  # Name of image in `static/media/`.
+  image_darken = 0.5
+  
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -59,7 +60,7 @@ You are welcome to contact me to find out more about my services of expert searc
 
 
 
-<sub>Photo by [Nick Fewings on Unsplash](https://unsplash.com/photos/XXBgxhS_-vc)</sub>
+
 
 
 
