@@ -22,11 +22,11 @@ weight: 2
 ## Search Builder for Aged
 ### Controlled Vocabulary
 #### PubMed
-"aged"[mesh] OR "aged, 80 and over"[mesh] OR "aging"[mesh:noexp] OR "frail elderly"[mesh]
+"aged"[mesh] OR "aged, 80 and over"[mesh] OR "aging"[mesh:noexp] OR "frail elderly"[mesh]  OR "centenaarians"[mesh] OR "nonagenarians"[mesh] OR "octogenarians"[mesh]
 #### Embase
 'aged'/de or 'aged hospital patient'/de or 'frail elderly'/de or 'very elderly'/de
 #### The Cochrane Library
-[mh "aged"] OR [mh "aged, 80 and over"] OR [mh "frail elderly"]
+[mh "aged"] OR [mh "aged, 80 and over"] OR [mh ^"aging"] OR [mh "frail elderly"] OR [mh "centenarians"] OR [mh "nonagenarians"] OR [mh "octogenarians"]
 #### CINAHL
 MH "aged" OR MH "aged, 80 and over" OR MH "centenarians" OR MH "frail elderly" 
 

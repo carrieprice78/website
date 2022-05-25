@@ -26,7 +26,7 @@ menu:
 
 I created an adapted version of the Peer Review of Electronic Search Strategies (PRESS) Assessment Form that is fillable. 
 
-{{% staticref "uploads/20220525 - PRESS peer review template.docx" "newtab" %}}PRESS Assessment Fillable Form{{% /staticref %}}
+- {{% staticref "uploads/20220525 - PRESS peer review template.docx" "newtab" %}}PRESS Assessment Fillable Form{{% /staticref %}}
 
 ## A Bibliography
 <p>This bibliography was assembled by Carrie Price, MLS, David Farris, MSIS, and Rachael Lebo, MLS.</p>
