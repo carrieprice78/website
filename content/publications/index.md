@@ -17,6 +17,7 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
  - [Book Chapters](#books)
  - [Grants](#grants)
  - [Instruction](#instruction)
+ - [Podcasts](#podcasts)
  - [Posters and Presentations](#posters)
  - [Protocols](#protocols)
  - [Videos](#videos)
@@ -101,11 +102,11 @@ Price, C. (2021). _Systematic reviews: learn to search like a pro._ Covidence. h
 
 ## Book Chapters <a name="books"></a>
 
-**Price, C.**, Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International
+**Price, C.**, Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International. http://www.worldcat.org/oclc/1261367148 
 
-Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Switzerland: Springer International Publications. http://www.worldcat.org/oclc/950930190 
+Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.), _Resident’s handbook of medical auality and safety._ Springer International Publications. http://www.worldcat.org/oclc/950930190 
   
-Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), _Resident’s handbook of medical quality and safety._ Switzerland: Springer International Publications. 
+Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), _Resident’s handbook of medical quality and safety._ Springer International Publications. http://www.worldcat.org/oclc/950930190  
 
 ## Grant <a name="grants"></a>
 
@@ -115,11 +116,17 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 **Price, C.**, Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
 
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
+
 Price, C., Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; live]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
+
+## Podcasts <a name="podcasts"></a>
+
+Kamat, P., Damania, R., Price, C. (Hosts). (2021 July 4). Episode 20: Value of the librarian in PedsICU Education. [Audio podcast episode]. In *PICU Doc on Call*. https://picudoconcall.org/episodes/20/
 
 ## Presentations and Posters  <a name="posters"></a>
 
 Price, C. (2022). Bit by Byte: Building Best Practices in Data Literacy [Poster]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
+
 Oh, E., Yi, J., Pittman, C., Price, C., Nieman, C. (2021). Considering the technological and sensory needs of patients with cognitive impairment in the era of telehealth [Presentation]. American Auditory Society Annual Conference. https://doi.org/10.1093/geroni/igab046.326 
 
 Damania, R., **Price, C.**, Grunwell, J., Kamat, P. (2022). Future of pediatric critical care remote learning: Role and reach of a podcast series [Presentation]. Society of Critical Care Medicine 51st Critical Care Congress, virtual.
