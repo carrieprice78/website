@@ -23,7 +23,7 @@ menu:
 
 ---
 
-{{% staticref "20220407 - PRESS peer review template.docx.pdf" "newtab" %}}PRESS Fillable Form{{% /staticref %}}
+{{% staticref "static\uploads\20220407 - PRESS peer review template.docx" "newtab" %}}PRESS Fillable Form{{% /staticref %}}
 
 # A Bibliography
 
