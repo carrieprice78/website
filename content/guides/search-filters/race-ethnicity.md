@@ -13,19 +13,14 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 13
 ---
+## Bibliography 
+* [Hispanic/Latinx Inclusive Terminologies Technical Report](https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1735&context=lib_articles)
+* [Open Letter to the MeSH Committee](https://docs.google.com/document/d/1DBXX157lnlhLcDTWMSQv0mwA6ZkdWL_0Awt6Qa5_Yfc/edit)
+* Bass, M. B., Molina, R. L., Reardon, E. E., Porcello, L., Goldberg, J., Nickum, A., Lipke, L., Zeigen, L., Eldredge, J. D., & Wallerstein, N. B. (2022). Trends in…controlled vocabulary and health equity. _Medical Reference Services Quarterly, 41_(2), 185–201. https://doi.org/10.1080/02763869.2022.2060638 
+
 ## Existing Filters
+* [CADTH Search Filters Database includes Indigenous Peoples in Canada](https://searchfilters.cadth.ca/)
 * [ISSG Filters to find population specific studies](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/population-specific?authuser=0)
 * [ISSG Filters for Health Equity](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/health-equity?authuser=0)
 
 
-## Search Builder for Race and Ethnicity Terms
-
-### Controlled Vocabulary
-
-#### PubMed
-
-"african americans"[mesh] OR "african continental ancestry group"[mesh] OR "alaska natives"[mesh] OR "american native continental ancestry group"[mesh] OR "apartheid"[mesh] OR "asian americans"[mesh] OR "asian continental ancestry group"[mesh] OR "civil rights"[mesh] OR "continental population groups"[mesh] OR "cultural diversity"[mesh] OR "desegregation"[mesh] OR "ethnology"[mesh] OR "ethnic groups"[mesh] OR "hispanic americans"[mesh] OR "indians, central american"[mesh] OR "indians, south american"[mesh] OR "indians, north american"[mesh] OR "indigenous peoples"[mesh] OR "inuits"[mesh] OR "minority groups"[mesh] OR "minority health"[mesh] OR "prejudice"[mesh] OR "race factors"[mesh] OR "race relations"[mesh] OR "racism"[mesh] OR "transients and migrants"[mesh] OR "undocumented immigrants"[mesh]
-
-### Keywords
-
-aboriginal* OR african american OR african americans OR american indian* OR antiracism OR antiracist OR antiracists OR apartheid OR asian OR asians OR asian american OR asian americans OR BIPOC OR BIYOC OR black OR blackness OR blacks OR caste OR castes OR civil right* OR cuban american* OR desegregat* OR discriminat* OR diversity OR ethnic* OR emigrant* OR ethnolog* OR first nation OR first nations OR hispanic* OR illegal alien* OR immigrant* OR indigenous OR injustice* OR inuit* OR jim crow OR justice OR latina OR latino OR latinx OR man of color OR men of color OR mexican* OR migrant worker* OR minority OR minorities OR multirac* OR native american* OR native population* OR native people* OR person of color OR persons of color OR POC OR prejudic* OR puerto rican* OR race OR racial OR racially OR racism OR racist OR racists OR spanish american* OR segregat* OR SES OR transient worker* OR urp OR underrepresent* OR undocument* OR urban communit* OR urban population* OR vulnerable population* OR WOC OR women of color OR woman of color OR youth of color

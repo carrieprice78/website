@@ -15,7 +15,7 @@ weight: 4
 ---
 ## Existing Filters
 
-* [CADTH](https://covid.cadth.ca/literature-searching-tools/cadth-covid-19-search-strings/#covid-19-medline)
+* [CADTH](https://searchfilters.cadth.ca/)
 * [Medical Library Association](https://www.mlanet.org/page/covid-19-literature-searching)
 ## Search Builder for COVID-19
 

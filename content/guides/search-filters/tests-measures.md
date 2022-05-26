@@ -8,7 +8,7 @@ menu:
   search-filters:
     #parent: Topics
     weight: 15
-
+date: 2022-05-26
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 15
 ---
@@ -20,8 +20,8 @@ weight: 15
 
 #### PubMed
 
-"data collection"[mesh] OR "surveys and questionnaires"[mesh]
+"data collection"[mesh:noexp] OR "surveys and questionnaires"[mesh:noexp] OR "reference values"[mesh:noexp]
 
 ### Keywords
 
-index OR measure* OR questionnaire* OR scale* OR score* OR survey* OR test OR tests OR tool OR tools
+index OR indexes OR indice OR interview* OR instrument* OR measure* OR questionnaire* OR rubric* OR scale* OR score* OR survey* OR test OR tests OR tool OR tools

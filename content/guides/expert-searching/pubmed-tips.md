@@ -8,7 +8,7 @@ menu:
   expert-searching:
     #parent: Topics
     weight: 110
-
+date: 2022-05-26
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 110
 ---
@@ -17,7 +17,7 @@ weight: 110
 
 ## When to Use PubMed
 
-PubMed is a platform that indexes journal articles and more back to 1947. It covers the areas of medicine, nursing, dentistry, veterinary medicine, health care systems, preclinical sciences, and related areas. PubMed is developed and maintained by the National Library of Medicine (NLM) and the National Center for Biotechnology Information (NCBI), both at the National Institutes of Health (NIH) in Bethesda, MD. As of July, 2020, PubMed contains over 30 million records. PubMed is a platform that contains MEDLINE, PubMed Central, and additional PubMed records.
+PubMed is a platform that indexes journal articles and more back to 1947. It covers the areas of medicine, nursing, dentistry, veterinary medicine, health care systems, preclinical sciences, and related areas. PubMed is developed and maintained by the National Library of Medicine (NLM) and the National Center for Biotechnology Information (NCBI), both at the National Institutes of Health (NIH) in Bethesda, MD. As of May, 2022, PubMed contains over 34 million records. PubMed is a platform that contains MEDLINE, PubMed Central, the NCBI Bookshelf, and some additional PubMed records.
 
 ## PubMed Cool Tools
 

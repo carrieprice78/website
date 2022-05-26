@@ -9,7 +9,7 @@ title: Search Filters
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2020-08-12
+date: 2022-05-26
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -20,7 +20,7 @@ menu:
     weight: 1
 ---
 
-Please note that none of the posted filters have been validated.
+Please note that none of my posted searches have been validated. They are for you to use and adapt.
 
 ## Search Tools
 * [2Dsearch](https://app.2dsearch.com/): 2Dsearch is a radical alternative to conventional 'advanced search'. Instead of entering Boolean strings into one-dimensional search boxes, queries are formulated by combining objects on a two-dimensional canvas. This eliminates syntax errors, makes the query semantics more transparent, and offers a more effective way to optimize, save and share search strategies.

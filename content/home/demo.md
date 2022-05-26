@@ -29,9 +29,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/blue-bubbles.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.5
-  
+  image = "headers/blue banner.png"  # Name of image in `static/media/`.
+  image_darken = 0.6
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -52,11 +51,14 @@ subtitle = ""
  css_class = ""
 +++
 
-I am a medical librarian and expert searcher with a strong interest in user-centered and instructional design, evidence-based medicine, and interprofessional education. View my [ORCID](https://orcid.org/0000-0003-4345-3547).
+I am a medical librarian and searcher with interests in evidence synthesis methods, instructional design, public health, and evidence-based medicine. You are welcome to contact me using the form at the bottom of this page.
 
-Please see the [Guides](/guides/) section of this site for various guides on health sciences librarianship, expert searching, open educational resources, nursing, systematic reviews, and more. I also maintain and update a [YouTube Channel](https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw) with videos about citation management, searching, and evidence-based medicine.
+* [Guides](https://carrieprice78.github.io/guides/)
+* [ORCID](https://orcid.org/0000-0003-4345-3547)
+* [YouTube Channel](https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw)
 
-You are welcome to contact me to find out more about my services of expert searching, database instruction, desktop publishing, and social media outreach using the form at the bottom of this page.
+
+
 
 
 

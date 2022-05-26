@@ -3,7 +3,7 @@ title: Methodological Filters
 linktitle:  Methodological Filters
 toc: true
 type: docs
-date: 2020-08-12
+date: 2022-05-26
 draft: false
 menu:
   search-filters:
@@ -26,7 +26,7 @@ weight: 10
 ### Miscellaneous
 
 * [BMJ Study Design Search Filters](https://bestpractice.bmj.com/info/us/toolkit/learn-ebm/study-design-search-filters/): includes SR, RCT, cohort, case-control, case series, case study, adverse effects
-* [CADTH Database Search Filters](https://www.cadth.ca/resources/finding-evidence/strings-attached-cadths-database-search-filters): includes SR, RCT, guidelines, economics, quality of life
+* [CADTH Database Search Filters](https://searchfilters.cadth.ca/): includes SR, RCT, guidelines, economics
 
 ### Randomized Controlled Trials
 
