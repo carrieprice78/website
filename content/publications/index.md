@@ -147,7 +147,7 @@ Suen, J.J., Shukla, A., Harper, M. Pedersen, E., Goman, A.M., **Price, C.**, App
 
 Robins, S., **Price, C.** (2020). Overcoming the pitfalls of LibGuides through design and value-added content [Poster]. Presented at the Midwest-MLA Chapter Meeting, Milwaukee, WI.
 
-Shah, P., White, T.,**Price, C.**, Mukherjee, D. Innv-20. A systematic review of tumor treating fields therapy for primary for recurrent and glioblastoma [Presentation]. Neuro-oncology, 21(Supplement 6), vi134-va135. https://doi.org/10.1093/neuonc/noz175.563
+Shah, P., White, T., **Price, C.**, Mukherjee, D. Innv-20. A systematic review of tumor treating fields therapy for primary for recurrent and glioblastoma [Presentation]. Neuro-oncology, 21(Supplement 6), vi134-va135. https://doi.org/10.1093/neuonc/noz175.563
 
 Jackson, C., Choi, J., **Price, C.**,  Bettegowda, C., Lim, M., Gallia, G., Weingart, J., Brem, H., Mukherjee. (2019). Surg-16. Supratotal versus gross total resection of glioblastoma: A systematic review [Poster]. Neuro-oncology, 21(Supplement 6), vi243. https://doi.org/10.1093/neuonc/noz175.1017 
 
