@@ -9,7 +9,7 @@ title: Rehabilitation and Early Mobility Research
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2020-08-12
+date: 2022-05-27
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -21,10 +21,13 @@ menu:
 ---
 
 Resources for clinicians working in rehabilitation research. Categories include:
-* Early Mobility Publication Trends
-* Early Mobility Search Documentation
-* Research Resources
-* Discipline-Specific Pages
+* [Early Mobility Publication Trends](https://carrieprice78.github.io/guides/early-mobility/publication-trends/)
+* [Early Mobility Search Documentation](https://carrieprice78.github.io/guides/early-mobility/search-documentation/)
+* [Research Resources](https://carrieprice78.github.io/guides/early-mobility/research-resources/)
+* Discipline-Specific Pages (see navigation on left)
+  * [Occupational Therapy](https://carrieprice78.github.io/guides/early-mobility/occupational-therapy/)
+  * [Physical Therapy](https://carrieprice78.github.io/guides/early-mobility/physical-therapy/)
+  * [Speech Language Pathology](https://carrieprice78.github.io/guides/early-mobility/speech-language-pathology/)
+  * [Sports Medicine](https://carrieprice78.github.io/guides/early-mobility/sports-medicine/)
 
 
-<sub>The content of this guide was originally created by me for the Welch Medical Library PM&R and Early Mobility Research Guides at Johns Hopkins University.</sub>

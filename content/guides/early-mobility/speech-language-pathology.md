@@ -8,10 +8,10 @@ draft: false
 menu:
   early-mobility:
     #parent: Topics
-    weight: 20
+    weight: 45
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 20
+weight: 45
 ---
 
 ## Professional Organizations for SLP

@@ -3,7 +3,7 @@ title: Research Resources
 linktitle:  Research Resources
 toc: true
 type: docs
-date: 2020-08-12
+date: 2022-05-27
 draft: false
 menu:
   early-mobility:
@@ -24,15 +24,6 @@ Both EndNote Click and Unpaywall offer free, legal ways to access PDFs with brow
 * [Unpaywall](https://unpaywall.org/)
 
 
-## Databases for Research and Literature
-
-* [OTSeeker](http://www.otseeker.com/)
-* [PEDro: the Physiotherapy Evidence Database](https://www.pedro.org.au/)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-* [RehabData](https://www.naric.com/?q=en/SearchRehabdata)
-* [SpeechBITE](speechbite.com)
-* [WorldCat](https://www.worldcat.org/)
-
 ## Databases of Measures and Instruments
 If you have a subscription to [APA PsycINFO or APA PsycTESTS](https://www.apa.org/pubs/databases) through your organization, you can use them to search for psychological tests and measures.
 
@@ -41,14 +32,22 @@ If you have a subscription to [APA PsycINFO or APA PsycTESTS](https://www.apa.or
 * [RehabMeasures from the Shirley Ryan Ability Lab](https://www.sralab.org/rehabilitation-measures)
 
 
-## Selected Open Access Databases
+## Selected Databases and Resources
 
 * [Dimensions Free App](https://app.dimensions.ai/discover/publication)
-* [Eldis](https://www.eldis.org/)
 * [Global Index Medicus from the WHO](https://www.globalindexmedicus.net)
 * [The Lens](https://www.lens.org/)
+* [Merck Manual Professional](https://www.merckmanuals.com/professional)
+* [OTSeeker](http://www.otseeker.com/)
+* [PEDro: the Physiotherapy Evidence Database](https://www.pedro.org.au/)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+* [RehabData](https://www.naric.com/?q=en/SearchRehabdata)
 * [Research4life - formerly HINARI](https://portal.research4life.org/content/journals)
-* [Virtual Health Library](https://bvsalud.org/)
+* [SpeechBITE](speechbite.com)
+* [TRIP Database](https://www.tripdatabase.com/)
+* [WorldCat](https://www.worldcat.org/)
+
+
 
 ## Clinical Trials Registries
 
