@@ -9,7 +9,7 @@ title: How I Created This Site
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2020-08-12
+date: 2022-05-27
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -26,7 +26,7 @@ menu:
 
 * [Fork](https://fork.dev/blog/) - software I use to commit changes to the repositories
 * [Visual Studio Code](https://code.visualstudio.com/) - software to edit the site
-* [Hugo Academic](https://sourcethemes.com/academic/) - site theme
+* [Wowchemy](https://wowchemy.com/) - website builder
 * [Hugo](https://gohugo.io/getting-started/installing/) - server
 
 
@@ -36,8 +36,7 @@ menu:
 * A new GitHub repository or repositories for site build and content
 
 
-### Fork
+### Documentation
 
-* [Hugo Academic Theme](https://github.com/gcushen/hugo-academic)
-
-The [Academic Framework](https://sourcethemes.com/academic/docs/) is well-documented.
+* [Hugo Academic Theme](hhttps://github.com/wowchemy/wowchemy-hugo-themes)
+* [Getting Started](https://wowchemy.com/docs/) 
