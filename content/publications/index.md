@@ -94,7 +94,7 @@ Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinho
 
 ## Blog Posts <a name="blogs"></a>
 
-Price, C. (2022). _Is there a better teaching opportunity than assigning systematic reviews in a semester?_Covidence. https://www.covidence.org/blog/elementor-2112/ 
+Price, C. (2022). _Is there a better teaching opportunity than assigning systematic reviews in a semester?_ Covidence. https://www.covidence.org/blog/elementor-2112/ 
 
 Price, C. (2021). _The librarian's role in the systematic review team: Why you should make friends with a librarian._ Covidence. https://www.covidence.org/blog/the-librarians-role-in-a-systematic-review-team/ 
 
@@ -117,17 +117,17 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
 
-Price, C., Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; live]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
+**Price, C.**, Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; live]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
 
 ## Podcasts <a name="podcasts"></a>
 
 Kamat, P., Damania, R., Price, C. (Hosts). (2021 July 4). Episode 20: Value of the librarian in PedsICU Education. [Audio podcast episode]. In *PICU Doc on Call*. https://picudoconcall.org/episodes/20/
 
-## Presentations and Posters  <a name="posters"></a>
+## Posters and Presentations  <a name="posters"></a>
 
 Price, C. (2022). Bit by Byte: Building Best Practices in Data Literacy [Poster]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
 
-Oh, E., Yi, J., Pittman, C., Price, C., Nieman, C. (2021). Considering the technological and sensory needs of patients with cognitive impairment in the era of telehealth [Presentation]. American Auditory Society Annual Conference. https://doi.org/10.1093/geroni/igab046.326 
+Oh, E., Yi, J., Pittman, C., **Price, C.**, Nieman, C. (2021). Considering the technological and sensory needs of patients with cognitive impairment in the era of telehealth [Presentation]. American Auditory Society Annual Conference. https://doi.org/10.1093/geroni/igab046.326 
 
 Damania, R., **Price, C.**, Grunwell, J., Kamat, P. (2022). Future of pediatric critical care remote learning: Role and reach of a podcast series [Presentation]. Society of Critical Care Medicine 51st Critical Care Congress, virtual.
 
@@ -159,7 +159,7 @@ Johns, E., **Price, C.**, Ungaretti, T. (2018). Where in the world is my librari
 
 Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., **Price C.**, Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. 7th Annual Johns Hopkins Physical Medicine and Rehabilitation Annual Research and Clinical Expo, Baltimore, MD.
 
-Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., Price C., Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. American Thoracic Society International Conference, Washington, D.C.
+Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., **Price C.**, Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. American Thoracic Society International Conference, Washington, D.C.
 
 Johns, E., **Price, C.**, Ungaretti, T. (2017). Managing a mind shift: how a library partnership helps medical practitioners transform into medical educators [Poster]. Towson Conference for Academic Libraries, Towson, MD. 
 
