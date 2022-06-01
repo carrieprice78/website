@@ -9,7 +9,7 @@ title: Open Educational Resources
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2020-08-12
+date: 2022-06-01
 tags: open access
 
 # Add menu entry to sidebar.
@@ -27,7 +27,6 @@ menu:
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Harvard Online Learning](http://online-learning.harvard.edu/)
 * [International Council for Open and Distance Education](https://www.icde.org/)
-* [JHSPH Open Courseware](http://ocw.jhsph.edu/)
 * [Kahn Academy](https://www.khanacademy.org/)
 * [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
 * [OERu](https://oeru.org/)
@@ -44,16 +43,14 @@ menu:
 * [Open Michigan](https://open.umich.edu/)
 * [Open Scholarship Knowledge Base from OER Commons](https://www.oercommons.org/hubs/OSKB)
 * [OpenStax CNX](http://cnx.org/)
-* [The Orange Grove](http://florida.theorangegrove.org/og/access/home.do)
 * [Project CORA](https://www.projectcora.org/resources)
 
 ## Open Textbooks
 
-* [The Global Text Database](http://globaltext.terry.uga.edu/books)
 * [InTech](http://www.intechopen.com/books)
+* [Milne Open Textbooks](https://milneopentextbooks.org/)
 * [MIT OpenCourseWare Online Textbooks](http://ocw.mit.edu/courses/online-textbooks/)
 * [OpenStax](http://cnx.org/)
-* [Open SUNY Textbooks](http://textbooks.opensuny.org/)
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/)
 
 ## FOAMed (Free Online Open Access Medical Education)
@@ -70,4 +67,3 @@ menu:
 
 
 
-<sub>Some of the content of this guide was originally created by me for the Welch Medical Library Teaching and Learning Resource Guide at Johns Hopkins University.</sub>

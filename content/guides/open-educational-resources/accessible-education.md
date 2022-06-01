@@ -3,7 +3,7 @@ title: Accessible Education
 linktitle:  Accessible Education
 toc: true
 type: docs
-date: 2020-08-12
+date: 2022-06-01
 draft: false
 menu:
   open-educational-resources:
@@ -70,7 +70,7 @@ Alternative text helps screen readers recognize and describe images used on webs
 * Enter accurate text that avoids terminology such as "image of..." or "link to...".* 
 * See [WebAIM's section on alternative text](https://webaim.org/techniques/alttext/).
 
-See more from the [University of Washington's Overview of Accessible Documents](https://www.washington.edu/accessibility/documents/overview/) page.
+See more from the [University of Washington's Overview of Accessible Documents](https://www.washington.edu/accessibility/documents/) page.
 ### Word Documents
 
 * [Make your Word documents accessible to people with disabilities from Microsoft](https://support.microsoft.com/en-us/office/make-your-word-documents-accessible-to-people-with-disabilities-d9bf3683-87ac-47ea-b91a-78dcacb3c66d?redirectsourcepath=%252fen-us%252farticle%252fcreate-accessible-word-documents-4fbb34d6-264f-4315-98d1-e431019e6137&ui=en-us&rs=en-us&ad=us)
@@ -81,14 +81,14 @@ See more from the [University of Washington's Overview of Accessible Documents](
 
 * [PDF Accessibility Overview from Adobe](https://www.adobe.com/accessibility/pdf/pdf-accessibility-overview.html)
 * [Create Accessible PDFs from Section508.gov](https://www.section508.gov/create/pdfs)
-* [Creating Accessible PDF Forms Using Adobe Acrobat Pro from University of Washington](https://www.washington.edu/accessibility/documents/pdf-forms/)
-* [Creating Accessible PDF from MS Word from University of Washington](https://www.washington.edu/accessibility/documents/pdf-word/0)
+* [Check PDFs for Accessibility from University of Washington](https://www.washington.edu/accessibility/documents/check-pdfs/)
+
 
 ### Presentations
 
 * [Make your PowerPoint presentations accessible to people with disabilities from Microsoft](https://support.microsoft.com/en-ie/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25)
 * [Create Accessible Presentations from Section508.gov](https://www.section508.gov/create/presentations)
-* [Creating Accessible Presentations in MS PowerPoint from University of Washington](https://www.washington.edu/accessibility/documents/creating-accessible-presentations-in-microsoft-powerpoint/)
+* [Creating Accessible Presentations in MS PowerPoint from University of Washington](https://www.washington.edu/accessibility/documents/powerpoint/)
 
 
 ## Apps for Assistive Education
@@ -106,14 +106,12 @@ See more from the [University of Washington's Overview of Accessible Documents](
 
 * [Braille Tutor](https://itunes.apple.com/us/app/braille-tutor-free/id878463116?mt=80)
 * [Be My Eyes](http://www.bemyeyes.org/)
-* [KNFB Reader](http://www.knfbreader.com/products-mobile.php)
 * [SuperVision + Magnifier](https://itunes.apple.com/us/app/supervision+-magnifier/id691435681?mt=8)
 * [VO Starter](https://itunes.apple.com/us/app/vo-starter/id586844936?mt=8)
 
 ### Apps for Hearing
 
 * [Ear Agent](https://play.google.com/store/apps/details?id=com.itechsa.ear.agent.tool.aid.hearing.amplifier)
-* [HearYouNow](https://itunes.apple.com/us/app/id569522474)
 * [Ultimate Volume Booster](https://play.google.com/store/apps/details?id=us.porrassoft.volumebooster&hl=en)
 
 

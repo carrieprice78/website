@@ -27,10 +27,9 @@ OSoME unites data scientists and journalists studying the role of media and tech
 ## Information Literacy Resources
 
 
-
 ### [AAHSL Health Information Literacy Competency Map](https://www.aahsl.org/assets/docs/Health%20Information%20Literacy%20Competencies%20Map%20%28excel%29.pdf)
 This resource is developed by the Association of Academic Health Sciences Libraries (AAHSL) Competency-Based Medical Education Task Force (2018). It maps the ACRL Information Literacy Frames to the AAMC Core Entrustable Professional Activities for Entering Residency and the ACGME Core Competency requirements.
-### [ACRL Framework for Information Literacy for Higher Education Sandbox](http://sandbox.acrl.org/)
+### [ACRL Framework for Information Literacy for Higher Education Sandbox](https://sandbox.acrl.org/)
 Find open lesson plans to incorporate information literacy into your curriculum. From the Association of College and Research Libraries, a division of the American Library Association.
 ### [ACRL Information Literacy Competency Standards for Nursing](http://www.ala.org/acrl/standards/nursing)
 These standards directly address the information skills needed by nursing students at the associate, baccalaureate, master’s and doctoral levels and are written for nursing faculty and librarians who support nursing programs and nursing students in academic settings. However, because many nursing students are also practicing nurses, the skills described in the standards can be used for continuing education in the nursing profession.
