@@ -41,7 +41,7 @@ Take all the opportunities you can: to volunteer in clinical settings; to round 
 * [Evidence-Based Practice for the Medical Librarian from the School of Information and Library Science at UNC](https://sils.unc.edu/programs/ebm)
 * [Evidence-Based Practice for Medical Librarians from Strauss Health Sciences Library at U Colorado](https://library-cuanschutz.libguides.com/friendly.php?s=ebpml)
 * [Epidemiology in Public Health Practice from Coursera](https://www.coursera.org/specializations/professional-epidemiology?)
-* [Various Courses from Johns Hopkins Bloomberg School of Public Health Open Courseware](https://ocw.jhsph.edu/)
+
 
 ## Systematic Reviews
 
@@ -132,4 +132,3 @@ It has been helpful for me to follow these hashtags, sometimes using [Tweetdeck]
 * [CEBM Oxford](https://www.youtube.com/channel/UCier2CaQeEuW1JOBn67ECjg)
 * [Cochrane Training](https://www.youtube.com/channel/UCoWzvKR8RPHG07PPeqBiibA)
 * [NNLM Channel](https://www.youtube.com/c/NnlmGov)
-* [Sketchy EBM YouTube Channel](https://www.youtube.com/channel/UCj8HWVgRfPDhZgCPDQFMA5w) 

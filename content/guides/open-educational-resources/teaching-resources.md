@@ -21,8 +21,6 @@ weight: 40
 This toolkit contains the process and methods of design along with the Designer’s Workbook, adapted specifically for the context of K-12 education. It offers new ways to be intentional and collaborative when designing, and empowers educators to create impactful solutions.
 ### [Google Fonts](https://fonts.google.com/)
 Google's font catalog places typography front and center, inviting users to explore, sort, and test fonts for use in more than 135 languages.
-### [Librarian Design Share](https://librariandesignshare.org/)
-Librarian Design Share is intended as a community of creativity for librarians, people who work in libraries, and library students. So contribute, comment, and share your designs!
 ### [The Professional Association for Design: Education and Design](https://www.aiga.org/education-and-design)
 AIGA supports education throughout the arc of a designer’s career, including special programs for educators, a group critical to advancing the profession.
 ### [Slides Carnival](https://www.slidescarnival.com/)
@@ -34,7 +32,6 @@ Since its launch in November 2000 Identifont has become the largest independent 
 
 ### Image Sharing
 
-* [Foter](https://foter.com/)
 * [OpenClipArt](http://openclipart.org/)
 * [Pics4Learning](http://www.pics4learning.com/)
 * [Pixabay](https://pixabay.com/)

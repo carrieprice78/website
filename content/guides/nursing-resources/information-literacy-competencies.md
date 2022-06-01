@@ -3,7 +3,7 @@ title: Information Literacy Competencies for Nurses
 linktitle:  Information Literacy Competencies for Nurses
 toc: true
 type: docs
-date: 2020-08-12
+date: 2022-06-01
 draft: false
 menu:
   nursing-resources:
@@ -77,6 +77,3 @@ The information literate nurse:
 2. Follows laws, regulations, institutional policies, and etiquette related to the access and use of information resources.
 3. Acknowledges the use of information sources in communicating the product or performance.
 
-### Information Literacy Practice Exercises
-
-Coming soon!

@@ -18,7 +18,7 @@ weight: 50
 
 ## General Career Resources
 
-* [AACN Career Resource Center](http://www.aacn.nche.edu/students/career-resource-center)
+* [AACN Career Center](https://www.aacnnursing.org/career-center)
 * [Explore Careers in Nursing](http://www.allnursingschools.com/nursing-careers/article/careers)
 * [Explore Health Careers](http://explorehealthcareers.org/)
 * [Minority Nurse](http://www.minoritynurse.com/)
@@ -28,8 +28,7 @@ weight: 50
 
 ## Federal Jobs
 
-* [FedJobs](http://www.fedjobs.com/)
-* [Indian Health Service](http://www.ihs.gov/)
+* [Indian Health Service](https://www.ihs.gov/careeropps/)
 * [National Health Service Corps](http://nhsc.hrsa.gov/)
 * [USAJOBS](http://www.usajobs.gov/)
 * [US Office of Personnel Management](http://www.opm.gov/)
@@ -50,7 +49,7 @@ weight: 50
 * [Health eCareers](https://healthecareers.com/)
 * [National Council of State Boards of Nursing, Inc.](https://www.ncsbn.org/index.htm)
 * [Nurse.com](https://www.nurse.com/)
-* [NursingJobs.com](https://www.nursingjobs.com/)
+* [Travel Nursing Jobs](https://www.americanmobile.com/)
 * [NursingJobs.org](https://www.nursingjobs.org/)
 * [Nursing License Map](https://nursinglicensemap.com/)
 
