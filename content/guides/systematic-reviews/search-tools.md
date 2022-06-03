@@ -3,15 +3,15 @@ title: Search Tools
 linktitle: Search Tools
 toc: true
 type: docs
-date: 2020-08-12
+date: 2022-06-03
 draft: false
 menu:
   systematic-reviews:
     #parent: Topics
-    weight: 3
+    weight: 15
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 15
 ---
 
 Keep in mind current [search reporting](https://osf.io/ygn9w/) trends.

@@ -3,15 +3,15 @@ title: Process Guidance
 linktitle: Process Guidance
 toc: true
 type: docs
-date: 2020-08-12
+date: 2022-06-03
 draft: false
 menu:
   systematic-reviews:
     #parent: Topics
-    weight: 2
+    weight: 20
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 20
 ---
 
 ### [Cochrane Collaboration](https://www.cochrane.org/)
@@ -58,5 +58,5 @@ PRISMA stands for Preferred Reporting Items for Systematic Reviews and Meta-Anal
 
 ### Other Relevant Publications
 
-* Whiting, P., Savović, J., Higgins, J. P., Caldwell, D. M., Reeves, B. C., Shea, B., Davies, P., Kleijnen, J., Churchill, R., & ROBIS group (2016). ROBIS: A new tool to assess risk of bias in systematic reviews was developed. Journal of clinical epidemiology, 69, 225–234. https://doi.org/10.1016/j.jclinepi.2015.06.005 
+* Whiting, P., Savović, J., Higgins, J. P., Caldwell, D. M., Reeves, B. C., Shea, B., Davies, P., Kleijnen, J., Churchill, R., & ROBIS group (2016). ROBIS: A new tool to assess risk of bias in systematic reviews was developed. *Journal of Clinical Epidemiology, 69*, 225–234. https://doi.org/10.1016/j.jclinepi.2015.06.005 
 * University of York Centre for Reviews and Dissemination. "Registering a Review on PROSPERO." https://www.crd.york.ac.uk/prospero/#guidancenotes
