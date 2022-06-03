@@ -18,13 +18,20 @@ Keep in mind current [search reporting](https://osf.io/ygn9w/) trends.
 
 The following tools will aid in creating a sensitive search that includes the types of articles that would be relevant to your review. Use the tools for search creation, searching platforms, and search translation. 
 
+## Deduplication
+
+* [Deduklick](https://www.risklick.ch/deduklick/)
+Deuklick is an AI deduplication tool to remove duplicate records retrieved from searches.
+
+* [Deduplicator](https://sr-accelerator.com/#/deduplicator)
+A tool of the Systematic Review Accelerator suite.
 
 
 ## Search Tools
 * [2Dsearch](https://app.2dsearch.com/)
 2Dsearch is a radical alternative to conventional 'advanced search'. Instead of entering Boolean strings into one-dimensional search boxes, queries are formulated by combining objects on a two-dimensional canvas. This eliminates syntax errors, makes the query semantics more transparent, and offers a more effective way to optimize, save and share search strategies.
 
-* [BioReader](http://www.cbs.dtu.dk/services/BioReader/)
+* [BioReader](https://services.healthtech.dtu.dk/service.php?BioReader-1.2)
 BioReader can help you distill your reading list by ranking articles by relevance. Simply collect the PubMed IDs of a number of articles you found relevant and a similar number of articles not relevant to you. BioReader will provide you with a ranked reading list to limit the time wasted on reading irrelevant literature.
 
 
@@ -47,12 +54,6 @@ MEDLINE Transpose was developed to mitigate a common problem among information s
 
 * [Polyglot Search via SR Accelerator](http://sr-accelerator.com/#/polyglot)
 The IEBH SR-Accelerator is a suite of tools to speed up steps in the Systematic Review (SR) process. It is freely available for anyone in the world to use. Simply register below with your name and email address. The SRA is a modular design which means the tools can be incorporated into existing SR workflows and combined with other automation tools.
-## Search Platforms
 
-* [Medxrivr](https://mcguinlu.shinyapps.io/medrxivr/)
-Medxrivr allows you to perform advanced search and batch export in Medrxiv. Documentation is available on [GitHub](https://mcguinlu.github.io/medrxivr/index.html).
-
-* [Publibee](https://www.publibee.com)
-Publibee is a platform developed by Stanford University individuals that uses PubMed data and maintains Legacy PubMed functionality.
 
 
