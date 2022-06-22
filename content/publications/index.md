@@ -26,7 +26,6 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 Price, C. (2022). Syntheses synthesized: A look back at Grant and Booth's review typology. _Evidence-based Library & Information Practice, 17_(2). https://doi.org/10.18438/eblip30093 
 
-
 Dhar, S. I., Ryan, M. A., Davis, A. C., Jedlanek, E., Pietsch, K., **Price, C.**, Brodsky, M. B., & Akst, L. M. (2022). Does medialization improve swallowing function in patients with unilateral vocal fold paralysis? A systematic review. _Dysphagia_. Advance online publication. https://doi.org/10.1007/s00455-022-10441-5
 
 Fan, T. H., Huang, M., Gedansky, A., **Price, C.**, Robba, C., Hernandez, A. V., & Cho, S. M. (2021). Prevalence and outcome of acute respiratory distress syndrome in traumatic brain injury: A systematic review and meta-analysis. _Lung, 199_(6), 603–610. https://doi.org/10.1007/s00408-021-00491-1
