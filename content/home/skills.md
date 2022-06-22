@@ -18,19 +18,19 @@ subtitle = ""
   icon = "search"
   icon_pack = "fas"
   name = "Expert Searching"
-  description = "Seasoned evidence synthesis searcher"
+  description = "Evidence Synthesis"
   
 [[feature]]
   icon = "file-alt"
   icon_pack = "fas"
-  name = "Information Organization"
-  description = "Organizer of all things information"
+  name = "Content Management"
+  description = "Library Guides"
 
   [[feature]]
   icon = "hashtag"
   icon_pack = "fas"
   name = "Social Media"
-  description = "Twitter ambassador and Tweeter extraordinaire" 
+  description = "Twitter Ambassador" 
 
  
 
