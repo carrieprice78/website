@@ -117,7 +117,7 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 **Price, C.**, Garczynski, J., Yaukey, S. NNLM Data Science and Services Project Award. Amount: $25,000. (October 2021 – June 30, 2022).
 <br>
-
+<br>
 ## Instruction <a name="instruction"></a>
 
 **Price, C.**, Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
