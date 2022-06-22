@@ -93,7 +93,7 @@ Scala, E., **Price, C.**, Day, J. (2016). An integrative review of engaging clin
 Pereda, M. A., Chavez, M. A., Hooper-Miele, C. C., Gilman, R. H., Steinhoff, M. C., Ellington, L. E., Gross, M., **Price, C.**, Tielsch, J. M., & Checkley, W. (2015). Lung ultrasound for the diagnosis of pneumonia in children: a meta-analysis. _Pediatrics, 135_(4), 714-722. https://doi.org/10.1542/peds.2014-2833  
 
 Chavez, M. A., Shams, N., Ellington, L. E., Naithani, N., Gilman, R. H., Steinhoff, M. C., Santosham, M., Black, R.E., **Price C.**, Gross, M., & Checkley, W. (2014). Lung ultrasound for the diagnosis of pneumonia in adults: a systematic review and meta-analysis. _Respiratory Research, 15_(1), 50. https://doi.org/10.1186/1465-9921-15-50  
-
+<br>
 ## Blog Posts <a name="blogs"></a>
 
 Price, C. (2022). _Is there a better teaching opportunity than assigning systematic reviews in a semester?_ Covidence. https://www.covidence.org/blog/elementor-2112/ 
@@ -102,6 +102,7 @@ Price, C. (2021). _The librarian's role in the systematic review team: Why you s
 
 Price, C. (2021). _Systematic reviews: learn to search like a pro._ Covidence. https://www.covidence.org/blog/systematic-reviews-learn-to-search-like-a-pro/ 
 
+<br>
 ## Book Chapters <a name="books"></a>
 
 **Price, C.**, Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International. http://www.worldcat.org/oclc/1261367148 
@@ -110,20 +111,28 @@ Price, C. (2016). Tips for effective literature searching. In L. Atanelov (ed.),
   
 Price, C. (2016). Resources for grading the evidence, appraisal, writing, and publishing. In L. Atanelov (ed.), _Resident’s handbook of medical quality and safety._ Springer International Publications. http://www.worldcat.org/oclc/950930190  
 
-## Grant <a name="grants"></a>
+<br>
+
+## Grants <a name="grants"></a>
 
 **Price, C.**, Garczynski, J., Yaukey, S. NNLM Data Science and Services Project Award. Amount: $25,000. (October 2021 – June 30, 2022).
+<br>
 
 ## Instruction <a name="instruction"></a>
+
 **Price, C.**, Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
 
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
 
 **Price, C.**, Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; live]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
 
+<br>
+
 ## Podcasts <a name="podcasts"></a>
 
 Kamat, P., Damania, R., Price, C. (Hosts). (2021 July 4). Episode 20: Value of the librarian in PedsICU Education. [Audio podcast episode]. In *PICU Doc on Call*. https://picudoconcall.org/episodes/20/
+
+<br>
 
 ## Posters and Presentations  <a name="posters"></a>
 
@@ -172,15 +181,15 @@ Lyon J., **Price, C.**, Saragossi, J., Tran, C. (2017). Evaluating the consisten
 Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentation]. Medical Library Association (MLA) Annual Meeting and Exhibition, Boston, MA.
 
 
-
-## Protocol <a name="protocols"></a>
+<br>
+## Protocols <a name="protocols"></a>
 
 Munn, Z., Stone, J. C., Barker, T. H., **Price, C.**, Pollock, D., Kabaghe, A. N., Gimnig, J. E., & Stevenson, J. C. (2021). Residual insecticide surface treatment for preventing malaria: A systematic review protocol. _MedRxiv,_ 2021.12.13.21267747. https://doi.org/10.1101/2021.12.13.21267747 
 
 Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M., Pais, V., & Dahm, P. (2022). Tranexamic acid for percutaneous nephrolithotomy. _Cochrane Database of Systematic Reviews,_ (3). https://doi.org/10.1002/14651858.CD015122
 
  
-
+<br>
 ## Videos and Learning Materials <a name="videos"></a>
 
 Price, C. (2022). Health Professions LibGuides at the Cook Library. https://towson.libguides.com/prf.php?account_id=261107 
