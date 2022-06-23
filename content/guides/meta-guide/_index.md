@@ -28,6 +28,7 @@ menu:
 * [Visual Studio Code](https://code.visualstudio.com/) - software to edit the site
 * [Wowchemy](https://wowchemy.com/) - website builder
 * [Hugo](https://gohugo.io/getting-started/installing/) - server
+* [Scoop](https://scoop.sh/) - command-line installer for Windows
 
 
 ### Create

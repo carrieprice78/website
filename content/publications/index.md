@@ -5,7 +5,7 @@
 title: Publications 
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
-date: 2021-10-12
+date: 2022-06-23
 
 
 ---
@@ -117,8 +117,9 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 ## Grants <a name="grants"></a>
 
 **Price, C.**, Garczynski, J., Yaukey, S. NNLM Data Science and Services Project Award. Amount: $25,000. (October 2021 – June 30, 2022).
+
 <br>
-<br>
+
 ## Instruction <a name="instruction"></a>
 
 **Price, C.**, Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
@@ -126,6 +127,9 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
 
 **Price, C.**, Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; live]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
+
+Price, C. (2018). Predatory publishing: How can librarians lead the way? [Webinar]. U.S. National Library of Medicine, Network of the National Library of Medicine Seaside Webinar Series. https://youtu.be/ON6a2THN9q4
+
 
 <br>
 
@@ -164,8 +168,6 @@ Shah, P., White, T., **Price, C.**, Mukherjee, D. Innv-20. A systematic review o
 Jackson, C., Choi, J., **Price, C.**,  Bettegowda, C., Lim, M., Gallia, G., Weingart, J., Brem, H., Mukherjee. (2019). Surg-16. Supratotal versus gross total resection of glioblastoma: A systematic review [Poster]. Neuro-oncology, 21(Supplement 6), vi243. https://doi.org/10.1093/neuonc/noz175.1017 
 
 Blanck, J., Anton, B., **Price, C.**, Woodson, S., Seal, S., Seymour, A. (2018). Counting what matters: Combining robust assessment practices with dynamic visual dashboards [Presentation]. The Medical Library Association (MLA) Annual Meeting and Exhibition, Atlanta, GA.
-
-Price, C. (2018). Predatory publishing: How can librarians lead the way? [Webinar].U.S. National Library of Medicine, Network of the National Library of Medicine Seaside Webinar Series. https://youtu.be/ON6a2THN9q4
 
 Johns, E., **Price, C.**, Ungaretti, T. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations [Presentation]. Towson Conference for Academic Libraries, Towson, MD, and Distance Library Services Conference, San Antonio, TX. 
 
