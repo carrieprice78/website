@@ -103,6 +103,7 @@ Price, C. (2021). _The librarian's role in the systematic review team: Why you s
 Price, C. (2021). _Systematic reviews: learn to search like a pro._ Covidence. https://www.covidence.org/blog/systematic-reviews-learn-to-search-like-a-pro/ 
 
 <br>
+
 ## Book Chapters <a name="books"></a>
 
 **Price, C.**, Lebo, R., Seal, S., Whalen, M. (2022). Searching for evidence. In D. Dang, S. L. Dearholt, K. Bissett, J. Ascenzi, M. Whalen,  _Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model and guidelines, 4th ed._ Sigma Theta Tau International. http://www.worldcat.org/oclc/1261367148 
