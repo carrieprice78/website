@@ -5,7 +5,7 @@
 title: Publications 
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
-date: 2022-06-23
+date: 2022-06-28
 
 
 ---
@@ -117,9 +117,8 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 ## Grants <a name="grants"></a>
 
 **Price, C.**, Garczynski, J., Yaukey, S. NNLM Data Science and Services Project Award. Amount: $25,000. (October 2021 – June 30, 2022).
-
 <br>
-
+<br>
 ## Instruction <a name="instruction"></a>
 
 **Price, C.**, Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
@@ -127,9 +126,6 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
 
 **Price, C.**, Farris, D., Lebo, R. (2022, May 3). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; live]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
-
-Price, C. (2018). Predatory publishing: How can librarians lead the way? [Webinar]. U.S. National Library of Medicine, Network of the National Library of Medicine Seaside Webinar Series. https://youtu.be/ON6a2THN9q4
-
 
 <br>
 
@@ -169,6 +165,8 @@ Jackson, C., Choi, J., **Price, C.**,  Bettegowda, C., Lim, M., Gallia, G., Wein
 
 Blanck, J., Anton, B., **Price, C.**, Woodson, S., Seal, S., Seymour, A. (2018). Counting what matters: Combining robust assessment practices with dynamic visual dashboards [Presentation]. The Medical Library Association (MLA) Annual Meeting and Exhibition, Atlanta, GA.
 
+Price, C. (2018). Predatory publishing: How can librarians lead the way? [Webinar].U.S. National Library of Medicine, Network of the National Library of Medicine Seaside Webinar Series. https://youtu.be/ON6a2THN9q4
+
 Johns, E., **Price, C.**, Ungaretti, T. (2018). Where in the world is my librarian? Creating cross-campus collaborations to seamlessly connect with students when librarians, students, and faculty are in different locations [Presentation]. Towson Conference for Academic Libraries, Towson, MD, and Distance Library Services Conference, San Antonio, TX. 
 
 Brodsky M.B., Levy M.J., Jedlanek E., Blackford B., **Price C.**, Hillel A.T., Best S.R., Akst L.M. (2017).  Laryngeal and upper airway symptoms and injury following endotracheal intubation: a systematic review [Poster]. 7th Annual Johns Hopkins Physical Medicine and Rehabilitation Annual Research and Clinical Expo, Baltimore, MD.
@@ -185,6 +183,7 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
 
 
 <br>
+
 ## Protocols <a name="protocols"></a>
 
 Munn, Z., Stone, J. C., Barker, T. H., **Price, C.**, Pollock, D., Kabaghe, A. N., Gimnig, J. E., & Stevenson, J. C. (2021). Residual insecticide surface treatment for preventing malaria: A systematic review protocol. _MedRxiv,_ 2021.12.13.21267747. https://doi.org/10.1101/2021.12.13.21267747 
@@ -193,6 +192,7 @@ Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M.
 
  
 <br>
+
 ## Videos and Learning Materials <a name="videos"></a>
 
 Price, C. (2022). Health Professions LibGuides at the Cook Library. https://towson.libguides.com/prf.php?account_id=261107 
