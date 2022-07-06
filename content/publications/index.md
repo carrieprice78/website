@@ -24,6 +24,8 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Gupta, N., Patel, H. D., Taylor, J., Borin, J. F., Jacobsohn, K., Kenfield, S. A., Eggener, S. E., **Price, C.**, Davuluri, M., Byrne, N., Bivalacqua, T. J., & Loeb, S. (2022). Systematic review of the impact of a plant-based diet on prostate cancer incidence and outcomes. Prostate cancer and prostatic diseases, 10.1038/s41391-022-00553-2. Advance online publication. https://doi.org/10.1038/s41391-022-00553-2
+
 Price, C. (2022). Syntheses synthesized: A look back at Grant and Booth's review typology. _Evidence-based Library & Information Practice, 17_(2). https://doi.org/10.18438/eblip30093 
 
 Dhar, S. I., Ryan, M. A., Davis, A. C., Jedlanek, E., Pietsch, K., **Price, C.**, Brodsky, M. B., & Akst, L. M. (2022). Does medialization improve swallowing function in patients with unilateral vocal fold paralysis? A systematic review. _Dysphagia_. Advance online publication. https://doi.org/10.1007/s00455-022-10441-5
