@@ -141,15 +141,15 @@ Kamat, P., Damania, R., Price, C. (Hosts). (2021 July 4). Episode 20: Value of t
 
 Price, C. (2022). Bit by Byte: Building Best Practices in Data Literacy [Poster]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
 
-Oh, E., Yi, J., Pittman, C., **Price, C.**, Nieman, C. (2021). Considering the technological and sensory needs of patients with cognitive impairment in the era of telehealth [Presentation]. American Auditory Society Annual Conference. https://doi.org/10.1093/geroni/igab046.326 
-
 Damania, R., **Price, C.**, Grunwell, J., Kamat, P. (2022). Future of pediatric critical care remote learning: Role and reach of a podcast series [Presentation]. Society of Critical Care Medicine 51st Critical Care Congress, virtual.
+
+Oh, E., Yi, J., Pittman, C., **Price, C.**, Nieman, C. (2021). Considering the technological and sensory needs of patients with cognitive impairment in the era of telehealth [Presentation]. American Auditory Society Annual Conference. https://doi.org/10.1093/geroni/igab046.326 
 
 Price, C. (2021). Twitter and higher education: A bibliometric analysis [Poster]. Towson Conference for Academic Libraries, virtual. https://cpb-us-w2.wpmucdn.com/wp.towson.edu/dist/2/145/files/2021/07/TwitterHigherEd_poster.pdf 
 
 Gass, S., Gilbert, M., **Price, C.**, Sweeney, L., DesHarnais, M. (2021). Read it and weep: How one library began to improve its database descriptions [Poster]. Towson Conference for Academic Libraries, virtual. https://cpb-us-w2.wpmucdn.com/wp.towson.edu/dist/2/145/files/2021/07/ReadItWeep_poster.pdf
 
-Ballard, B. Gass, S., **Price, C.**, White, E. B. A cite for more eyes: Hosting virtual citation management workshops [Poster]. Towson Conference for Academic Libraries, virtual. https://www.youtube.com/watch?v=NKjtKoCp3lI 
+Ballard, B. Gass, S., **Price, C.**, White, E. B. (2021). A cite for more eyes: Hosting virtual citation management workshops [Poster]. Towson Conference for Academic Libraries, virtual. https://www.youtube.com/watch?v=NKjtKoCp3lI 
 
 Price, C. (2021). Searching for evidence in the health professions: creating a robust guide that meets the needs of users [Poster]. SpringyCamp Annual Conference, virtual.
 
