@@ -188,6 +188,8 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
 
 ## Protocols <a name="protocols"></a>
 
+Munn, Z., Pollock, D., **Price, C.**, Aromataris, E., Stern, C., Stone, J., Barker, T. H., Godfrey, C. M., Clyne, B., Booth, A., Tricco, A. C., & Jordan, Z. (2022). Investigating different typologies for the synthesis of evidence: a scoping review protocol. _JBI Evidence Synthesis._ https://doi.org/10.11124/JBIES-22-00122
+
 Munn, Z., Stone, J. C., Barker, T. H., **Price, C.**, Pollock, D., Kabaghe, A. N., Gimnig, J. E., & Stevenson, J. C. (2021). Residual insecticide surface treatment for preventing malaria: A systematic review protocol. _MedRxiv,_ 2021.12.13.21267747. https://doi.org/10.1101/2021.12.13.21267747 
 
 Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M., Pais, V., & Dahm, P. (2022). Tranexamic acid for percutaneous nephrolithotomy. _Cochrane Database of Systematic Reviews,_ (3). https://doi.org/10.1002/14651858.CD015122
