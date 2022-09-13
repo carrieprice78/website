@@ -28,12 +28,32 @@ I created an adapted version of the Peer Review of Electronic Search Strategies 
 
 - {{% staticref "uploads/20220525 - PRESS peer review template.docx" "newtab" %}}PRESS Assessment Fillable Form{{% /staticref %}}
 
+## Training for Systematic Reviews
+- [Bernard Becker Medical Library: Designing Search Strategies for Systematic Reviews Librarian Workshop](https://beckerguides.wustl.edu/SRClassRegistration)
+- [Cochrane Training](https://training.cochrane.org/learning-events/learning-live)
+- Dermody, K., Farnum, C., Jakubek, D., Petropoulos, J., Schmidt, J., Steinberg, R. *Advanced research skills: Conducting literature and systematic reviews.* Pressbooks. https://pressbooks.library.torontomu.ca/graduatereviews/
+- [GRADE Training](https://www.gradeworkinggroup.org/)
+- [JBI Comprehensive Systematic Review Training Program](https://jbi.global/education/systematic-review-training)
+- [Johns Hopkins University: Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review)
+- [Medical Library Association SRSS Level 1 Learning Pathway](http://www.medlib-ed.org/products/3375/srss-level-i-learning-pathway)
+- [University of Michigan Library Systematic Reviews Workshop](https://www.lib.umich.edu/research-and-scholarship/library-workshops-and-credit-courses/systematic-reviews-workshop)
+- [University of Minnesota Libraries Evidence Synthesis Institute](https://www.lib.umn.edu/about/evidence-synthesis-institute)
+- [The University of Sheffield Systematic Approacches to Searching for Evidence](https://www.sheffield.ac.uk/scharr/modules/systematic-approaches-searching-evidence-online)
+
+
+
+
+
 ## A Bibliography
 <p>This bibliography was assembled by Carrie Price, MLS, David Farris, MSIS, and Rachael Lebo, MLS.</p>
 
 ### Authorship
 - COPE. (2022). *Authorship and contributorship.* Committee on Publication Ethics. https://publicationethics.org/authorship
 - ICMJE. (2022). *Defining the roles of authors and contributors.* International Committee of Medical Journal Editors. https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html
+
+### Competencies
+
+- Townsend, W. A., Anderson, P. F., Ginier, E. C., MacEachern, M. P., Saylor, K. M., Shipman, B. L., & Smith, J. E. (2017). A competency framework for librarians involved in systematic reviews. *Journal of the Medical Library AssociationL: JMLA, 105*(3), 268–275. https://doi.org/10.5195/jmla.2017.189
 
 ### Recall and Precision
 
