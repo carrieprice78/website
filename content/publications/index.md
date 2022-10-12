@@ -24,6 +24,8 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Lyon, J., Price, C., Saragossi, J., Tran, C. (2022). Evaluating the consistency and quality of search strategies and methodology in Cochrane Urology group systematic reviews [preprint]. https://mdsoar.org/handle/11603/24830
+
 Gupta, N., Patel, H. D., Taylor, J., Borin, J. F., Jacobsohn, K., Kenfield, S. A., Eggener, S. E., **Price, C.**, Davuluri, M., Byrne, N., Bivalacqua, T. J., & Loeb, S. (2022). Systematic review of the impact of a plant-based diet on prostate cancer incidence and outcomes. _Prostate Cancer and Prostatic Diseases._ Advance online publication. https://doi.org/10.1038/s41391-022-00553-2
 
 Price, C. (2022). Syntheses synthesized: A look back at Grant and Booth's review typology. _Evidence-based Library & Information Practice, 17_(2). https://doi.org/10.18438/eblip30093 
@@ -187,6 +189,9 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
 <br>
 
 ## Protocols <a name="protocols"></a>
+
+
+Barker, T., Stone, J., Hasanoff, S., Stevenson, J., **Price, C.,** Kabaghe, A., Munn, Z. (2022). Dual-active-ingredient, insecticidal nets for preventing malaria: A systematic review protocol [version 1; peer review: 1 not approved]. _F1000Research, 11_, 1020. https://doi.org/10.12688/f1000research.123983.1 
 
 Munn, Z., Pollock, D., **Price, C.**, Aromataris, E., Stern, C., Stone, J., Barker, T. H., Godfrey, C. M., Clyne, B., Booth, A., Tricco, A. C., & Jordan, Z. (2022). Investigating different typologies for the synthesis of evidence: a scoping review protocol. _JBI Evidence Synthesis._ https://doi.org/10.11124/JBIES-22-00122
 
