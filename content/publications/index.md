@@ -124,7 +124,10 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 **Price, C.**, Garczynski, J., Yaukey, S. NNLM Data Science and Services Project Award. Amount: $25,000. (October 2021 – June 30, 2022).
 <br>
 <br>
+
 ## Instruction <a name="instruction"></a>
+
+Price, C. (2022, November 7 and 8). Certificate course in evidence synthesis: Systematic review and meta-analysis. Searching for studies - development of search strategy for a systematic review and Grey literature search and practical on search (6 hrs) [Online course]. CPublic Health Evidence South Asia, Prasanna School of Public Health, Manipal Academy of Higher Education. 
 
 **Price, C.**, Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
 
@@ -207,6 +210,6 @@ Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M.
 
 Price, C. (2022). Health Professions LibGuides at the Cook Library. https://towson.libguides.com/prf.php?account_id=261107 
 
-Price, C. (2021). Librarian Carrie Price. YouTube Channel. https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw 
+Price, C. (2021). YouTube Channel. https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw 
 
 Price, C. (2021). Digital Handouts. Smore. https://www.smore.com/u/carrieprice 
