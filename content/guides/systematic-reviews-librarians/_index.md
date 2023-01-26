@@ -28,7 +28,7 @@ I created an adapted version of the Peer Review of Electronic Search Strategies 
 
 - {{% staticref "uploads/20220525 - PRESS peer review template.docx" "newtab" %}}PRESS Assessment Fillable Form{{% /staticref %}}
 
-## Training for Systematic Reviews
+## Training and Reading for Systematic Reviews
 - [Bernard Becker Medical Library: Designing Search Strategies for Systematic Reviews Librarian Workshop](https://beckerguides.wustl.edu/SRClassRegistration)
 - [Cochrane Training](https://training.cochrane.org/learning-events/learning-live)
 - Dermody, K., Farnum, C., Jakubek, D., Petropoulos, J., Schmidt, J., Steinberg, R. *Advanced research skills: Conducting literature and systematic reviews.* Pressbooks. https://pressbooks.library.torontomu.ca/graduatereviews/
@@ -38,9 +38,12 @@ I created an adapted version of the Peer Review of Electronic Search Strategies 
 - [Medical Library Association SRSS Level 1 Learning Pathway](http://www.medlib-ed.org/products/3375/srss-level-i-learning-pathway)
 - [University of Michigan Library Systematic Reviews Workshop](https://www.lib.umich.edu/research-and-scholarship/library-workshops-and-credit-courses/systematic-reviews-workshop)
 - [University of Minnesota Libraries Evidence Synthesis Institute](https://www.lib.umn.edu/about/evidence-synthesis-institute)
+  * [Evidence Synthesis Institute on Pressbooks](https://pressbooks.umn.edu/evidencesynthesisinstitute/front-matter/about/)
 - [The University of Sheffield Systematic Approacches to Searching for Evidence](https://www.sheffield.ac.uk/scharr/modules/systematic-approaches-searching-evidence-online)
 
 
+
+This [list of books](https://guides.temple.edu/c.php?g=78618&p=2673529) and accompanying guide may provide insight to the evidence synthesis process.
 
 
 
