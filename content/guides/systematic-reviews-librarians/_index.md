@@ -31,11 +31,11 @@ I created an adapted version of the Peer Review of Electronic Search Strategies 
 ## Training and Reading for Systematic Reviews
 - [Bernard Becker Medical Library Designing Search Strategies for Systematic Reviews Librarian Workshop](https://beckerguides.wustl.edu/SRClassRegistration)
 - [Cochrane Training](https://training.cochrane.org/learning-events/learning-live)
-- [Ryerson University Advanced research skills: Conducting literature and systematic reviews on Pressbooks](https://pressbooks.library.torontomu.ca/graduatereviews/)
 - [GRADE Training](https://www.gradeworkinggroup.org/)
 - [JBI Comprehensive Systematic Review Training Program](https://jbi.global/education/systematic-review-training)
 - [Johns Hopkins University Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review)
 - [Medical Library Association SRSS Level 1 Learning Pathway](http://www.medlib-ed.org/products/3375/srss-level-i-learning-pathway)
+- [Ryerson University Advanced research skills: Conducting literature and systematic reviews on Pressbooks](https://pressbooks.library.torontomu.ca/graduatereviews/)
 - [Temple University's Systematic Review & Other Review Types Guide](https://guides.temple.edu/c.php?g=78618&p=2673529)
 - [University of Michigan Library Systematic Reviews Workshop](https://www.lib.umich.edu/research-and-scholarship/library-workshops-and-credit-courses/systematic-reviews-workshop)
 - [University of Minnesota Libraries Evidence Synthesis Institute](https://www.lib.umn.edu/about/evidence-synthesis-institute)
