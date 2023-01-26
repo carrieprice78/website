@@ -36,15 +36,11 @@ I created an adapted version of the Peer Review of Electronic Search Strategies 
 - [JBI Comprehensive Systematic Review Training Program](https://jbi.global/education/systematic-review-training)
 - [Johns Hopkins University: Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review)
 - [Medical Library Association SRSS Level 1 Learning Pathway](http://www.medlib-ed.org/products/3375/srss-level-i-learning-pathway)
+- [Temple University's Systematic Review & Other Review Types Guide](https://guides.temple.edu/c.php?g=78618&p=2673529)
 - [University of Michigan Library Systematic Reviews Workshop](https://www.lib.umich.edu/research-and-scholarship/library-workshops-and-credit-courses/systematic-reviews-workshop)
 - [University of Minnesota Libraries Evidence Synthesis Institute](https://www.lib.umn.edu/about/evidence-synthesis-institute)
   * [Evidence Synthesis Institute on Pressbooks](https://pressbooks.umn.edu/evidencesynthesisinstitute/front-matter/about/)
 - [The University of Sheffield Systematic Approacches to Searching for Evidence](https://www.sheffield.ac.uk/scharr/modules/systematic-approaches-searching-evidence-online)
-
-
-
-This [list of books](https://guides.temple.edu/c.php?g=78618&p=2673529) and accompanying guide may provide insight to the evidence synthesis process.
-
 
 
 ## A Bibliography
