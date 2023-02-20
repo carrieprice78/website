@@ -139,7 +139,9 @@ Price, C. (2022, May 13). Essential searching skills for librarians on systemati
 
 ## Podcasts <a name="podcasts"></a>
 
-Kamat, P., Damania, R., Price, C. (Hosts). (2021 July 4). Episode 20: Value of the librarian in PedsICU Education. [Audio podcast episode]. In *PICU Doc on Call*. https://picudoconcall.org/episodes/20/
+Shields, T. & **Price, C.**. Medlibs Miscellany [Audio podcast series]. https://medlibsmiscellany.substack.com/
+
+Kamat, P., Damania, R., **Price, C.** (Hosts). (2021 July 4). Episode 20: Value of the librarian in PedsICU Education. [Audio podcast episode]. In *PICU Doc on Call*. https://picudoconcall.org/episodes/20/
 
 <br>
 
