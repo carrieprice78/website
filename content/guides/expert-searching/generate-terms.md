@@ -8,7 +8,7 @@ menu:
   expert-searching:
     #parent: Topics
     weight: 10
-date: 2022-05-26
+date: 2023-02-20
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 410
 ---
@@ -58,4 +58,4 @@ If you want to be as comprehensive as possible, search with both controlled voca
 
 ### Use Caution
 
-In bibliographic databases, stop words are words that the database has been programmed to ignore in a search string or query. Stop words include of, the, is, at, which,and on. Avoid using stopwords in your searches.
+In bibliographic databases, stop words are words that the database has been programmed to ignore in a search string or query. Stop words include *of, the, is, at, which, and on*. Avoid using stopwords in your searches.
