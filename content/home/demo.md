@@ -57,10 +57,12 @@ Although I am rarely able to take on freelance work, you are welcome to contact 
 
 See links below for addional information and resources:
 
-* [Guides](https://carrieprice78.github.io/guides/)
+
 * [Instagram](https://www.instagram.com/library_carrie/)
 * [LinkedIn](https://www.linkedin.com/in/carrieprice78/)
+* [Medlibs Miscellany Podcast](https://medlibsmiscellany.substack.com/)
 * [ORCID](https://orcid.org/0000-0003-4345-3547)
+* [Resource Guides](https://carrieprice78.github.io/guides/)
 * [Twitter](https://twitter.com/carrieprice78)
 * [YouTube Channel](https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw)
 
