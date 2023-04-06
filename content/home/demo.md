@@ -53,7 +53,7 @@ subtitle = ""
 
 I am a medical librarian and expert searcher with interests in evidence synthesis methods, instruction, and evidence-based medicine.
 
-Although I am rarely able to take on additional freelance work, you are welcome to contact me using the form at the bottom of this page.
+Although I am rarely able to take on freelance work, you are welcome to contact me using the form at the bottom of this page.
 
 See links below for addional information and resources:
 
