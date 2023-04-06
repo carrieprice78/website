@@ -51,10 +51,17 @@ subtitle = ""
  css_class = ""
 +++
 
-I am a medical librarian and searcher with interests in evidence synthesis methods, instructional design, public health, and evidence-based medicine. You are welcome to contact me using the form at the bottom of this page.
+I am a medical librarian and expert searcher with interests in evidence synthesis methods, instruction, and evidence-based medicine.
+
+Although I am rarely able to take on additional independent contract work, you are welcome to contact me using the form at the bottom of this page.
+
+See links below for addional information and resources:
 
 * [Guides](https://carrieprice78.github.io/guides/)
+* [Instagram](https://www.instagram.com/library_carrie/)
+* [LinkedIn](https://www.linkedin.com/in/carrieprice78/)
 * [ORCID](https://orcid.org/0000-0003-4345-3547)
+* [Twitter](https://twitter.com/carrieprice78)
 * [YouTube Channel](https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw)
 
 
