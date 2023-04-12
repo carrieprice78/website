@@ -55,7 +55,7 @@ I am a medical librarian and expert searcher with interests in evidence synthesi
 
 Although I am rarely able to take on freelance work, you are welcome to contact me using the form at the bottom of this page.
 
-See links below for addional information and resources:
+See links below for additional information and resources:
 
 
 * [Instagram](https://www.instagram.com/library_carrie/)
