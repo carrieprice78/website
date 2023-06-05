@@ -29,6 +29,7 @@ I created an adapted version of the Peer Review of Electronic Search Strategies 
 
 ## Training and Reading for Systematic Reviews
 - [Bernard Becker Medical Library Designing Search Strategies for Systematic Reviews Librarian Workshop](https://beckerguides.wustl.edu/SRClassRegistration)
+- [Campbell Collaboration Systematic Reviews and Meta-Analyses](https://oli.cmu.edu/courses/systematic-reviews-and-meta-analysis-o-f/)
 - [Cochrane Training](https://training.cochrane.org/learning-events/learning-live)
 - [GRADE Training](https://www.gradeworkinggroup.org/)
 - [JBI Comprehensive Systematic Review Training Program](https://jbi.global/education/systematic-review-training)
@@ -39,6 +40,7 @@ I created an adapted version of the Peer Review of Electronic Search Strategies 
 - [University of Michigan Library Systematic Reviews Workshop](https://www.lib.umich.edu/research-and-scholarship/library-workshops-and-credit-courses/systematic-reviews-workshop)
 - [University of Minnesota Libraries Evidence Synthesis Institute](https://www.lib.umn.edu/about/evidence-synthesis-institute)
   * [Evidence Synthesis Institute on Pressbooks](https://pressbooks.umn.edu/evidencesynthesisinstitute/front-matter/about/)
+- [University of York YHEC](https://yhec.co.uk/training/)
 - [The University of Sheffield Systematic Approaches to Searching for Evidence](https://www.sheffield.ac.uk/scharr/modules/systematic-approaches-searching-evidence-online)
 
 
