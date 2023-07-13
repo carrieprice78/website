@@ -24,6 +24,9 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Mossman, A., DeMario, V. K., **Price, C.**, Seal, S. M., Willink, A., Reed, N. S., & Nieman, C. L. (2023). Association between adult-onset hearing loss and income: A systematic review. _Ear and Hearing, 10_. Advance online publication. https://doi.org/10.1097/AUD.0000000000001396
+
+Kaurani, P., Hindocha, A. D., Jayasinghe, R. M., Pai, U. Y., Batra, K., & **Price, C.** (2023). Effect of addition of titanium dioxide nanoparticles on the antimicrobial properties, surface roughness and surface hardness of polymethyl methacrylate: A systematic review. _F1000Research, 12,_ 577. https://doi.org/10.12688/f1000research.130028.1
 
 Lyon, J., **Price, C.**, Saragossi, J., Tran, C. (2022). Evaluating the consistency and quality of search strategies and methodology in Cochrane Urology group systematic reviews [preprint]. https://mdsoar.org/handle/11603/24830
 
@@ -127,9 +130,10 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 ## Instruction <a name="instruction"></a>
 
-Price, C. (2022, November 7 and 8). Certificate course in evidence synthesis: Systematic review and meta-analysis. Searching for studies - development of search strategy for a systematic review and Grey literature search and practical on search (6 hrs) [Online course]. Public Health Evidence South Asia, Prasanna School of Public Health, Manipal Academy of Higher Education. 
 
-**Price, C.**, Farris, D., Lebo, R. (2022, October 17 and 24). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
+**Price, C.**, Farris, D., Lebo, R. (2022-2023; ongoing). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
+
+Price, C. (2022, November 7 and 8). Certificate course in evidence synthesis: Systematic review and meta-analysis. Searching for studies - development of search strategy for a systematic review and Grey literature search and practical on search (6 hrs) [Online course]. Public Health Evidence South Asia, Prasanna School of Public Health, Manipal Academy of Higher Education. 
 
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
 
@@ -146,6 +150,8 @@ Kamat, P., Damania, R., **Price, C.** (Hosts). (2021 July 4). Episode 20: Value 
 <br>
 
 ## Posters and Presentations  <a name="posters"></a>
+
+Lockwood, C.M., **Price, C.** (2023 Jul 6). _My paper was not accepted, what did I do wrong; ... Submitting wisely for publication._ Winter Program of the University of São Paulo, Brazil School of Nursing. https://www.youtube.com/live/GIJM422jY_M?feature=share&t=3052
 
 Price, C. (2022). Bit by Byte: Building Best Practices in Data Literacy [Poster]. Medical Library Association (MLA) Annual Meeting and Exhibition, New Orleans, LA.
 
