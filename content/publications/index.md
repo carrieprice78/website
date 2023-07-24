@@ -130,7 +130,6 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 ## Instruction <a name="instruction"></a>
 
-
 **Price, C.**, Farris, D., Lebo, R. (2022-2023; ongoing). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
 
 Price, C. (2022, November 7 and 8). Certificate course in evidence synthesis: Systematic review and meta-analysis. Searching for studies - development of search strategy for a systematic review and Grey literature search and practical on search (6 hrs) [Online course]. Public Health Evidence South Asia, Prasanna School of Public Health, Manipal Academy of Higher Education. 
