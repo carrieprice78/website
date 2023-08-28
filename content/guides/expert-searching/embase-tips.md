@@ -28,7 +28,7 @@ The PV Wizard (PV stands for pharmacovigilance) allows the searcher to create st
 
 ### Drugs Search
 
-While this search option is not fully comprehensive, it can help a searcher find literature on adverse events, toxicity, interactions, and specify routes of administration. .
+While this search option is not fully comprehensive, it can help a searcher find literature on adverse events, toxicity, interactions, and specify routes of administration. 
 
 ### Medical Device Search
 

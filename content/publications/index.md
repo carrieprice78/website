@@ -24,6 +24,8 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Barker, T. H., Stone, J. C., Hasanoff, S., **Price, C.**, Kabaghe, A., & Munn, Z. (2023). Effectiveness of dual active ingredient insecticide-treated nets in preventing malaria: A systematic review and meta-analysis. _PloS One, 18_(8). https://doi.org/10.1371/journal.pone.0289469
+
 Mossman, A., DeMario, V. K., **Price, C.**, Seal, S. M., Willink, A., Reed, N. S., & Nieman, C. L. (2023). Association between adult-onset hearing loss and income: A systematic review. _Ear and Hearing, 10_. Advance online publication. https://doi.org/10.1097/AUD.0000000000001396
 
 Kaurani, P., Hindocha, A. D., Jayasinghe, R. M., Pai, U. Y., Batra, K., & **Price, C.** (2023). Effect of addition of titanium dioxide nanoparticles on the antimicrobial properties, surface roughness and surface hardness of polymethyl methacrylate: A systematic review. _F1000Research, 12,_ 577. https://doi.org/10.12688/f1000research.130028.1
@@ -201,6 +203,7 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
 
 ## Protocols <a name="protocols"></a>
 
+Pollock, D., Bailey, H. D., Munn, Z., Hasanoff, S., Valenzuela, C., Stern, C., **Price, C.**, Marriott, R., Gliddon, J., Lewis, C., Mitchie, C., Bowie, M., Penny, M., Reibel, T., Warland, J., Farrant, B., White, S. W., & Shepherd, C. C. J. (2023). First Nations populations' perceptions, knowledge, attitudes, beliefs, and myths about prevention and bereavement in stillbirth: a mixed methods systematic review protocol. _JBI Evidence Synthesis, 10._ https://doi.org/10.11124/JBIES-23-00071
 
 Barker, T., Stone, J., Hasanoff, S., Stevenson, J., **Price, C.**, Kabaghe, A., Munn, Z. (2022). Dual-active-ingredient, insecticidal nets for preventing malaria: A systematic review protocol [version 1; peer review: 1 not approved]. _F1000Research, 11_, 1020. https://doi.org/10.12688/f1000research.123983.1 
 
