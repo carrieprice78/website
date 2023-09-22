@@ -29,6 +29,7 @@ Citation tracking is used to assess the impact of articles or authors based on t
 ## Commonly-Used Article Metrics
 
 Indvidual articles can be measured by the following indicators:
+
 ### Citations
 
 Measures which articles have cited a particular article. Several different databases provide citation counts to discover this for individual publications.

@@ -14,14 +14,14 @@ menu:
 weight: 10
 ---
 
-Both Bootstrap 3.3.0 and Font Awesome 4.7.0 are built-in to LibGuides. These are the versions as of March, 2021.
+Both Bootstrap 3.3.7 and Font Awesome 4.7.0 are built-in to LibGuides. These are the versions as of March, 2021.
 
 
 ## Bootstrap
 
 * [Bootstrap 3.3.0](https://blog.getbootstrap.com/2014/10/29/bootstrap-3-3-0-released/)
 
-Bootstrap is an open-source CSS framework that helps users create responsive, device-friendly websites. As of March, 2021, version 3.3.0 is built in to the LibGuides and LibGuides CMS platforms. LibGuides content creators can use components or a Bootstrap grid or table by using the appropriate HTML in their source code. 
+Bootstrap is an open-source CSS framework that helps users create responsive, device-friendly websites. As of September, 2023, version 3.3.7 is built in to the LibGuides and LibGuides CMS platforms. LibGuides content creators can use components or a Bootstrap grid or table by using the appropriate HTML in their source code. 
 
 Of particular interest are the [Components](https://getbootstrap.com/docs/3.3/components/), which are template-based snippets of code that can be inserted into the HTML of LibGuides. To use, view the source code of any rich text/HTML element and paste the component you wish to use.
 

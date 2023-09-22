@@ -9,7 +9,7 @@ title: How I Created This Site
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2022-05-27
+date: 2023-05-27
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.

@@ -28,6 +28,10 @@ Research metrics, also called bibliometrics or citation metrics, are quantitativ
 
 Research metrics, when used responsibly, can help you tell a story about your research career; research metrics can help you enhance your impact in your field and beyond.
 
+## Tools
+
+* [Lens.org](https://www.lens.org/)
+* [Dimensions Free Web App](https://app.dimensions.ai/discover/publication)
 
 ## Tips for Reaching a Wider Audience
 
@@ -49,14 +53,7 @@ WordPress, Squarespace, and Drupal are recommended content management systems fo
 
 ### Remove Errors or Duplications in Your Research Profile
 
- If you happen to find errors in your research output, such as missing documents, incorrect names or affiliations, or duplicates of your profile or work, contact the publisher or database host. The links below are some recommended methods for fixing errors:
-
-* [Elsevier's instructions for requesting corrections](https://service.elsevier.com/app/answers/detail/a_id/14301/session/L3RpbWUvMTUzOTc4MzAxNy9nZW4vMTUzOTc4MzAxNy9zaWQvZlVzcGhDZTB2U21uRmYzMmVlVXFMZkFUNjdjbzF1ekx2RF9WS3B2SVU1TXA0NDVCMXBYMTVxZk5leW5faWRxdUZpNGtjZ29LRmhfX3prSEdLT0xJQ0tEaG5rUE9fekFlSVZ1dTNWN1JkcDZha2MxT2Z0NlJXcnFRJTIxJTIx/supporthub/scopuscontent/)
-* [PubMed: Can an error in a citation be corrected?](https://support.nlm.nih.gov/knowledgebase/article/KA-04935/en-us)
-* [PubMed: Reporting Errors](https://support.nlm.nih.gov/knowledgebase/article/KA-05168/en-us)
-* [PubMed: I found an error; how do I get it fixed?](https://support.nlm.nih.gov/knowledgebase/article/KA-04515/en-us)
-* [Scopus: Check, Correct, Submit: Hot to Ensure Accuracy in Your Scopus Author Profile](https://blog.scopus.com/posts/check-correct-submit-how-to-ensure-accuracy-in-your-scopus-author-profile)
-
+ If you happen to find errors in your research output, such as missing documents, incorrect names or affiliations, or duplicates of your profile or work, contact the publisher or database host. 
 
 ## NIH Biosketch and Grant Applications
 

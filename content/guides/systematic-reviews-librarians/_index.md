@@ -21,11 +21,6 @@ menu:
 
 
 ---
-## Materials
-
-I created an adapted version of the Peer Review of Electronic Search Strategies (PRESS) Assessment Form that is fillable. 
-
-- {{% staticref "uploads/20220525 - PRESS peer review template.docx" "newtab" %}}PRESS Assessment Fillable Form{{% /staticref %}}
 
 ## Training and Reading for Systematic Reviews
 - [Bernard Becker Medical Library Designing Search Strategies for Systematic Reviews Librarian Workshop](https://beckerguides.wustl.edu/SRClassRegistration)
@@ -37,6 +32,7 @@ I created an adapted version of the Peer Review of Electronic Search Strategies 
 - [Medical Library Association SRSS Level 1 Learning Pathway -- offerings rotate, check MEDLIB-ED](https://www.medlib-ed.org/)
 - [Ryerson University Advanced research skills: Conducting literature and systematic reviews on Pressbooks](https://pressbooks.library.torontomu.ca/graduatereviews/)
 - [Temple University's Systematic Review & Other Review Types Guide](https://guides.temple.edu/c.php?g=78618&p=2673529)
+- [Systematic Review Librarian](https://systematicreviewlibrarian.com/what-is-a-systematic-review/)
 - [University of Michigan Library Systematic Reviews Workshop](https://www.lib.umich.edu/research-and-scholarship/library-workshops-and-credit-courses/systematic-reviews-workshop)
 - [University of Minnesota Libraries Evidence Synthesis Institute](https://www.lib.umn.edu/about/evidence-synthesis-institute)
   * [Evidence Synthesis Institute on Pressbooks](https://pressbooks.umn.edu/evidencesynthesisinstitute/front-matter/about/)

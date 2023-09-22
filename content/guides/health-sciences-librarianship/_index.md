@@ -9,7 +9,7 @@ title: Health Sciences Librarianship
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
-date: 2020-08-12
+date: 2023-08-12
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -48,7 +48,7 @@ Take all the opportunities you can: to volunteer in clinical settings; to round 
 If you are going to be doing any type of systematic or expert reviews, then the collection of manuals and guidance below should make for very exciting weekend reading. In addition to engaging in continuing education and professional development around the systematic review process, make sure to be familiar with these seminal publications about the methodology.
 
 * [The Cochrane Handbook for Systematic Reviews of Interventions](https://training.cochrane.org/handbook)
-  * Especially Part 1 and Part 2.1 -- 2.4
+  * Part 2, Chapter 4 addresses searching
 * [Methodological Expectations for Cochrane Intervention Reviews (MECIR) Manual](https://community.cochrane.org/mecir-manual)
   * Sections C24-C38 address searching
 * [The National Academies: "Finding What Works in Health Care: Standards for Systematic Reviews"](https://www.nap.edu/read/13059/chapter/1)

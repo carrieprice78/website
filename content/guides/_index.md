@@ -11,4 +11,4 @@ menu:
 ---
 
 
-The guides are maintained frequently. You are welcome to [fork the repository on GitHub](https://github.com/carrieprice78/website) or suggest edits via the contact form on this site.
+The guides are maintained through 2023. You are welcome to [fork the repository on GitHub](https://github.com/carrieprice78/website) or suggest edits via the contact form on this site.
