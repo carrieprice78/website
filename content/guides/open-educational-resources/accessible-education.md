@@ -107,12 +107,8 @@ See more from the [University of Washington's Overview of Accessible Documents](
 * [Braille Tutor](https://itunes.apple.com/us/app/braille-tutor-free/id878463116?mt=80)
 * [Be My Eyes](http://www.bemyeyes.org/)
 * [SuperVision + Magnifier](https://itunes.apple.com/us/app/supervision+-magnifier/id691435681?mt=8)
-* [VO Starter](https://itunes.apple.com/us/app/vo-starter/id586844936?mt=8)
 
-### Apps for Hearing
 
-* [Ear Agent](https://play.google.com/store/apps/details?id=com.itechsa.ear.agent.tool.aid.hearing.amplifier)
-* [Ultimate Volume Booster](https://play.google.com/store/apps/details?id=us.porrassoft.volumebooster&hl=en)
 
 
 ## More Tools for Accessible Instruction

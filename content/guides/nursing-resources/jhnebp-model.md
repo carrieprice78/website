@@ -19,7 +19,7 @@ weight: 20
 ## Resources for Learning More about the JHN EBP Model
 
 * [Institute for Johns Hopkins Nursing Course Catalog](https://www.ijhn-education.org/) 
-* [JHN EBP Model Tools](https://www.hopkinsmedicine.org/evidence-based-practice/ijhn_2017_ebp.html) and [Copyright Permission Form](https://www.ijhn-education.org/node/18409#overlay-context=content/johns-hopkins-nursing-evidence-based-practice-model-and-tools)
+* [JHN EBP Model Tools](https://www.hopkinsmedicine.org/evidence-based-practice/model-tools) and [Copyright Permission Form](https://www.ijhn-education.org/node/18409#overlay-context=content/johns-hopkins-nursing-evidence-based-practice-model-and-tools)
 
 ## Forming Your Practice Question
 

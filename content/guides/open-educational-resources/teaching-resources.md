@@ -17,8 +17,7 @@ weight: 40
 ## Presentations and Design
 
 
-### [Design Toolkit Thinking for Educators](https://designthinkingforeducators.com/toolkit/)
-This toolkit contains the process and methods of design along with the Designer’s Workbook, adapted specifically for the context of K-12 education. It offers new ways to be intentional and collaborative when designing, and empowers educators to create impactful solutions.
+
 ### [Google Fonts](https://fonts.google.com/)
 Google's font catalog places typography front and center, inviting users to explore, sort, and test fonts for use in more than 135 languages.
 ### [The Professional Association for Design: Education and Design](https://www.aiga.org/education-and-design)
@@ -52,11 +51,10 @@ Since its launch in November 2000 Identifont has become the largest independent 
 ## Discussion
 
 
-* [Backchannel Chat](http://backchannelchat.com/)
+
 * [Chatzy](http://chatzy.com/)
 * [Discord](https://discord.com/)
 * [ProBoards](http://proboards.com/)
-* [ReadUps](http://readups.com/)
 * [Slack](https://slack.com/)
 * [Twitter](http://twitter.com/)
 
@@ -74,9 +72,8 @@ Since its launch in November 2000 Identifont has become the largest independent 
 
 ### Lesson Planning and Authoring
 
-* [Blendspace](http://blendspace.com/)
+
 * [Composica](https://composica.com/)
-* [Lesson LAMS](https://www.lessonlams.com/)
 * [EasyGenerator](http://easygenerator.com/)
 * [Nearpod](http://nearpod.com/)
 * [SoftChalk](http://softchalk.com/)

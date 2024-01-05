@@ -26,6 +26,8 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 Rethlefsen, M. L., Brigham, T. J., **Price, C.**, Moher, D., Bouter, L. M., Kirkham, J. J., Schroter, S., & Zeegers, M. P. (2023). Systematic review search strategies are poorly reported and not reproducible: a cross-sectional metaresearch study. _Journal of Clinical Epidemiology, 166_. https://doi.org/10.1016/j.jclinepi.2023.111229
 
+Dhyani, V. S., Krishnan, J. B., Mathias, E. G., Hossain, M. M., **Price, C.**, Gudi, N., Zodpey, S. (2023). Barriers and facilitators for the adoption of telemedicine services in low-income and middle-income countries: a rapid overview of reviews. _BMJ Innovations_. https://doi.org/10.1136/bmjinnov-2022-001062 
+
 Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M., Pais, V., & Dahm, P. (2023). Tranexamic acid for percutaneous nephrolithotomy: an abridged Cochrane review. _BJU International_. https://doi.org/10.1111/bju.16244
 
 Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M. S., Pais, V., & Dahm, P. (2023). Tranexamic acid for percutaneous nephrolithotomy. _The Cochrane Database of Systematic Reviews, 10_(10), CD015122. https://doi.org/10.1002/14651858.CD015122.pub2
