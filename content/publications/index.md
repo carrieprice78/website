@@ -24,6 +24,14 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Rethlefsen, M. L., Brigham, T. J., **Price, C.**, Moher, D., Bouter, L. M., Kirkham, J. J., Schroter, S., & Zeegers, M. P. (2023). Systematic review search strategies are poorly reported and not reproducible: a cross-sectional metaresearch study. _Journal of Clinical Epidemiology, 166_. https://doi.org/10.1016/j.jclinepi.2023.111229
+
+Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M., Pais, V., & Dahm, P. (2023). Tranexamic acid for percutaneous nephrolithotomy: an abridged Cochrane review. _BJU International_. https://doi.org/10.1111/bju.16244
+
+Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M. S., Pais, V., & Dahm, P. (2023). Tranexamic acid for percutaneous nephrolithotomy. _The Cochrane Database of Systematic Reviews, 10_(10), CD015122. https://doi.org/10.1002/14651858.CD015122.pub2
+
+Pollock, D., Bailey, H. D., Munn, Z., Hasanoff, S., Valenzuela, C., Stern, C., **Price, C.**, Marriott, R., Gliddon, J., Lewis, C., Michie, C., Bowie, M., Penny, M., Reibel, T., Warland, J., Farrant, B., White, S. W., & Shepherd, C. C. J. (2023). First Nations populations' perceptions, knowledge, attitudes, beliefs, and myths about prevention and bereavement in stillbirth: a mixed methods systematic review protocol. _JBI Evidence Synthesis, 21_(10), 2142–2150. https://doi.org/10.11124/JBIES-23-00071
+
 Barker, T. H., Stone, J. C., Hasanoff, S., **Price, C.**, Kabaghe, A., & Munn, Z. (2023). Effectiveness of dual active ingredient insecticide-treated nets in preventing malaria: A systematic review and meta-analysis. _PloS One, 18_(8). https://doi.org/10.1371/journal.pone.0289469
 
 Mossman, A., DeMario, V. K., **Price, C.**, Seal, S. M., Willink, A., Reed, N. S., & Nieman, C. L. (2023). Association between adult-onset hearing loss and income: A systematic review. _Ear and Hearing, 10_. Advance online publication. https://doi.org/10.1097/AUD.0000000000001396
