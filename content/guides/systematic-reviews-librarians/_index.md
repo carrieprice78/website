@@ -49,7 +49,7 @@ menu:
 
 ### Competencies
 
-- Townsend, W. A., Anderson, P. F., Ginier, E. C., MacEachern, M. P., Saylor, K. M., Shipman, B. L., & Smith, J. E. (2017). A competency framework for librarians involved in systematic reviews. *Journal of the Medical Library AssociationL: JMLA, 105*(3), 268–275. https://doi.org/10.5195/jmla.2017.189
+- Townsend, W. A., Anderson, P. F., Ginier, E. C., MacEachern, M. P., Saylor, K. M., Shipman, B. L., & Smith, J. E. (2017). A competency framework for librarians involved in systematic reviews. *Journal of the Medical Library Association: JMLA, 105*(3), 268–275. https://doi.org/10.5195/jmla.2017.189
 
 ### Recall and Precision
 
@@ -60,6 +60,7 @@ menu:
 ### Searching
 - Booth A. (2010). How much searching is enough? Comprehensive versus optimal retrieval for technology assessments. International journal of technology assessment in health care, 26(4), 431–435. https://doi.org/10.1017/S0266462310000966
 - Cochrane. (2020). Low and middle income country (LMIC) filter. Cochrane CIS Support Digest, 61. https://mailchi.mp/ebb18ffeece7/cochrane-information-specialist-support-team-digest-2864754#EPOC%20LMICs%20Filter
+- European Network for Health Technology Assessment. (2019 Dec). Process of information retrieval for systematic reviews and health technology assessments on clinical effectiveness. https://www.eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf 
 - Glanville, J. M., Duffy, S., McCool, R., & Varley, D. (2014). Searching ClinicalTrials.gov and the International Clinical Trials Registry Platform to inform systematic reviews: what are the optimal search approaches? *Journal of the Medical Library Association 102*(3), 177–183. https://doi.org/10.3163/1536-5050.102.3.007
 - Glanville, J., Kotas, E., Featherstone, R., & Dooley, G. (2020). Which are the most sensitive search filters to identify randomized controlled trials in MEDLINE?. *Journal of the Medical Library Association: JMLA, 108*(4), 556–563. https://doi.org/10.5195/jmla.2020.912 
 - McGowan, J., & Sampson, M. (2005). Systematic reviews need systematic searchers. *Journal of the Medical Library Association, 93*(1), 74–80https://www.ncbi.nlm.nih.gov/pmc/articles/PMC545125/pdf/i0025-7338-093-01-0074.pdf

@@ -56,8 +56,10 @@ If you are going to be doing any type of systematic or expert reviews, then the 
 * [JBI Manual for Evidence Synthesis](https://jbi-global-wiki.refined.site/space/MANUAL)
   * Sections 1.5 and all the chapters about different types of systematic reviews, depending on the research question/topic
 * [Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)](http://www.prisma-statement.org/)
-  * Note the PRISMA-P and the PRISMA-ScR extensions
-* Kugley, S., Wade, A., Thomas, J., Mahood, Q., Jørgensen, A. M. K., Hammerstrøm, K., & Sathe, N. (2016). Searching for studies: A guide to information retrieval for Campbell. Campbell Systematic Reviews. [https://doi.org/10.4073/cmg.2016.1](https://doi.org/10.4073/cmg.2016.1) from Campbell Methods Guides
+  * Note the PRISMA-S, the PRISMA-P, and the PRISMA-ScR extensions
+* European Network for Health Technology Assessment. (2019 Dec). Process of information retrieval for systematic reviews and health technology assessments on clinical effectiveness. https://www.eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf 
+* Kugley, S., Wade, A., Thomas, J., Mahood, Q., Jørgensen, A. M. K., Hammerstrøm, K., & Sathe, N. (2016). Searching for studies: A guide to information retrieval for Campbell. Campbell Systematic Reviews. [https://doi.org/10.4073/cmg.2016.1](https://doi.org/10.4073/cmg.2016.1) from Campbell Methods Guides, also here: https://campbellcollaboration.org/images/Campbell_Methods_Guides_Information_Retrieval.pdf  
+
 
 
 ## Literature Review Methods

@@ -56,7 +56,7 @@ Since its launch in November 2000 Identifont has become the largest independent 
 * [Discord](https://discord.com/)
 * [ProBoards](http://proboards.com/)
 * [Slack](https://slack.com/)
-* [Twitter](http://twitter.com/)
+* [X](http://twitter.com/)
 
 
 
@@ -77,7 +77,7 @@ Since its launch in November 2000 Identifont has become the largest independent 
 * [EasyGenerator](http://easygenerator.com/)
 * [Nearpod](http://nearpod.com/)
 * [SoftChalk](http://softchalk.com/)
-* [Udutu](http://udutu.com/)
+
 
 
 
