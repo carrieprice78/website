@@ -63,7 +63,7 @@ menu:
 - European Network for Health Technology Assessment. (2019 Dec). Process of information retrieval for systematic reviews and health technology assessments on clinical effectiveness. https://www.eunethta.eu/wp-content/uploads/2020/01/EUnetHTA_Guideline_Information_Retrieval_v2-0.pdf 
 - Glanville, J. M., Duffy, S., McCool, R., & Varley, D. (2014). Searching ClinicalTrials.gov and the International Clinical Trials Registry Platform to inform systematic reviews: what are the optimal search approaches? *Journal of the Medical Library Association 102*(3), 177–183. https://doi.org/10.3163/1536-5050.102.3.007
 - Glanville, J., Kotas, E., Featherstone, R., & Dooley, G. (2020). Which are the most sensitive search filters to identify randomized controlled trials in MEDLINE?. *Journal of the Medical Library Association: JMLA, 108*(4), 556–563. https://doi.org/10.5195/jmla.2020.912 
-- McGowan, J., & Sampson, M. (2005). Systematic reviews need systematic searchers. *Journal of the Medical Library Association, 93*(1), 74–80https://www.ncbi.nlm.nih.gov/pmc/articles/PMC545125/pdf/i0025-7338-093-01-0074.pdf
+- McGowan, J., & Sampson, M. (2005). Systematic reviews need systematic searchers. *Journal of the Medical Library Association, 93*(1), 74–80. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC545125/pdf/i0025-7338-093-01-0074.pdf
 - Ross-White A. (2021). Search is a verb: systematic review searching as invisible labor. *Journal of the Medical Library Association, 109*(3), 505–506. https://doi.org/10.5195/jmla.2021.1226
 
 ### Systematic Review Guidance

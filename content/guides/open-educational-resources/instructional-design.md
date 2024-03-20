@@ -20,7 +20,7 @@ weight: 35
 
 The resources listed here largely come from [this post from Eduflow.org](https://www.eduflow.com/blog/the-ultimate-list-of-41-instructional-design-courses).
 
-* [Introduction to Instructional Systems Design](https://alison.com/course/introduction-to-instructional-systems-design) is a 3-4 hour course providing the fundamentals of designing and developing course materials
+
 * [Learning to Teach Online](https://www.coursera.org/learn/teach-online) from Coursera pushes you to make better use of educational technology in fully online or blended classrooms
 * [Instructional Design Foundations and Applications](https://www.coursera.org/learn/instructional-design-foundations-applications) from Coursera is a 4-week course addressing the major concepts of instructional systems design, major theories of learning, and instructional design models
 * [e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age](https://www.coursera.org/learn/elearning) is a Coursera course focusing on educational technology
