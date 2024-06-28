@@ -24,6 +24,8 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Pollock, D., Bailey, H. D., Hasanoff, S., Munn, Z., Valenzuela, C., Stern, C., **Price, C.**, Marriott, R., Gliddon, J., Lewis, C., Michie, C., Bowie, M., Penny, M., Reibel, T., Warland, J., Farrant, B., White, S. W., & Shepherd, C. C. J. (2024). First Nations Peoples' perceptions, knowledge and beliefs regarding stillbirth prevention and bereavement practices: A mixed methods systematic review. _Women and Birth: Journal of the Australian College of Midwives, 37_(4). https://doi.org/10.1016/j.wombi.2024.101604
+
 Rethlefsen, M. L., Brigham, T. J., **Price, C.**, Moher, D., Bouter, L. M., Kirkham, J. J., Schroter, S., & Zeegers, M. P. (2023). Systematic review search strategies are poorly reported and not reproducible: a cross-sectional metaresearch study. _Journal of Clinical Epidemiology, 166_. https://doi.org/10.1016/j.jclinepi.2023.111229
 
 Dhyani, V. S., Krishnan, J. B., Mathias, E. G., Hossain, M. M., **Price, C.**, Gudi, N., Zodpey, S. (2023). Barriers and facilitators for the adoption of telemedicine services in low-income and middle-income countries: a rapid overview of reviews. _BMJ Innovations_. https://doi.org/10.1136/bmjinnov-2022-001062 
@@ -144,7 +146,7 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 **Price, C.**, Farris, D., Lebo, R. (2022-2023; ongoing). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
 
-Price, C. (2022, November 7 and 8). Certificate course in evidence synthesis: Systematic review and meta-analysis. Searching for studies - development of search strategy for a systematic review and Grey literature search and practical on search (6 hrs) [Online course]. Public Health Evidence South Asia, Prasanna School of Public Health, Manipal Academy of Higher Education. 
+Price, C. (2022, November 7 and 8; 2024 Apr 2). Certificate course in evidence synthesis: Systematic review and meta-analysis. Searching for studies - development of search strategy for a systematic review and Grey literature search and practical on search (6 hrs) [Online course]. Public Health Evidence South Asia, Prasanna School of Public Health, Manipal Academy of Higher Education. 
 
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
 
@@ -161,6 +163,11 @@ Kamat, P., Damania, R., **Price, C.** (Hosts). (2021 July 4). Episode 20: Value 
 <br>
 
 ## Posters and Presentations  <a name="posters"></a>
+
+Price, C. (2024 Jun 27). _My #Medlibs Journey_. NHS Wales. Online.
+
+Price, C. (2024 Jun 26). _Sharing on syntheses: A YouTuber's toolbox._ Library Evidence Synthesis Services Conference. Online.
+
 
 Lockwood, C.M., **Price, C.** (2023 Jul 6). _My paper was not accepted, what did I do wrong; ... Submitting wisely for publication._ Winter Program of the University of São Paulo, Brazil School of Nursing. https://www.youtube.com/live/GIJM422jY_M?feature=share&t=3052
 
@@ -213,7 +220,13 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
 
 ## Protocols <a name="protocols"></a>
 
-Pollock, D., Bailey, H. D., Munn, Z., Hasanoff, S., Valenzuela, C., Stern, C., **Price, C.**, Marriott, R., Gliddon, J., Lewis, C., Mitchie, C., Bowie, M., Penny, M., Reibel, T., Warland, J., Farrant, B., White, S. W., & Shepherd, C. C. J. (2023). First Nations populations' perceptions, knowledge, attitudes, beliefs, and myths about prevention and bereavement in stillbirth: a mixed methods systematic review protocol. _JBI Evidence Synthesis, 10._ https://doi.org/10.11124/JBIES-23-00071
+ Mikkelsen, M., Faris, N.R., Lobo, Cl, Athale, U., Morreira, D., **Price, C.**, Hankins, J., Almoazen, S., Barclay, C. (2024). Existence and characteristics of global sickle cell educational content for health care professionals: A scoping review protocol. _OSF Registries_. https://osf.io/u4a9x 
+ 
+ Barker, T.H., McBride, G.M., Dias, M., Kanukula, R., Hasanoff, S., Pollock, D., **Price, C.**,Kabaghe, A., Akl, E., Kolaczinki, J., Munn, Z. (2024) Contextual factors related to vector-control interventions for malaria: a scoping review and evidence and gap map protocol [version 1; peer review: 2 approved]. _F1000Research 13_(226). https://doi.org/10.12688/f1000research.144661.1 
+ 
+ Pfeiffer, D., Lankford, A., Senter, R., & **Price, C.** (2023). Components of effective interprofessional teams in preschool and elementary school settings: A scoping review. OSF Registries.
+
+ Pollock, D., Bailey, H. D., Munn, Z., Hasanoff, S., Valenzuela, C., Stern, C., **Price, C.**, Marriott, R., Gliddon, J., Lewis, C., Mitchie, C., Bowie, M., Penny, M., Reibel, T., Warland, J., Farrant, B., White, S. W., & Shepherd, C. C. J. (2023). First Nations populations' perceptions, knowledge, attitudes, beliefs, and myths about prevention and bereavement in stillbirth: a mixed methods systematic review protocol. _JBI Evidence Synthesis, 10._ https://doi.org/10.11124/JBIES-23-00071
 
 Barker, T., Stone, J., Hasanoff, S., Stevenson, J., **Price, C.**, Kabaghe, A., Munn, Z. (2022). Dual-active-ingredient, insecticidal nets for preventing malaria: A systematic review protocol [version 1; peer review: 1 not approved]. _F1000Research, 11_, 1020. https://doi.org/10.12688/f1000research.123983.1 
 
