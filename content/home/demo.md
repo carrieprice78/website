@@ -51,13 +51,14 @@ subtitle = ""
  css_class = ""
 +++
 
-I am a medical librarian and expert searcher with interests in evidence synthesis methods, instruction, and evidence-based medicine.
+I am a medical librarian and expert searcher with interests in evidence synthesis methods and instruction.
 
-Although I am rarely able to take on freelance work, you are welcome to contact me using the form at the bottom of this page.
+Although I am not able to take on freelance work, you are welcome to contact me using the form at the bottom of this page.
 
 See links below for additional information and resources:
 
 
+* [Bluesky](https://bsky.app/profile/carrieprice.bsky.social) 
 * [Instagram](https://www.instagram.com/library_carrie/)
 * [LinkedIn](https://www.linkedin.com/in/carrieprice78/)
 * [Medlibs Miscellany Podcast](https://medlibsmiscellany.substack.com/)
