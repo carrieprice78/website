@@ -58,7 +58,8 @@ Although I am not able to take on freelance work, you are welcome to contact me 
 See links below for additional information and resources:
 
 
-* [Bluesky](https://bsky.app/profile/carrieprice.bsky.social) 
+* [Bluesky](https://bsky.app/profile/carrieprice.bsky.social)
+* [Buy Me a Coffee](https://ko-fi.com/carrieprice78) 
 * [Instagram](https://www.instagram.com/library_carrie/)
 * [LinkedIn](https://www.linkedin.com/in/carrieprice78/)
 * [Medlibs Miscellany Podcast](https://medlibsmiscellany.substack.com/)
