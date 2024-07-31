@@ -24,6 +24,8 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Wilson, K. P., Valazza, E., & **Price, C.** (2024). Video modeling to support social communication goals of autistic adults: A tutorial. _American Journal of Speech-lLanguage Pathology_. https://doi.org/10.1044/2024_AJSLP-23-00479
+
 Pollock, D., Bailey, H. D., Hasanoff, S., Munn, Z., Valenzuela, C., Stern, C., **Price, C.**, Marriott, R., Gliddon, J., Lewis, C., Michie, C., Bowie, M., Penny, M., Reibel, T., Warland, J., Farrant, B., White, S. W., & Shepherd, C. C. J. (2024). First Nations Peoples' perceptions, knowledge and beliefs regarding stillbirth prevention and bereavement practices: A mixed methods systematic review. _Women and Birth: Journal of the Australian College of Midwives, 37_(4). https://doi.org/10.1016/j.wombi.2024.101604
 
 Rethlefsen, M. L., Brigham, T. J., **Price, C.**, Moher, D., Bouter, L. M., Kirkham, J. J., Schroter, S., & Zeegers, M. P. (2023). Systematic review search strategies are poorly reported and not reproducible: a cross-sectional metaresearch study. _Journal of Clinical Epidemiology, 166_. https://doi.org/10.1016/j.jclinepi.2023.111229
@@ -224,7 +226,7 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
  
  Barker, T.H., McBride, G.M., Dias, M., Kanukula, R., Hasanoff, S., Pollock, D., **Price, C.**,Kabaghe, A., Akl, E., Kolaczinki, J., Munn, Z. (2024) Contextual factors related to vector-control interventions for malaria: a scoping review and evidence and gap map protocol [version 1; peer review: 2 approved]. _F1000Research 13_(226). https://doi.org/10.12688/f1000research.144661.1 
  
- Pfeiffer, D., Lankford, A., Senter, R., & **Price, C.** (2023). Components of effective interprofessional teams in preschool and elementary school settings: A scoping review. OSF Registries.
+ Pfeiffer, D., Lankford, A., Senter, R., & **Price, C.** (2023). Components of effective interprofessional teams in preschool and elementary school settings: A scoping review. _OSF Registries._
 
  Pollock, D., Bailey, H. D., Munn, Z., Hasanoff, S., Valenzuela, C., Stern, C., **Price, C.**, Marriott, R., Gliddon, J., Lewis, C., Mitchie, C., Bowie, M., Penny, M., Reibel, T., Warland, J., Farrant, B., White, S. W., & Shepherd, C. C. J. (2023). First Nations populations' perceptions, knowledge, attitudes, beliefs, and myths about prevention and bereavement in stillbirth: a mixed methods systematic review protocol. _JBI Evidence Synthesis, 10._ https://doi.org/10.11124/JBIES-23-00071
 
@@ -241,7 +243,6 @@ Cleveland, B., Norling, B., Wang, H., Gandhi, V., **Price, C. L.**, Borofsky, M.
 
 ## Videos and Learning Materials <a name="videos"></a>
 
-Price, C. (2022). Health Professions LibGuides at the Cook Library. https://towson.libguides.com/prf.php?account_id=261107 
 
 Price, C. (2021). YouTube Channel. https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw 
 
