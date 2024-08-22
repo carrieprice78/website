@@ -24,6 +24,8 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Wingrat, J., **Price, C.**, & Wright, T. (2024). Facilitators of and Barriers to Caregiver Adherence to Home Therapy Recommendations for Infants and Children With Neuromotor and Neuromuscular Diagnoses: A Scoping Review. _The American Journal of Occupational Therapy, 78_(5), 7805205070. https://doi.org/10.5014/ajot.2024.050567
+
 Wilson, K. P., Valazza, E., & **Price, C.** (2024). Video modeling to support social communication goals of autistic adults: A tutorial. _American Journal of Speech-lLanguage Pathology_. https://doi.org/10.1044/2024_AJSLP-23-00479
 
 Pollock, D., Bailey, H. D., Hasanoff, S., Munn, Z., Valenzuela, C., Stern, C., **Price, C.**, Marriott, R., Gliddon, J., Lewis, C., Michie, C., Bowie, M., Penny, M., Reibel, T., Warland, J., Farrant, B., White, S. W., & Shepherd, C. C. J. (2024). First Nations Peoples' perceptions, knowledge and beliefs regarding stillbirth prevention and bereavement practices: A mixed methods systematic review. _Women and Birth: Journal of the Australian College of Midwives, 37_(4). https://doi.org/10.1016/j.wombi.2024.101604
