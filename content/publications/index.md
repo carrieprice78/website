@@ -24,6 +24,9 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+
+Barker, T. H., McBride, G. M., Dias, M., **Price, C.**, & Munn, Z. (2024). Contextual factors and G6PD diagnostic testing: A scoping review and evidence and gap map. _Malaria Journal, 23_(1), 241. https://doi.org/10.1186/s12936-024-05050-6
+
 Wingrat, J., **Price, C.**, & Wright, T. (2024). Facilitators of and barriers to caregiver adherence to home therapy recommendations for infants and children with neuromotor and neuromuscular diagnoses: A scoping review. _The American Journal of Occupational Therapy, 78_(5), 7805205070. https://doi.org/10.5014/ajot.2024.050567
 
 Wilson, K. P., Valazza, E., & **Price, C.** (2024). Video modeling to support social communication goals of autistic adults: A tutorial. _American Journal of Speech-lLanguage Pathology_. https://doi.org/10.1044/2024_AJSLP-23-00479
@@ -224,6 +227,8 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
 
 ## Protocols <a name="protocols"></a>
 
+ Kaurani, P., Hindocha, A., Porwal, A., Tambe, A., **Price, C.**, Goel, V., Krasner, H., Khubchandani, J., & Batra, K. (2024). Effect of addition of metal oxide nanoparticles on the strength of heat-cured denture dase resins: Protocol for systematic review and meta-analysis of in vitro studies. _JMIR Research Protocols, 13_. https://doi.org/10.2196/59999
+ 
  Mikkelsen, M., Faris, N.R., Lobo, Cl, Athale, U., Morreira, D., **Price, C.**, Hankins, J., Almoazen, S., Barclay, C. (2024). Existence and characteristics of global sickle cell educational content for health care professionals: A scoping review protocol. _OSF Registries_. https://osf.io/u4a9x 
  
  Barker, T.H., McBride, G.M., Dias, M., Kanukula, R., Hasanoff, S., Pollock, D., **Price, C.**,Kabaghe, A., Akl, E., Kolaczinki, J., Munn, Z. (2024) Contextual factors related to vector-control interventions for malaria: a scoping review and evidence and gap map protocol [version 1; peer review: 2 approved]. _F1000Research 13_(226). https://doi.org/10.12688/f1000research.144661.1 
