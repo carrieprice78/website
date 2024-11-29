@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "search"
   icon_pack = "fas"
-  name = "Expert Searching"
-  description = "Evidence Synthesis"
+  name = "Evidence Synthesis"
+  description = ""
   
 [[feature]]
   icon = "file-alt"
   icon_pack = "fas"
-  name = "Content Management"
-  description = "Library Guides"
+  name = "Instruction"
+  description = ""
 
   [[feature]]
   icon = "hashtag"
   icon_pack = "fas"
   name = "Social Media"
-  description = "Twitter Ambassador" 
+  description = "" 
 
  
 

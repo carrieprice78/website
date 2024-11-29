@@ -24,6 +24,9 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Farris, D. P., Lebo, R. A., & **Price, C.** (2024). Designing a framework for curriculum building in systematic review competencies for librarians: A case report. _Journal of the Medical Library Association_(4), 357–363. https://doi.org/10.5195/jmla.2024.1930 
+
+Kaurani, P., Hindocha, A., Porwal, A., Tambe, A.,**Price, C.**, Goel, V., Krasner, H., Khubchandani, J., & Batra, K. (2024). Effect of Addition of Metal Oxide Nanoparticles on the Strength of Heat-Cured Denture Base Resins: Protocol for Systematic Review and Meta-Analysis of In Vitro Studies. _JMIR Research Protocols, 13_. https://doi.org/10.2196/59999
 
 Barker, T. H., McBride, G. M., Dias, M., **Price, C.**, & Munn, Z. (2024). Contextual factors and G6PD diagnostic testing: A scoping review and evidence and gap map. _Malaria Journal, 23_(1), 241. https://doi.org/10.1186/s12936-024-05050-6
 

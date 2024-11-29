@@ -65,7 +65,6 @@ See links below for additional information and resources:
 * [Medlibs Miscellany Podcast](https://medlibsmiscellany.substack.com/)
 * [ORCID](https://orcid.org/0000-0003-4345-3547)
 * [Resource Guides](https://carrieprice78.github.io/guides/)
-* [Twitter](https://twitter.com/carrieprice78)
 * [YouTube Channel](https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw)
 
 
