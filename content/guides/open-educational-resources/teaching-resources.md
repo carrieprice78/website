@@ -52,12 +52,11 @@ Since its launch in November 2000 Identifont has become the largest independent 
 
 
 
-* [Chatzy](http://chatzy.com/)
+*
 * [Discord](https://discord.com/)
 * [ProBoards](http://proboards.com/)
 * [Slack](https://slack.com/)
-* [Formerly Twitter](http://twitter.com/)
-
+*
 
 
 ##  Multimodal Production
@@ -75,8 +74,7 @@ Since its launch in November 2000 Identifont has become the largest independent 
 
 * [Composica](https://composica.com/)
 * [EasyGenerator](http://easygenerator.com/)
-* [Nearpod](http://nearpod.com/)
-* [SoftChalk](http://softchalk.com/)
+
 
 
 
