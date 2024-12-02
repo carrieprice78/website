@@ -60,7 +60,6 @@ See links below for additional information and resources:
 
 * [Bluesky](https://bsky.app/profile/carrieprice.bsky.social)
 * [Buy Me a Coffee](https://ko-fi.com/carrieprice78) 
-* [Instagram](https://www.instagram.com/library_carrie/)
 * [LinkedIn](https://www.linkedin.com/in/carrieprice78/)
 * [Medlibs Miscellany Podcast](https://medlibsmiscellany.substack.com/)
 * [ORCID](https://orcid.org/0000-0003-4345-3547)
