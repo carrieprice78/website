@@ -24,6 +24,8 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+Munn, Z., Pollock, D., Stone, J., Hasanoff, S., Gordon, A., **Price, C.,** Stark, M., & Barker, T. H. (2024). The impact of using cannabis during pregnancy on the infant and mother: An overview of systematic reviews, evidence map, targeted updates, and de novo synthesis. _The Australian & New Zealand Journal of Obstetrics & Gynaecology_. https://doi.org/10.1111/ajo.13916
+
 Farris, D. P., Lebo, R. A., & **Price, C.** (2024). Designing a framework for curriculum building in systematic review competencies for librarians: A case report. _Journal of the Medical Library Association_(4), 357–363. https://doi.org/10.5195/jmla.2024.1930 
 
 Kaurani, P., Hindocha, A., Porwal, A., Tambe, A.,**Price, C.**, Goel, V., Krasner, H., Khubchandani, J., & Batra, K. (2024). Effect of Addition of Metal Oxide Nanoparticles on the Strength of Heat-Cured Denture Base Resins: Protocol for Systematic Review and Meta-Analysis of In Vitro Studies. _JMIR Research Protocols, 13_. https://doi.org/10.2196/59999
