@@ -53,7 +53,7 @@ subtitle = ""
 
 I'm a skilled information specialist, expert searcher, and clinical medical librarian committed to enhancing the integrity and reporting of research. With expertise in evidence synthesis methods and health research, I provide invaluable support to researchers and healthcare professionals alike. 
 
-As an experienced instructor, I excel at translating complex information into clear, accessible  content that learners understand. Additionally, my strengths in information architecture, file management, and document accessibility ensure accuracy and usability.
+As an experienced instructor, I excel at translating complex information into clear, accessible content that learners understand. Additionally, my strengths in information architecture, file management, and document accessibility ensure accuracy and usability.
 
 I would love to hear more about your research. Please contact me using the form below.
 
