@@ -51,9 +51,9 @@ subtitle = ""
  css_class = ""
 +++
 
-I am a medical librarian and expert searcher with interests in evidence synthesis methods and instruction.
+I'm a skilled information specialist, expert searcher, and clinical medical librarian committed to enhancing the impact of research. With expertise in evidence synthesis methods and health research, I provide invaluable support to researchers and healthcare professionals alike. As an experienced instructor, I excel at translating complex information into clear, accessible  content that learners understand. Additionally, my strengths in information architecture, file management, and document accessibility ensure accuracy and usability.
 
-Although I am not able to take on freelance work, you are welcome to contact me using the form at the bottom of this page.
+I would love to hear more about your research. Please contact me using the form below.
 
 See links below for additional information and resources:
 
