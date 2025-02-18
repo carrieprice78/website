@@ -112,7 +112,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/carrieprice78"},
+
   {icon = "orcid", icon_pack = "fab", name = "ORCID", link = "https://orcid.org/0000-0003-4345-3547"},
   {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/carrieprice78"},
   {icon = "linkedin-in", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/carrie-price-73061132/"},
@@ -126,8 +126,7 @@ contact_links = [
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
 sharing_image = ""
 
-# Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "carrieprice78"
+
 
 ############################
 ## Regional Settings
