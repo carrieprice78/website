@@ -51,9 +51,9 @@ subtitle = ""
  css_class = ""
 +++
 
-I'm a skilled information specialist, expert searcher, and clinical medical librarian committed to enhancing the foundations and reporting of research. With expertise in evidence synthesis methods and health research, I provide support to researchers and healthcare professionals alike throughout the research lifecycle. As an experienced instructor, I excel at translating complex information into clear, accessible content that learners understand. Additionally, my proficiency in information architecture, instructional technology, file management, and document accessibility gives me a well-rounded and versatile skill set for many types of work.
+I'm a skilled information specialist, expert searcher, and clinical medical librarian committed to enhancing the foundations and reporting of research. With expertise in evidence synthesis methods and health research, I have provided support to researchers and healthcare professionals alike throughout the research lifecycle. As an experienced instructor, I excel at translating complex information into clear, accessible content that learners understand. Additionally, my proficiency in information architecture, instructional technology, file management, and document accessibility gives me a well-rounded and versatile skill set for many types of work.
 
-I would love to hear more about your research needs. Please contact me using the form below.
+
 
 * [Bluesky](https://bsky.app/profile/carrieprice.bsky.social)
 * [Buy Me a Coffee](https://ko-fi.com/carrieprice78) 
