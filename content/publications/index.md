@@ -24,6 +24,10 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 
 ## Articles <a name="articles"></a>
 
+
+Lipke, L., & **Price, C.** (2025). Rethinking systematic review assignment design in graduate health science education from librarians’ perspectives. _Hypothesis: Research Journal for Health Information Professionals, 37_(1). https://doi.org/10.18060/28463
+
+
 Munn, Z., Pollock, D., Stone, J., Hasanoff, S., Gordon, A., **Price, C.,** Stark, M., & Barker, T. H. (2024). The impact of using cannabis during pregnancy on the infant and mother: An overview of systematic reviews, evidence map, targeted updates, and de novo synthesis. _The Australian & New Zealand Journal of Obstetrics & Gynaecology_. https://doi.org/10.1111/ajo.13916
 
 Farris, D. P., Lebo, R. A., & **Price, C.** (2024). Designing a framework for curriculum building in systematic review competencies for librarians: A case report. _Journal of the Medical Library Association_(4), 357–363. https://doi.org/10.5195/jmla.2024.1930 
@@ -231,6 +235,8 @@ Price, C. (2013). Virtual office hours at the Welch Medical Library [Presentatio
 <br>
 
 ## Protocols <a name="protocols"></a>
+
+Pollock, D., Marley, C., McBride, G., Dias, M., Kanukula, R., Hasanoff, S., **Price, C.**, Tieu, M., Montagu, A., Munn, Z., & Davies, E. (2025). Simulated clinical placements in health care education: A scoping review and evidence and gap map protocol. _JBI Evidence Synthesis_. https://doi.org/10.11124/JBIES-24-00298
 
  Kaurani, P., Hindocha, A., Porwal, A., Tambe, A., **Price, C.**, Goel, V., Krasner, H., Khubchandani, J., & Batra, K. (2024). Effect of addition of metal oxide nanoparticles on the strength of heat-cured denture dase resins: Protocol for systematic review and meta-analysis of in vitro studies. _JMIR Research Protocols, 13_. https://doi.org/10.2196/59999
 
