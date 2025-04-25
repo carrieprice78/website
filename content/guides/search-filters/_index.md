@@ -24,7 +24,6 @@ Please note that none of my posted searches have been validated. They are for yo
 
 ## Search Tools
 * [2Dsearch](https://app.2dsearch.com/): 2Dsearch is a radical alternative to conventional 'advanced search'. Instead of entering Boolean strings into one-dimensional search boxes, queries are formulated by combining objects on a two-dimensional canvas. This eliminates syntax errors, makes the query semantics more transparent, and offers a more effective way to optimize, save and share search strategies.
-* [BioReader](https://services.healthtech.dtu.dk/service.php?BioReader-1.2): BioReader can help you distill your reading list by ranking articles by relevance. Simply collect the PubMed IDs of a number of articles you found relevant and a similar number of articles not relevant to you. BioReader will provide you with a ranked reading list to limit the time wasted on reading irrelevant literature.
 * [Medrxivr](https://mcguinlu.shinyapps.io/medrxivr/): Medxrivr allows you to perform advanced search and batch export in Medrxiv. Documentation available at [Github](https://mcguinlu.github.io/medrxivr/index.html).
 * [MeSH Browser](https://meshb.nlm.nih.gov/): MeSH Browser shows you your preferred MeSH term, its permitted subheadings, related concepts, and tree structure.
 * [MeSH on Demand](https://meshb-prev.nlm.nih.gov/MeSHonDemand): MeSH on Demand allows users to enter text from a paragraph or abstract and return related MeSH terms.
