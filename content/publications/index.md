@@ -25,6 +25,9 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 ## Articles <a name="articles"></a>
 
 
+Price, C. (2025). Thank you for your service to the American public: A perspective from a fired federal worker. _The Political Librarian, 8 (Special Edition)_.
+https://doi.org/10.7936/pollib.9010 
+
 Lipke, L., & **Price, C.** (2025). Rethinking systematic review assignment design in graduate health science education from librarians’ perspectives. _Hypothesis: Research Journal for Health Information Professionals, 37_(1). https://doi.org/10.18060/28463
 
 
