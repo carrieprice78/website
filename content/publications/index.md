@@ -25,11 +25,20 @@ View my [ORCID](https://orcid.org/0000-0003-4345-3547).
 ## Articles <a name="articles"></a>
 
 
+Pimenta, K., Edwards, J., Ray, M., Naser, A. M., **Price, C.**, Idassi, O., Strong, K., Were, W., Piel, F. B., Hankins, J. S., & Smeltzer, M. (2026). Contemporary global burden of sickle cell anaemia under-5 and under-20: A systematic review and meta-analysis. _British Journal of Haematology_. https://doi.org/10.1111/bjh.70501
+
+Miller, M. J., Zarpak, R., Lee, P., Osterwind, Z., Lenz, M., Guevara, M. A., Fowler, S., **Price, C.**, Shields, T. C., Livinski, A. A., Conry-Cantilena, K., Stroncek, D. F., West-Mitchell, K., & De Giorgi, V. (2026). Alpha-gal sensitization and allergic blood transfusion reactions: a scoping review. _Journal of Translational Medicine, 24_(1), 325. https://doi.org/10.1186/s12967-025-07614-9
+
+Miller, M. J., **Price, C.**, Shields, T. C., Zarpak, R., Lee, P., Osterwind, Z., Lenz, M., Argueta Guevara, M., Fowler, S., Livinski, A. A., & De Giorgi, V. (2026). Alpha-gal sensitization and allergic transfusion reactions: a scoping review protocol. _Systematic Reviews, 15_(1), 109. https://doi.org/10.1186/s13643-026-03134-9
+
+Rethlefsen, M. L., **Price, C.**, & Schroter, S. (2025). Perspectives of librarians and information specialists on conducting methodological peer reviews of systematic reviews: a mixed-methods study. _BMJ Open, 15_(12). https://doi.org/10.1136/bmjopen-2025-109345
+
 Price, C. (2025). Thank you for your service to the American public: A perspective from a fired federal worker. _The Political Librarian, 8 (Special Edition)_.
 https://doi.org/10.7936/pollib.9010 
 
-Lipke, L., & **Price, C.** (2025). Rethinking systematic review assignment design in graduate health science education from librarians’ perspectives. _Hypothesis: Research Journal for Health Information Professionals, 37_(1). https://doi.org/10.18060/28463
+Pollock, D., Hasanoff, S., Barker, T. H., Clyne, B., Tricco, A. C., Booth, A., Godfrey, C., Khalil, H., Jia, R. M., Taneri, P. E., Saif-Ur-Rahman, K. M., Conway, T., Konstantinidis, M., Stratton, C., Edwards, D., Alexander, L., Carrier, J., Habibi, N., Zaccagnini, M., Stern, C., **Price, C.**, Munn, Z. (2026). Over 1000 terms have been used to describe evidence synthesis: a scoping review. _BMJ Evidence-Based Medicine, 31_(4), 221–231. https://doi.org/10.1136/bmjebm-2024-113391
 
+Lipke, L., & **Price, C.** (2025). Rethinking systematic review assignment design in graduate health science education from librarians’ perspectives. _Hypothesis: Research Journal for Health Information Professionals, 37_(1). https://doi.org/10.18060/28463
 
 Munn, Z., Pollock, D., Stone, J., Hasanoff, S., Gordon, A., **Price, C.,** Stark, M., & Barker, T. H. (2024). The impact of using cannabis during pregnancy on the infant and mother: An overview of systematic reviews, evidence map, targeted updates, and de novo synthesis. _The Australian & New Zealand Journal of Obstetrics & Gynaecology_. https://doi.org/10.1111/ajo.13916
 
@@ -163,9 +172,13 @@ Price, C. (2016). Resources for grading the evidence, appraisal, writing, and pu
 
 ## Instruction <a name="instruction"></a>
 
+Reynolds, J., Brigham, T. & **Price, C.** (2025). Syntax and Sensibility: Translating YOur Systematic Review Search [Instructor-led course; virtual]. Medical Library Association (MLA.)https://www.mlanet.org/courses/syntax-and-sensibility-translating-your-systematic-review-search/ 
+
+**Price, C.**, Farris, D., Lebo, R. (2025). Finding Your Competitive Hedge: Evaluating and Adapting Search Hedges [Instructor-led course; virtual]. Medical Library Association (MLA). https://www.mlanet.org/courses/finding-your-competitive-hedge-evaluating-and-adapting-search-hedges/ 
+
 **Price, C.**, Farris, D., Lebo, R. (2022-2023; ongoing). CE100: Essential searching skills for librarians on systematic review teams [Instructor-led course; virtual]. Medical Library Association (MLA).
 
-Price, C. (2022, November 7 and 8; 2024 Apr 2). Certificate course in evidence synthesis: Systematic review and meta-analysis. Searching for studies - development of search strategy for a systematic review and Grey literature search and practical on search (6 hrs) [Online course]. Public Health Evidence South Asia, Prasanna School of Public Health, Manipal Academy of Higher Education. 
+Price, C. (2022, November 7 and 8; 2024 Apr 2; 2025; 2026). Certificate course in evidence synthesis: Systematic review and meta-analysis. Searching for studies - development of search strategy for a systematic review and Grey literature search and practical on search (6 hrs) [Online course]. Public Health Evidence South Asia, Prasanna School of Public Health, Manipal Academy of Higher Education. 
 
 Price, C. (2022, May 13). Essential searching skills for librarians on systematic review teams [Webinar]. Ohio Health Sciences Library Association (OSHLA).
 
@@ -176,6 +189,8 @@ Price, C. (2022, May 13). Essential searching skills for librarians on systemati
 ## Podcasts <a name="podcasts"></a>
 
 Shields, T. & **Price, C.**. Medlibs Miscellany [Audio podcast series]. https://medlibsmiscellany.substack.com/
+
+Lankford, E. & **Price, C.** (2024 Apr 19). Care Partners Compass: Navigating CRC [Audio podcast episode]. https://carepartnerscompass.transistor.fm/episodes/s1ep8-finding-reliable-medical-information-online/transcript
 
 Kamat, P., Damania, R., **Price, C.** (Hosts). (2021 July 4). Episode 20: Value of the librarian in PedsICU Education. [Audio podcast episode]. In *PICU Doc on Call*. https://picudoconcall.org/episodes/20/
 

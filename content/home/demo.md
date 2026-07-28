@@ -51,7 +51,9 @@ subtitle = ""
  css_class = ""
 +++
 
-I'm a skilled information specialist, expert searcher, and clinical medical librarian committed to enhancing the foundations and reporting of research. With expertise in evidence synthesis methods and health research, I have provided support to researchers and healthcare professionals alike throughout the research lifecycle. As an experienced instructor, I excel at translating complex information into clear, accessible content that learners understand. Additionally, my proficiency in information architecture, instructional technology, file management, and document accessibility gives me a well-rounded and versatile skill set for many types of work.
+I'm a skilled information specialist, expert searcher, medical and toxicology librarian committed to enhancing the foundations and reporting of research. With expertise in evidence synthesis methods and health research, I have provided support to researchers and healthcare professionals alike throughout the research lifecycle. 
+
+I am no longer accepting additional consultations or collaborations. I reserve Peer Review of Electronic Search Strategies (PRESS) work for other librarians and information specialist professionals.
 
 
 
