@@ -60,10 +60,11 @@ I am no longer accepting additional consultations or collaborations. I reserve P
 * [Bluesky](https://bsky.app/profile/carrieprice.bsky.social)
 * [Buy Me a Coffee](https://ko-fi.com/carrieprice78) 
 * [LinkedIn](https://www.linkedin.com/in/carrieprice78/)
-* [Medlibs Miscellany Podcast](https://medlibsmiscellany.substack.com/)
 * [ORCID](https://orcid.org/0000-0003-4345-3547)
+* [PRISMA-Search Auto-Reviewer](https://claude.ai/public/artifacts/6cf8aaf0-c3ab-42e6-aec4-339a9df6992e) -- needs a free Claude account
 * [Resource Guides](https://carrieprice78.github.io/guides/)
 * [YouTube Channel](https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw)
+
 
 
 
