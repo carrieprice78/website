@@ -64,6 +64,7 @@ I am no longer accepting additional consultations or collaborations. I reserve P
 * [PubMed Search Checker](https://claude.ai/public/artifacts/49a6bb2c-c48f-42e2-b057-1a2c97848e2d) -- requires a Claude account
 * [PRISMA-Search Auto-Reviewer](https://claude.ai/public/artifacts/6cf8aaf0-c3ab-42e6-aec4-339a9df6992e) -- requires a Claude account
 * [Resource Guides](https://carrieprice78.github.io/guides/)
+* [Term Harvester](https://claude.ai/public/artifacts/635b083b-d0cc-4dfb-b3b5-9223ce61fc34) -- requires a Claude account
 * [YouTube Channel](https://www.youtube.com/channel/UCMqAATLPshn8Znip6E3QMSw)
 
 
