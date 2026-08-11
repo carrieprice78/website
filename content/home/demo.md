@@ -55,7 +55,7 @@ I'm a skilled information specialist, expert searcher, medical and toxicology li
 
 I am no longer accepting additional consultations or collaborations. I reserve Peer Review of Electronic Search Strategies (PRESS) work for other librarians and information specialist professionals.
 
-CORN CORN
+
 
 * [Bluesky](https://bsky.app/profile/carrieprice.bsky.social)
 * [Buy Me a Coffee](https://ko-fi.com/carrieprice78) 
